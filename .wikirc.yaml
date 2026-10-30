@@ -1,0 +1,8 @@
+llm:
+  provider: openai
+  model: llama3.2:3b
+  apiKey: ollama
+  baseUrl: http://127.0.0.1:11434/v1
+  temperature: 0.2
+  thinking:
+    type: disabled
