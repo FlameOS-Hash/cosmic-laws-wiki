@@ -1,0 +1,6 @@
+title: Cosmic Laws Wiki
+description: Deterministic public publication of the Cosmic Laws registry
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md

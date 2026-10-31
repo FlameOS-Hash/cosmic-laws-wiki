@@ -1,0 +1,124 @@
+:root {
+  color-scheme: light dark;
+  --bg: #111;
+  --panel: #191919;
+  --text: #f3f3f3;
+  --muted: #aaa;
+  --line: #333;
+  --accent: #ddd;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+}
+
+.shell {
+  width: min(1100px, calc(100% - 2rem));
+  margin-inline: auto;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.site-header .shell {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 64px;
+  gap: 1rem;
+}
+
+.brand {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+.content {
+  padding-block: 2.5rem 5rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .4rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+th, td {
+  border: 1px solid var(--line);
+  padding: .5rem .7rem;
+  vertical-align: top;
+}
+
+code {
+  overflow-wrap: anywhere;
+}
+
+.record-nav,
+.record-source,
+.search-count {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+.record-source {
+  border-top: 1px solid var(--line);
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+.search-input {
+  width: 100%;
+  font: inherit;
+  padding: .9rem 1rem;
+  margin: 1rem 0 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.search-result {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.search-result h3 {
+  margin: 0 0 .3rem;
+}
+
+.search-result p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.footer {
+  color: var(--muted);
+  border-top: 1px solid var(--line);
+  padding-block: 1.5rem 3rem;
+}
