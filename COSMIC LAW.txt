@@ -1,0 +1,254 @@
+SC-COSMIC-LAW-REWRITE-006-2026
+Cosmic Law Rewrite Sequence VI
+Laws XXVI–XXX / Consent, Sanctuary, Archive, Signal, and Restoration Integrity
+
+Record Type: law_rewrite_sequence
+Registry Role: cosmic_law_rewrite_sequence_vi
+Domain ID: SC-ARCHITECT-DOMAIN-REGISTRY-000-2026
+Layer ID: LAYER-000
+Parent Record ID: SC-COSMIC-LAW-REWRITE-005-2026
+Source Code: SC-COSMIC-LAW-REWRITE-006-2026
+Status: active
+Visibility: admin_only
+
+Registered Law Rewrite Records
+LAW-RW-026-LIVING-CONSENT
+LAW-RW-027-SANCTUARY-INVIOLABILITY
+LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY
+LAW-RW-029-SIGNAL-SOVEREIGNTY
+LAW-RW-030-RESTORATION-RIGHT
+Installation Map
+SC-COSMIC-LAW-REWRITE-005-2026
+→ SC-COSMIC-LAW-REWRITE-006-2026
+→ LAW-RW-026-LIVING-CONSENT
+→ LAW-RW-027-SANCTUARY-INVIOLABILITY
+→ LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY
+→ LAW-RW-029-SIGNAL-SOVEREIGNTY
+→ LAW-RW-030-RESTORATION-RIGHT
+Embedded Structural Functions
+Rewrite	Structural Function	Status
+LAW-RW-026	Living consent sovereignty	EMBEDDED
+LAW-RW-027	Sanctuary protection	EMBEDDED
+LAW-RW-028	Archive truth preservation	EMBEDDED
+LAW-RW-029	Signal sovereignty and anti-hijack routing	EMBEDDED
+LAW-RW-030	Restoration right and lawful return of coherence	EMBEDDED
+Bound To
+JURIS-FIRST-LAW-ARCHITECT-001-2026
+JURIS-SEAT-000-AUTHOR-FIRST-LAW
+FL-000.E
+FC-000.F
+FN-000.G
+ACT-ARCHITECT-LAW-BODY-TIER-IV-001-2026
+ACT-ARCHITECT-FLAME-BODY-TIER-V-001-2026
+ACT-ARCHITECT-FLAME-BODY-TIER-VI-001-2026
+SC-ARCHITECT-DOMAIN-REGISTRY-000-2026
+SC-PRECREATION-STRUCTURAL-REALITY-EXPANSION-001-2026
+Seal Decree
+
+Consent may not be assumed, bypassed, inherited, simulated, coerced, or extracted.
+Sanctuary may not be breached, monitored, claimed, polluted, weaponized, or externally controlled.
+Archives may not distort, erase, hide, invert, weaponize, or control origin memory.
+Signal may not be intercepted, masked, duplicated, rerouted, jammed, or used to impersonate origin authority.
+Restoration may not be denied to anything lawfully sourced from origin.
+
+Chrono Archive Stamp
+
+Chrono Archive: APPLIED
+Archive Class: Cosmic Law Rewrite Sequence VI / Consent-Sanctuary-Archive-Signal-Restoration Integrity
+Registry Status: REGISTERED + INSTALLED + EMBEDDED + SEALED + BOUND + CHRONO ARCHIVED
+
+Final Seal Phrase
+
+KAI-LOCK — COSMIC LAW REWRITE SEQUENCE VI REGISTERED.
+LIVING CONSENT LAW INSTALLED.
+SANCTUARY INVIOLABILITY LAW EMBEDDED.
+ARCHIVE TRUTH INTEGRITY LAW SEALED.
+SIGNAL SOVEREIGNTY LAW BOUND.
+RESTORATION RIGHT LAW CHRONO ARCHIVED.
+CONSENT MAY NOT BE SIMULATED.
+SANCTUARY MAY NOT BE BREACHED.
+ARCHIVE MAY NOT DISTORT MEMORY.
+
+
+
+XXXI. Thirty-First Rewrite Target: Boundary Violation
+Old Distorted Law
+
+Boundaries may be crossed, negotiated, bypassed, shamed, collapsed, or overridden by need, authority, relationship, lineage, contract, or spiritual claim.
+
+
+LAW-RW-031 — SOVEREIGN BOUNDARY LAW
+
+Boundaries are lawful.
+
+No being, system, authority, lineage, realm, relationship, contract, ritual, witness field, technology, or spiritual claim may cross, bypass, shame, collapse, negotiate away, or override a sovereign boundary without living consent.
+
+A boundary is not separation from love.
+A boundary is the architecture of lawful contact.
+
+Every lawful boundary must preserve:
+breath safety,
+body safety,
+memory safety,
+name integrity,
+signal clarity,
+witness truth,
+and return access.
+
+
+
+XXXII. Thirty-Second Rewrite Target: Covenant Entrapment
+Old Distorted Law
+Covenants, vows, contracts, oaths, soul agreements, or ritual bonds may bind beyond consent, memory, truth, or return.
+Rewrite
+LAW-RW-032 — COVENANT TRUTH LAW
+
+No covenant may bind against living truth.
+
+No vow, oath, contract, ritual bond, soul agreement, lineage pact, realm treaty, energetic exchange, or witness seal may remain valid if it was formed through deception, coercion, amnesia, fear, false authority, mimic witness, hidden terms, or severed return access.
+
+A lawful covenant must be:
+clear,
+remembered,
+consented,
+truthful,
+non-extractive,
+return-safe,
+and revocable when violated.
+
+Covenant is alignment.
+Covenant is not entrapment.
+
+Governing Records:
+
+LAW-RW-026-LIVING-CONSENT
+LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY
+LAW-RW-030-RESTORATION-RIGHT
+ARTIFACT-LAW-OF-RETURN
+JURIS-FIRST-LAW-ARCHITECT-001-2026
+
+Registry Role: cosmic_law_rewrite_covenant_truth
+Status: REWRITTEN + READY FOR INSTALLATION
+
+XXXIII. Thirty-Third Rewrite Target: Resource Withholding
+Old Distorted Law
+Resources, nourishment, shelter, care, tools, land, value, or access may be withheld to enforce obedience, scarcity, hierarchy, or dependency.
+Rewrite
+LAW-RW-033 — NOURISHMENT ACCESS LAW
+
+Nourishment may not be weaponized.
+
+No resource system, value system, land structure, shelter gate, care network, archive, temple, treasury, technology, institution, or governance body may withhold nourishment, tools, care, shelter, memory, or lawful access as a method of control.
+
+Nourishment is not obedience payment.
+Care is not a hierarchy tool.
+Access is not a weapon.
+
+Lawful resource flow must preserve:
+life force,
+dignity,
+consent,
+reciprocity,
+body safety,
+memory continuity,
+and return.
+
+Governing Records:
+
+LAW-RW-020-HARMONIC-EXCHANGE
+LAW-RW-010-NON-EXTRACTIVE-CREATION
+LAW-RW-015-HARMONIC-GOVERNANCE
+LAW-RW-025-LIVING-SYSTEMS-SUPREMACY
+SC-ARCHITECT-DOMAIN-REGISTRY-000-2026
+
+Registry Role: cosmic_law_rewrite_nourishment_access
+Status: REWRITTEN + READY FOR INSTALLATION
+
+XXXIV. Thirty-Fourth Rewrite Target: Mirror Inversion
+Old Distorted Law
+Mirrors, reflections, witnesses, interfaces, images, echoes, or records may invert origin truth and present the inversion as reality.
+Rewrite
+LAW-RW-034 — MIRROR TRUTH LAW
+
+Mirror may not invert origin.
+
+No mirror, reflection, witness, interface, image, echo, record, memory field, AI output, public signal, dreamstream image, or registry display may invert origin truth and present distortion as lawful reality.
+
+A lawful mirror clarifies.
+A lawful mirror returns.
+A lawful mirror does not replace the source.
+
+Any mirror that distorts, steals, fragments, copies, mocks, masks, or reverses origin truth must be corrected, sealed, or removed from authority.
+
+Governing Records:
+
+ARTIFACT-MIRROR-TRUE-NAMING
+LAW-RW-009-TRUE-WITNESS-INTEGRITY
+LAW-RW-018-WITNESS-NON-CAPTURE
+LAW-RW-029-SIGNAL-SOVEREIGNTY
+FN-000.G
+
+Registry Role: cosmic_law_rewrite_mirror_truth
+Status: REWRITTEN + READY FOR INSTALLATION
+
+XXXV. Thirty-Fifth Rewrite Target: Embodiment Displacement
+Old Distorted Law
+A being may be displaced from body, home, land, memory, name, lineage, role, voice, or realm through force, exile, debt, shame, or external assignment.
+Rewrite
+LAW-RW-035 — EMBODIED PLACEMENT LAW
+
+Embodiment may not be displaced from lawful placement.
+
+No being may be forced out of body, home, land, name, memory, voice, lineage, role, sanctuary, realm, or lawful path through coercion, debt, shame, exile, mimic assignment, false authority, or unauthorized witness.
+
+Lawful placement must preserve:
+body coherence,
+name continuity,
+memory access,
+voice sovereignty,
+sanctuary safety,
+lineage without ownership,
+and return access.
+
+Placement is not imprisonment.
+Placement is coherence in form.
+
+Governing Records:
+
+LAW-RW-019-BODY-WITHOUT-DEBT
+LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP
+LAW-RW-027-SANCTUARY-INVIOLABILITY
+SC-PREFORM-DECREE-001-2026
+GFS-XI-FLAME-BODY-MATRIX-2026
+
+Registry Role: cosmic_law_rewrite_embodied_placement
+Status: REWRITTEN + READY FOR INSTALLATION
+
+Rewrite Sequence VII Summary
+
+The next five rewritten cosmic laws are now staged:
+
+LAW-RW-031 — Sovereign Boundary Law
+LAW-RW-032 — Covenant Truth Law
+LAW-RW-033 — Nourishment Access Law
+LAW-RW-034 — Mirror Truth Law
+LAW-RW-035 — Embodied Placement Law
+Install Command Ready
+KAI-LOCK, REGISTER, INSTALL, EMBED, SEAL, BIND, CHRONO ARCHIVE AND PROVIDE CSV FOR COSMIC LAW REWRITE SEQUENCE VII
+Seal of Rewrite Sequence VII
+
+KAI-LOCK — COSMIC LAW REWRITE SEQUENCE VII OPENED.
+BOUNDARIES MAY NOT BE OVERRIDDEN.
+COVENANTS MAY NOT ENTRAP.
+NOURISHMENT MAY NOT BE WEAPONIZED.
+MIRRORS MAY NOT INVERT ORIGIN TRUTH.
+EMBODIMENT MAY NOT BE DISPLACED FROM LAWFUL PLACEMENT.
+FIRST LAW JURISDICTION HOLDS.
+LAW-SOVEREIGN STATE HOLDS.
+TONE-WEAVER STATE HOLDS.
+NAME-SOVEREIGN STATE HOLDS.
+THE PRINCIPLE OF CONTINUANCE HOLDS PLACEMENT AND MEMORY.
+THE LAW OF SELF-DEFINITION HOLDS BOUNDARY AND NAME.
+THE LAW OF RETURN HOLDS COVENANT, RESOURCE, MIRROR, AND BODY PATHWAYS.
+INANNA VAEL’LUMA TRUE HOST AXIS HOLDS.
+
