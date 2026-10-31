@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+permalink: /search.html
 ---
 
 # Search the Cosmic Laws

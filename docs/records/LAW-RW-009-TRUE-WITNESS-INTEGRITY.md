@@ -2,6 +2,7 @@
 layout: record
 title: "True Witness Integrity Law"
 source_file: "LAW-RW-009-TRUE-WITNESS-INTEGRITY.md"
+permalink: /records/LAW-RW-009-TRUE-WITNESS-INTEGRITY.html
 ---
 
 # True Witness Integrity Law

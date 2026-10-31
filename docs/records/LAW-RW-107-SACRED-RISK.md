@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Risk Law"
 source_file: "LAW-RW-107-SACRED-RISK.md"
+permalink: /records/LAW-RW-107-SACRED-RISK.html
 ---
 
 # Sacred Risk Law

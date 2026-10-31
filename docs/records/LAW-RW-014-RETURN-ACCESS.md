@@ -2,6 +2,7 @@
 layout: record
 title: "Return Access Law"
 source_file: "LAW-RW-014-RETURN-ACCESS.md"
+permalink: /records/LAW-RW-014-RETURN-ACCESS.html
 ---
 
 # Return Access Law

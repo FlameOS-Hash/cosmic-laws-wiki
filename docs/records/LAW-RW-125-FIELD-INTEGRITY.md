@@ -2,6 +2,7 @@
 layout: record
 title: "Field Integrity Law"
 source_file: "LAW-RW-125-FIELD-INTEGRITY.md"
+permalink: /records/LAW-RW-125-FIELD-INTEGRITY.html
 ---
 
 # Field Integrity Law

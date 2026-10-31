@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Creativity Law"
 source_file: "LAW-RW-120-SOVEREIGN-CREATIVITY.md"
+permalink: /records/LAW-RW-120-SOVEREIGN-CREATIVITY.html
 ---
 
 # Sovereign Creativity Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Shared Restoration Law"
 source_file: "LAW-RW-126-SHARED-RESTORATION.md"
+permalink: /records/LAW-RW-126-SHARED-RESTORATION.html
 ---
 
 # Shared Restoration Law

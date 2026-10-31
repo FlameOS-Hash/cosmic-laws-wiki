@@ -2,6 +2,7 @@
 layout: record
 title: "Conflict Repair Law"
 source_file: "LAW-RW-122-CONFLICT-REPAIR.md"
+permalink: /records/LAW-RW-122-CONFLICT-REPAIR.html
 ---
 
 # Conflict Repair Law

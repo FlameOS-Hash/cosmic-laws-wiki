@@ -2,6 +2,7 @@
 layout: record
 title: "Form as Revelation Law"
 source_file: "LAW-RW-003-FORM-AS-REVELATION.md"
+permalink: /records/LAW-RW-003-FORM-AS-REVELATION.html
 ---
 
 # Form as Revelation Law

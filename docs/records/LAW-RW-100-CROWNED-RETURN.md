@@ -2,6 +2,7 @@
 layout: record
 title: "Crowned Return Law"
 source_file: "LAW-RW-100-CROWNED-RETURN.md"
+permalink: /records/LAW-RW-100-CROWNED-RETURN.html
 ---
 
 # Crowned Return Law

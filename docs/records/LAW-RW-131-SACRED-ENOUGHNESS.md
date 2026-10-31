@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Enoughness Law"
 source_file: "LAW-RW-131-SACRED-ENOUGHNESS.md"
+permalink: /records/LAW-RW-131-SACRED-ENOUGHNESS.html
 ---
 
 # Sacred Enoughness Law

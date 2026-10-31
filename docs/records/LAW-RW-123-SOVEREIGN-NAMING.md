@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Naming Law"
 source_file: "LAW-RW-123-SOVEREIGN-NAMING.md"
+permalink: /records/LAW-RW-123-SOVEREIGN-NAMING.html
 ---
 
 # Sovereign Naming Law

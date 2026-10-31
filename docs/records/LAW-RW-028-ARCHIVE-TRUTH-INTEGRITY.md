@@ -2,6 +2,7 @@
 layout: record
 title: "Archive Truth Integrity Law"
 source_file: "LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.md"
+permalink: /records/LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.html
 ---
 
 # Archive Truth Integrity Law

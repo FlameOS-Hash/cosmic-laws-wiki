@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Learning Law"
 source_file: "LAW-RW-044-SOVEREIGN-LEARNING.md"
+permalink: /records/LAW-RW-044-SOVEREIGN-LEARNING.html
 ---
 
 # Sovereign Learning Law

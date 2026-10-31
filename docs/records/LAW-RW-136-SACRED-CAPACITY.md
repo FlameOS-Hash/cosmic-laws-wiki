@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Capacity Law"
 source_file: "LAW-RW-136-SACRED-CAPACITY.md"
+permalink: /records/LAW-RW-136-SACRED-CAPACITY.html
 ---
 
 # Sacred Capacity Law

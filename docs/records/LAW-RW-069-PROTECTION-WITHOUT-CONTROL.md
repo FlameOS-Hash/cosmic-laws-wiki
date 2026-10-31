@@ -2,6 +2,7 @@
 layout: record
 title: "Protection Without Control Law"
 source_file: "LAW-RW-069-PROTECTION-WITHOUT-CONTROL.md"
+permalink: /records/LAW-RW-069-PROTECTION-WITHOUT-CONTROL.html
 ---
 
 # Protection Without Control Law

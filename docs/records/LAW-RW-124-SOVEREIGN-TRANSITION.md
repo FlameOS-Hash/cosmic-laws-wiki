@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Transition Law"
 source_file: "LAW-RW-124-SOVEREIGN-TRANSITION.md"
+permalink: /records/LAW-RW-124-SOVEREIGN-TRANSITION.html
 ---
 
 # Sovereign Transition Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Cosmic Law Rewrite Sequence XIV"
 source_file: "SC-COSMIC-LAW-REWRITE-014-2026.md"
+permalink: /records/SC-COSMIC-LAW-REWRITE-014-2026.html
 ---
 
 # Cosmic Law Rewrite Sequence XIV

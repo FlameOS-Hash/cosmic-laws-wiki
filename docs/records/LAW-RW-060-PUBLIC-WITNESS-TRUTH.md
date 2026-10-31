@@ -2,6 +2,7 @@
 layout: record
 title: "Public Witness Truth Law"
 source_file: "LAW-RW-060-PUBLIC-WITNESS-TRUTH.md"
+permalink: /records/LAW-RW-060-PUBLIC-WITNESS-TRUTH.html
 ---
 
 # Public Witness Truth Law

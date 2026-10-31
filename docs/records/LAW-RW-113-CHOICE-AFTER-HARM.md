@@ -2,6 +2,7 @@
 layout: record
 title: "Choice After Harm Law"
 source_file: "LAW-RW-113-CHOICE-AFTER-HARM.md"
+permalink: /records/LAW-RW-113-CHOICE-AFTER-HARM.html
 ---
 
 # Choice After Harm Law

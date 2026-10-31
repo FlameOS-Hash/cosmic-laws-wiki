@@ -2,6 +2,7 @@
 layout: record
 title: "Body Image Truth Law"
 source_file: "LAW-RW-073-BODY-IMAGE-TRUTH.md"
+permalink: /records/LAW-RW-073-BODY-IMAGE-TRUTH.html
 ---
 
 # Body Image Truth Law

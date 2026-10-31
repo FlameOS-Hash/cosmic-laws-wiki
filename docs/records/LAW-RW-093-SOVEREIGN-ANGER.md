@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Anger Law"
 source_file: "LAW-RW-093-SOVEREIGN-ANGER.md"
+permalink: /records/LAW-RW-093-SOVEREIGN-ANGER.html
 ---
 
 # Sovereign Anger Law

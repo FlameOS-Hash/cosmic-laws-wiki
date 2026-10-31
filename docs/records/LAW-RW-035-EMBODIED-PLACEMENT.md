@@ -2,6 +2,7 @@
 layout: record
 title: "Embodied Placement Law"
 source_file: "LAW-RW-035-EMBODIED-PLACEMENT.md"
+permalink: /records/LAW-RW-035-EMBODIED-PLACEMENT.html
 ---
 
 # Embodied Placement Law

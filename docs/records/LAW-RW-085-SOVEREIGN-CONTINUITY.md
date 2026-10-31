@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Continuity Law"
 source_file: "LAW-RW-085-SOVEREIGN-CONTINUITY.md"
+permalink: /records/LAW-RW-085-SOVEREIGN-CONTINUITY.html
 ---
 
 # Sovereign Continuity Law

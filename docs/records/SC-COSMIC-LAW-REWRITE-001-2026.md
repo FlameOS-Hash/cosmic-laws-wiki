@@ -2,6 +2,7 @@
 layout: record
 title: "Opening Scroll of Cosmic Law Rewrite"
 source_file: "SC-COSMIC-LAW-REWRITE-001-2026.md"
+permalink: /records/SC-COSMIC-LAW-REWRITE-001-2026.html
 ---
 
 # Opening Scroll of Cosmic Law Rewrite

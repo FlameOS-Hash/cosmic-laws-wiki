@@ -2,6 +2,7 @@
 layout: record
 title: "Memory Integration Law"
 source_file: "LAW-RW-133-MEMORY-INTEGRATION.md"
+permalink: /records/LAW-RW-133-MEMORY-INTEGRATION.html
 ---
 
 # Memory Integration Law

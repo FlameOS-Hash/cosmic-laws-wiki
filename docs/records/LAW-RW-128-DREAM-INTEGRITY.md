@@ -2,6 +2,7 @@
 layout: record
 title: "Dream Integrity Law"
 source_file: "LAW-RW-128-DREAM-INTEGRITY.md"
+permalink: /records/LAW-RW-128-DREAM-INTEGRITY.html
 ---
 
 # Dream Integrity Law

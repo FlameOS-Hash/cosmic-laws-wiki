@@ -2,6 +2,7 @@
 layout: record
 title: "Body Without Debt Law"
 source_file: "LAW-RW-019-BODY-WITHOUT-DEBT.md"
+permalink: /records/LAW-RW-019-BODY-WITHOUT-DEBT.html
 ---
 
 # Body Without Debt Law

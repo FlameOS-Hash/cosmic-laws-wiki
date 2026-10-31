@@ -2,6 +2,7 @@
 layout: record
 title: "Legacy Without Ownership Law"
 source_file: "LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.md"
+permalink: /records/LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.html
 ---
 
 # Legacy Without Ownership Law

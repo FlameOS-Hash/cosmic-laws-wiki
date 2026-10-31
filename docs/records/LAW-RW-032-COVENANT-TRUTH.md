@@ -2,6 +2,7 @@
 layout: record
 title: "Covenant Truth Law"
 source_file: "LAW-RW-032-COVENANT-TRUTH.md"
+permalink: /records/LAW-RW-032-COVENANT-TRUTH.html
 ---
 
 # Covenant Truth Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Speech Law"
 source_file: "LAW-RW-077-SACRED-SPEECH.md"
+permalink: /records/LAW-RW-077-SACRED-SPEECH.html
 ---
 
 # Sacred Speech Law

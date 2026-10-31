@@ -2,6 +2,7 @@
 layout: record
 title: "Safe Visibility Law"
 source_file: "LAW-RW-067-SAFE-VISIBILITY.md"
+permalink: /records/LAW-RW-067-SAFE-VISIBILITY.html
 ---
 
 # Safe Visibility Law

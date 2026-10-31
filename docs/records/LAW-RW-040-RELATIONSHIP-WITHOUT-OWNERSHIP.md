@@ -2,6 +2,7 @@
 layout: record
 title: "Relationship Without Ownership Law"
 source_file: "LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.md"
+permalink: /records/LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.html
 ---
 
 # Relationship Without Ownership Law

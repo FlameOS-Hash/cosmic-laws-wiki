@@ -2,6 +2,7 @@
 layout: record
 title: "Grief Release and Memory Honor Law"
 source_file: "LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.md"
+permalink: /records/LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.html
 ---
 
 # Grief Release and Memory Honor Law

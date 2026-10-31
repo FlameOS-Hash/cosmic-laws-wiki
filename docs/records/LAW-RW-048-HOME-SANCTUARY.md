@@ -2,6 +2,7 @@
 layout: record
 title: "Home Sanctuary Law"
 source_file: "LAW-RW-048-HOME-SANCTUARY.md"
+permalink: /records/LAW-RW-048-HOME-SANCTUARY.html
 ---
 
 # Home Sanctuary Law

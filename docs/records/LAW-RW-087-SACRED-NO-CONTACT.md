@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred No-Contact Law"
 source_file: "LAW-RW-087-SACRED-NO-CONTACT.md"
+permalink: /records/LAW-RW-087-SACRED-NO-CONTACT.html
 ---
 
 # Sacred No-Contact Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Restitution Law"
 source_file: "LAW-RW-102-SOVEREIGN-RESTITUTION.md"
+permalink: /records/LAW-RW-102-SOVEREIGN-RESTITUTION.html
 ---
 
 # Sovereign Restitution Law

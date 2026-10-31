@@ -2,6 +2,7 @@
 layout: record
 title: "Rest Sovereignty Law"
 source_file: "LAW-RW-036-REST-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-036-REST-SOVEREIGNTY.html
 ---
 
 # Rest Sovereignty Law

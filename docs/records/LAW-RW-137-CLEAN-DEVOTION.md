@@ -2,6 +2,7 @@
 layout: record
 title: "Clean Devotion Law"
 source_file: "LAW-RW-137-CLEAN-DEVOTION.md"
+permalink: /records/LAW-RW-137-CLEAN-DEVOTION.html
 ---
 
 # Clean Devotion Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Work Without Identity Capture Law"
 source_file: "LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.md"
+permalink: /records/LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.html
 ---
 
 # Work Without Identity Capture Law

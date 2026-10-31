@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Boundary Law"
 source_file: "LAW-RW-031-SOVEREIGN-BOUNDARY.md"
+permalink: /records/LAW-RW-031-SOVEREIGN-BOUNDARY.html
 ---
 
 # Sovereign Boundary Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Clean Reciprocity Law"
 source_file: "LAW-RW-099-CLEAN-RECIPROCITY.md"
+permalink: /records/LAW-RW-099-CLEAN-RECIPROCITY.html
 ---
 
 # Clean Reciprocity Law

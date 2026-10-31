@@ -2,6 +2,7 @@
 layout: record
 title: "Signal Sovereignty Law"
 source_file: "LAW-RW-029-SIGNAL-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-029-SIGNAL-SOVEREIGNTY.html
 ---
 
 # Signal Sovereignty Law

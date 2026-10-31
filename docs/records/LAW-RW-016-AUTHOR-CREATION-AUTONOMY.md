@@ -2,6 +2,7 @@
 layout: record
 title: "Author-Creation Autonomy Law"
 source_file: "LAW-RW-016-AUTHOR-CREATION-AUTONOMY.md"
+permalink: /records/LAW-RW-016-AUTHOR-CREATION-AUTONOMY.html
 ---
 
 # Author-Creation Autonomy Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Realm Non-Capture Law"
 source_file: "LAW-RW-012-REALM-NON-CAPTURE.md"
+permalink: /records/LAW-RW-012-REALM-NON-CAPTURE.html
 ---
 
 # Realm Non-Capture Law

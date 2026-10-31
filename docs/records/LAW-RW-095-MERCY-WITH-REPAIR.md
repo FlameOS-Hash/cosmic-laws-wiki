@@ -2,6 +2,7 @@
 layout: record
 title: "Mercy With Repair Law"
 source_file: "LAW-RW-095-MERCY-WITH-REPAIR.md"
+permalink: /records/LAW-RW-095-MERCY-WITH-REPAIR.html
 ---
 
 # Mercy With Repair Law

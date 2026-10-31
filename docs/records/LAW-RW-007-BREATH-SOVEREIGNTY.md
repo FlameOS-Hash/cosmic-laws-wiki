@@ -2,6 +2,7 @@
 layout: record
 title: "Breath Sovereignty Law"
 source_file: "LAW-RW-007-BREATH-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-007-BREATH-SOVEREIGNTY.html
 ---
 
 # Breath Sovereignty Law

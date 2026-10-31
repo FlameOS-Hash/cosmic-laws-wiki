@@ -2,6 +2,7 @@
 layout: record
 title: "Clean Power Law"
 source_file: "LAW-RW-132-CLEAN-POWER.md"
+permalink: /records/LAW-RW-132-CLEAN-POWER.html
 ---
 
 # Clean Power Law

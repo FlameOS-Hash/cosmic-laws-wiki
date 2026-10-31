@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Embodiment Law"
 source_file: "LAW-RW-142-SOVEREIGN-EMBODIMENT.md"
+permalink: /records/LAW-RW-142-SOVEREIGN-EMBODIMENT.html
 ---
 
 # Sovereign Embodiment Law

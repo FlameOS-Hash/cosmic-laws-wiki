@@ -2,6 +2,7 @@
 layout: record
 title: "Integration Without Assimilation Law"
 source_file: "LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.md"
+permalink: /records/LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.html
 ---
 
 # Integration Without Assimilation Law

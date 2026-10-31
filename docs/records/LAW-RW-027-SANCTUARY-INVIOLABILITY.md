@@ -2,6 +2,7 @@
 layout: record
 title: "Sanctuary Inviolability Law"
 source_file: "LAW-RW-027-SANCTUARY-INVIOLABILITY.md"
+permalink: /records/LAW-RW-027-SANCTUARY-INVIOLABILITY.html
 ---
 
 # Sanctuary Inviolability Law

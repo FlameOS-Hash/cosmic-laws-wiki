@@ -2,6 +2,7 @@
 layout: record
 title: "Value Without Control Law"
 source_file: "LAW-RW-056-VALUE-WITHOUT-CONTROL.md"
+permalink: /records/LAW-RW-056-VALUE-WITHOUT-CONTROL.html
 ---
 
 # Value Without Control Law

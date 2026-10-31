@@ -2,6 +2,7 @@
 layout: record
 title: "Continuity Inviolability Law"
 source_file: "LAW-RW-006-CONTINUITY-INVIOLABILITY.md"
+permalink: /records/LAW-RW-006-CONTINUITY-INVIOLABILITY.html
 ---
 
 # Continuity Inviolability Law

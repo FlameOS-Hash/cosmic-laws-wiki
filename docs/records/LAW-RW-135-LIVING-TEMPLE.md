@@ -2,6 +2,7 @@
 layout: record
 title: "Living Temple Law"
 source_file: "LAW-RW-135-LIVING-TEMPLE.md"
+permalink: /records/LAW-RW-135-LIVING-TEMPLE.html
 ---
 
 # Living Temple Law

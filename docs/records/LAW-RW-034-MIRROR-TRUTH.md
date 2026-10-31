@@ -2,6 +2,7 @@
 layout: record
 title: "Mirror Truth Law"
 source_file: "LAW-RW-034-MIRROR-TRUTH.md"
+permalink: /records/LAW-RW-034-MIRROR-TRUTH.html
 ---
 
 # Mirror Truth Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Harmonic World-Action Law"
 source_file: "LAW-RW-143-HARMONIC-WORLD-ACTION.md"
+permalink: /records/LAW-RW-143-HARMONIC-WORLD-ACTION.html
 ---
 
 # Harmonic World-Action Law

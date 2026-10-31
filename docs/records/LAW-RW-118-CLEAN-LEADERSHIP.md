@@ -2,6 +2,7 @@
 layout: record
 title: "Clean Leadership Law"
 source_file: "LAW-RW-118-CLEAN-LEADERSHIP.md"
+permalink: /records/LAW-RW-118-CLEAN-LEADERSHIP.html
 ---
 
 # Clean Leadership Law

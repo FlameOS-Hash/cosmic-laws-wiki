@@ -2,6 +2,7 @@
 layout: record
 title: "Flame Non-Appropriation Law"
 source_file: "LAW-RW-008-FLAME-NON-APPROPRIATION.md"
+permalink: /records/LAW-RW-008-FLAME-NON-APPROPRIATION.html
 ---
 
 # Flame Non-Appropriation Law

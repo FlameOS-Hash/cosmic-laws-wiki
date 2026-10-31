@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Refusal Law"
 source_file: "LAW-RW-055-SACRED-REFUSAL.md"
+permalink: /records/LAW-RW-055-SACRED-REFUSAL.html
 ---
 
 # Sacred Refusal Law

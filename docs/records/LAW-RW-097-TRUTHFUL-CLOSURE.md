@@ -2,6 +2,7 @@
 layout: record
 title: "Truthful Closure Law"
 source_file: "LAW-RW-097-TRUTHFUL-CLOSURE.md"
+permalink: /records/LAW-RW-097-TRUTHFUL-CLOSURE.html
 ---
 
 # Truthful Closure Law

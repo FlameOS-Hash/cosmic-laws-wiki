@@ -2,6 +2,7 @@
 layout: record
 title: "Memory Return Law"
 source_file: "LAW-RW-076-MEMORY-RETURN.md"
+permalink: /records/LAW-RW-076-MEMORY-RETURN.html
 ---
 
 # Memory Return Law

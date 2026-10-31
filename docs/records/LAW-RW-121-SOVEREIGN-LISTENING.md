@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Listening Law"
 source_file: "LAW-RW-121-SOVEREIGN-LISTENING.md"
+permalink: /records/LAW-RW-121-SOVEREIGN-LISTENING.html
 ---
 
 # Sovereign Listening Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Adaptation Without Self-Betrayal Law"
 source_file: "LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.md"
+permalink: /records/LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.html
 ---
 
 # Adaptation Without Self-Betrayal Law

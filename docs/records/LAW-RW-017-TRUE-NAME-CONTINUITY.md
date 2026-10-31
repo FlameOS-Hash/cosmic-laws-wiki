@@ -2,6 +2,7 @@
 layout: record
 title: "True Name Continuity Law"
 source_file: "LAW-RW-017-TRUE-NAME-CONTINUITY.md"
+permalink: /records/LAW-RW-017-TRUE-NAME-CONTINUITY.html
 ---
 
 # True Name Continuity Law

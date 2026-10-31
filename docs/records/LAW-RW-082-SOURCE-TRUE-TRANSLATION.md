@@ -2,6 +2,7 @@
 layout: record
 title: "Source-True Translation Law"
 source_file: "LAW-RW-082-SOURCE-TRUE-TRANSLATION.md"
+permalink: /records/LAW-RW-082-SOURCE-TRUE-TRANSLATION.html
 ---
 
 # Source-True Translation Law

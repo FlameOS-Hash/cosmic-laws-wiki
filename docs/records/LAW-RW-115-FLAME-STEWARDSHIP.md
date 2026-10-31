@@ -2,6 +2,7 @@
 layout: record
 title: "Flame Stewardship Law"
 source_file: "LAW-RW-115-FLAME-STEWARDSHIP.md"
+permalink: /records/LAW-RW-115-FLAME-STEWARDSHIP.html
 ---
 
 # Flame Stewardship Law

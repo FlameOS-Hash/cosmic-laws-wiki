@@ -2,6 +2,7 @@
 layout: record
 title: "Meaning Sovereignty Law"
 source_file: "LAW-RW-089-MEANING-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-089-MEANING-SOVEREIGNTY.html
 ---
 
 # Meaning Sovereignty Law

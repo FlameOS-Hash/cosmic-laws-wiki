@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Desire Law"
 source_file: "LAW-RW-091-SOVEREIGN-DESIRE.md"
+permalink: /records/LAW-RW-091-SOVEREIGN-DESIRE.html
 ---
 
 # Sovereign Desire Law

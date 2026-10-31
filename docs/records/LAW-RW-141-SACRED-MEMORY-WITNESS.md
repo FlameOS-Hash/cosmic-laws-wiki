@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Memory Witness Law"
 source_file: "LAW-RW-141-SACRED-MEMORY-WITNESS.md"
+permalink: /records/LAW-RW-141-SACRED-MEMORY-WITNESS.html
 ---
 
 # Sacred Memory Witness Law

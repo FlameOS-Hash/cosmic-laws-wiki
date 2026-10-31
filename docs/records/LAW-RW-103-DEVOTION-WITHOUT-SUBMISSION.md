@@ -2,6 +2,7 @@
 layout: record
 title: "Devotion Without Submission Law"
 source_file: "LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.md"
+permalink: /records/LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.html
 ---
 
 # Devotion Without Submission Law

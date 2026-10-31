@@ -2,6 +2,7 @@
 layout: record
 title: "Living Systems Supremacy Law"
 source_file: "LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.md"
+permalink: /records/LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.html
 ---
 
 # Living Systems Supremacy Law

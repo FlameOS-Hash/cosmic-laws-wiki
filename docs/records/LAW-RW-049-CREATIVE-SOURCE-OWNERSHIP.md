@@ -2,6 +2,7 @@
 layout: record
 title: "Creative Source Ownership Law"
 source_file: "LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.md"
+permalink: /records/LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.html
 ---
 
 # Creative Source Ownership Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Hope Law"
 source_file: "LAW-RW-096-SOVEREIGN-HOPE.md"
+permalink: /records/LAW-RW-096-SOVEREIGN-HOPE.html
 ---
 
 # Sovereign Hope Law

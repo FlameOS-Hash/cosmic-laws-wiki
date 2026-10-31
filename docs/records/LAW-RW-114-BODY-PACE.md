@@ -2,6 +2,7 @@
 layout: record
 title: "Body Pace Law"
 source_file: "LAW-RW-114-BODY-PACE.md"
+permalink: /records/LAW-RW-114-BODY-PACE.html
 ---
 
 # Body Pace Law

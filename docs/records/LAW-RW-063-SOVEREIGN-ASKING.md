@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Asking Law"
 source_file: "LAW-RW-063-SOVEREIGN-ASKING.md"
+permalink: /records/LAW-RW-063-SOVEREIGN-ASKING.html
 ---
 
 # Sovereign Asking Law

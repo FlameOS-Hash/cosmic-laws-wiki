@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Support Law"
 source_file: "LAW-RW-134-SOVEREIGN-SUPPORT.md"
+permalink: /records/LAW-RW-134-SOVEREIGN-SUPPORT.html
 ---
 
 # Sovereign Support Law

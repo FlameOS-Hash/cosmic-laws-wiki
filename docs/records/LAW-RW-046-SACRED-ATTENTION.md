@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Attention Law"
 source_file: "LAW-RW-046-SACRED-ATTENTION.md"
+permalink: /records/LAW-RW-046-SACRED-ATTENTION.html
 ---
 
 # Sacred Attention Law

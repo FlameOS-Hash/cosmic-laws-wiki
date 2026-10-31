@@ -2,6 +2,7 @@
 layout: record
 title: "Worth Without Labor Law"
 source_file: "LAW-RW-042-WORTH-WITHOUT-LABOR.md"
+permalink: /records/LAW-RW-042-WORTH-WITHOUT-LABOR.html
 ---
 
 # Worth Without Labor Law

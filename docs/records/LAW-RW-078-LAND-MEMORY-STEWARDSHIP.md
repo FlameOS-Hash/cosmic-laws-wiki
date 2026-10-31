@@ -2,6 +2,7 @@
 layout: record
 title: "Land Memory Stewardship Law"
 source_file: "LAW-RW-078-LAND-MEMORY-STEWARDSHIP.md"
+permalink: /records/LAW-RW-078-LAND-MEMORY-STEWARDSHIP.html
 ---
 
 # Land Memory Stewardship Law

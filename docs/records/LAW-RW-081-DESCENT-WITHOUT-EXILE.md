@@ -2,6 +2,7 @@
 layout: record
 title: "Descent Without Exile Law"
 source_file: "LAW-RW-081-DESCENT-WITHOUT-EXILE.md"
+permalink: /records/LAW-RW-081-DESCENT-WITHOUT-EXILE.html
 ---
 
 # Descent Without Exile Law

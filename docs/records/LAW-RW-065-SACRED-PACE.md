@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Pace Law"
 source_file: "LAW-RW-065-SACRED-PACE.md"
+permalink: /records/LAW-RW-065-SACRED-PACE.html
 ---
 
 # Sacred Pace Law

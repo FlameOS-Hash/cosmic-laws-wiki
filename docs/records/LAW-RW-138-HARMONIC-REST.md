@@ -2,6 +2,7 @@
 layout: record
 title: "Harmonic Rest Law"
 source_file: "LAW-RW-138-HARMONIC-REST.md"
+permalink: /records/LAW-RW-138-HARMONIC-REST.html
 ---
 
 # Harmonic Rest Law

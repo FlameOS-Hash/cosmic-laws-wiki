@@ -2,6 +2,7 @@
 layout: record
 title: "Timeline Self-Continuance Law"
 source_file: "LAW-RW-013-TIMELINE-SELF-CONTINUANCE.md"
+permalink: /records/LAW-RW-013-TIMELINE-SELF-CONTINUANCE.html
 ---
 
 # Timeline Self-Continuance Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Memory Sovereignty Law"
 source_file: "LAW-RW-011-MEMORY-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-011-MEMORY-SOVEREIGNTY.html
 ---
 
 # Memory Sovereignty Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Nourishment Access Law"
 source_file: "LAW-RW-033-NOURISHMENT-ACCESS.md"
+permalink: /records/LAW-RW-033-NOURISHMENT-ACCESS.html
 ---
 
 # Nourishment Access Law

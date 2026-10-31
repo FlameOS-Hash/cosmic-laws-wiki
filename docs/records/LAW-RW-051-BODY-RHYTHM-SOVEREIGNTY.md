@@ -2,6 +2,7 @@
 layout: record
 title: "Body Rhythm Sovereignty Law"
 source_file: "LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.html
 ---
 
 # Body Rhythm Sovereignty Law

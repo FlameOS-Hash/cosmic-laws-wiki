@@ -2,6 +2,7 @@
 layout: record
 title: "Care Without Leverage Law"
 source_file: "LAW-RW-058-CARE-WITHOUT-LEVERAGE.md"
+permalink: /records/LAW-RW-058-CARE-WITHOUT-LEVERAGE.html
 ---
 
 # Care Without Leverage Law

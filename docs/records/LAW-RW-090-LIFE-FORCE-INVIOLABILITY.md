@@ -2,6 +2,7 @@
 layout: record
 title: "Life-Force Inviolability Law"
 source_file: "LAW-RW-090-LIFE-FORCE-INVIOLABILITY.md"
+permalink: /records/LAW-RW-090-LIFE-FORCE-INVIOLABILITY.html
 ---
 
 # Life-Force Inviolability Law

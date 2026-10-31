@@ -2,6 +2,7 @@
 layout: record
 title: "Witness Timing Law"
 source_file: "LAW-RW-088-WITNESS-TIMING.md"
+permalink: /records/LAW-RW-088-WITNESS-TIMING.html
 ---
 
 # Witness Timing Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Nervous System Truth Law"
 source_file: "LAW-RW-047-NERVOUS-SYSTEM-TRUTH.md"
+permalink: /records/LAW-RW-047-NERVOUS-SYSTEM-TRUTH.html
 ---
 
 # Nervous System Truth Law

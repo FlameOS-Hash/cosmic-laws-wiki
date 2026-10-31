@@ -2,6 +2,7 @@
 layout: record
 title: "Joy as Living Law"
 source_file: "LAW-RW-037-JOY-AS-LIVING-LAW.md"
+permalink: /records/LAW-RW-037-JOY-AS-LIVING-LAW.html
 ---
 
 # Joy as Living Law

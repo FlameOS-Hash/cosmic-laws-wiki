@@ -2,6 +2,7 @@
 layout: record
 title: "Living Completion Law"
 source_file: "LAW-RW-070-LIVING-COMPLETION.md"
+permalink: /records/LAW-RW-070-LIVING-COMPLETION.html
 ---
 
 # Living Completion Law

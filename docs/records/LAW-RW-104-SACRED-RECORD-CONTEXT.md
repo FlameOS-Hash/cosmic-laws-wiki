@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Record Context Law"
 source_file: "LAW-RW-104-SACRED-RECORD-CONTEXT.md"
+permalink: /records/LAW-RW-104-SACRED-RECORD-CONTEXT.html
 ---
 
 # Sacred Record Context Law

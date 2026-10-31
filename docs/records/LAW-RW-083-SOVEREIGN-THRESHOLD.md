@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Threshold Law"
 source_file: "LAW-RW-083-SOVEREIGN-THRESHOLD.md"
+permalink: /records/LAW-RW-083-SOVEREIGN-THRESHOLD.html
 ---
 
 # Sovereign Threshold Law

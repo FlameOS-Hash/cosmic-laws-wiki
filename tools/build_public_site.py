@@ -117,6 +117,7 @@ try:
             "layout: record\n"
             f"title: {yaml_quote(title)}\n"
             f"source_file: {yaml_quote(src.name)}\n"
+            f"permalink: /records/{src.stem}.html\n"
             "---\n\n"
         )
 
@@ -278,6 +279,7 @@ layout: default
     search_page = """---
 layout: default
 title: Search
+permalink: /search.html
 ---
 
 # Search the Cosmic Laws

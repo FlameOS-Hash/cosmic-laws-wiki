@@ -2,6 +2,7 @@
 layout: record
 title: "Joyful Authority Law"
 source_file: "LAW-RW-130-JOYFUL-AUTHORITY.md"
+permalink: /records/LAW-RW-130-JOYFUL-AUTHORITY.html
 ---
 
 # Joyful Authority Law

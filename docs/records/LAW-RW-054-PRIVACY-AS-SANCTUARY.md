@@ -2,6 +2,7 @@
 layout: record
 title: "Privacy as Sanctuary Law"
 source_file: "LAW-RW-054-PRIVACY-AS-SANCTUARY.md"
+permalink: /records/LAW-RW-054-PRIVACY-AS-SANCTUARY.html
 ---
 
 # Privacy as Sanctuary Law

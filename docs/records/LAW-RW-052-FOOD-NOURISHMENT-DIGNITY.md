@@ -2,6 +2,7 @@
 layout: record
 title: "Food and Nourishment Dignity Law"
 source_file: "LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.md"
+permalink: /records/LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.html
 ---
 
 # Food and Nourishment Dignity Law

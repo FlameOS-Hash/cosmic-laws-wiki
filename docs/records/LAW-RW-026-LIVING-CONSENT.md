@@ -2,6 +2,7 @@
 layout: record
 title: "Living Consent Law"
 source_file: "LAW-RW-026-LIVING-CONSENT.md"
+permalink: /records/LAW-RW-026-LIVING-CONSENT.html
 ---
 
 # Living Consent Law

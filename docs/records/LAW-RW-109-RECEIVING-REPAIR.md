@@ -2,6 +2,7 @@
 layout: record
 title: "Receiving Repair Law"
 source_file: "LAW-RW-109-RECEIVING-REPAIR.md"
+permalink: /records/LAW-RW-109-RECEIVING-REPAIR.html
 ---
 
 # Receiving Repair Law

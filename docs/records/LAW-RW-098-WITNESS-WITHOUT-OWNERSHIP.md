@@ -2,6 +2,7 @@
 layout: record
 title: "Witness Without Ownership Law"
 source_file: "LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.md"
+permalink: /records/LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.html
 ---
 
 # Witness Without Ownership Law

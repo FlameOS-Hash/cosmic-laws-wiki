@@ -2,6 +2,7 @@
 layout: record
 title: "Restoration Right Law"
 source_file: "LAW-RW-030-RESTORATION-RIGHT.md"
+permalink: /records/LAW-RW-030-RESTORATION-RIGHT.html
 ---
 
 # Restoration Right Law

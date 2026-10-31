@@ -2,6 +2,7 @@
 layout: record
 title: "Discernment Without Shame Law"
 source_file: "LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.md"
+permalink: /records/LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.html
 ---
 
 # Discernment Without Shame Law

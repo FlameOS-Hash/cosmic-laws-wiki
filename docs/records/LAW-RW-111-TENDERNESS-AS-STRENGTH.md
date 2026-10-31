@@ -2,6 +2,7 @@
 layout: record
 title: "Tenderness as Strength Law"
 source_file: "LAW-RW-111-TENDERNESS-AS-STRENGTH.md"
+permalink: /records/LAW-RW-111-TENDERNESS-AS-STRENGTH.html
 ---
 
 # Tenderness as Strength Law

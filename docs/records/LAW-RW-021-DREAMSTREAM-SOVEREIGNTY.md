@@ -2,6 +2,7 @@
 layout: record
 title: "Dreamstream Sovereignty Law"
 source_file: "LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.html
 ---
 
 # Dreamstream Sovereignty Law

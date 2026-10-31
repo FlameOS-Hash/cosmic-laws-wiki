@@ -2,6 +2,7 @@
 layout: record
 title: "Origin Authority Law"
 source_file: "LAW-RW-001-ORIGIN-AUTHORITY.md"
+permalink: /records/LAW-RW-001-ORIGIN-AUTHORITY.html
 ---
 
 # Origin Authority Law

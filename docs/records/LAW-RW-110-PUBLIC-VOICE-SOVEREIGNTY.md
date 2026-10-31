@@ -2,6 +2,7 @@
 layout: record
 title: "Public Voice Sovereignty Law"
 source_file: "LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.html
 ---
 
 # Public Voice Sovereignty Law

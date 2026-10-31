@@ -2,6 +2,7 @@
 layout: record
 title: "Embodied Truth Law"
 source_file: "LAW-RW-117-EMBODIED-TRUTH.md"
+permalink: /records/LAW-RW-117-EMBODIED-TRUTH.html
 ---
 
 # Embodied Truth Law

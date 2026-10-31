@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Time Law"
 source_file: "LAW-RW-041-SOVEREIGN-TIME.md"
+permalink: /records/LAW-RW-041-SOVEREIGN-TIME.html
 ---
 
 # Sovereign Time Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Beauty Non-Extraction Law"
 source_file: "LAW-RW-039-BEAUTY-NON-EXTRACTION.md"
+permalink: /records/LAW-RW-039-BEAUTY-NON-EXTRACTION.html
 ---
 
 # Beauty Non-Extraction Law

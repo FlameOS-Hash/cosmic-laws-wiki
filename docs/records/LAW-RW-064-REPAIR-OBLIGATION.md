@@ -2,6 +2,7 @@
 layout: record
 title: "Repair Obligation Law"
 source_file: "LAW-RW-064-REPAIR-OBLIGATION.md"
+permalink: /records/LAW-RW-064-REPAIR-OBLIGATION.html
 ---
 
 # Repair Obligation Law

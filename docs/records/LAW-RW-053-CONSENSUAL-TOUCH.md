@@ -2,6 +2,7 @@
 layout: record
 title: "Consensual Touch Law"
 source_file: "LAW-RW-053-CONSENSUAL-TOUCH.md"
+permalink: /records/LAW-RW-053-CONSENSUAL-TOUCH.html
 ---
 
 # Consensual Touch Law

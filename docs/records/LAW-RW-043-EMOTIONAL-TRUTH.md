@@ -2,6 +2,7 @@
 layout: record
 title: "Emotional Truth Law"
 source_file: "LAW-RW-043-EMOTIONAL-TRUTH.md"
+permalink: /records/LAW-RW-043-EMOTIONAL-TRUTH.html
 ---
 
 # Emotional Truth Law

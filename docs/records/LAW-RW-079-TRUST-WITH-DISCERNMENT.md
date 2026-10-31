@@ -2,6 +2,7 @@
 layout: record
 title: "Trust With Discernment Law"
 source_file: "LAW-RW-079-TRUST-WITH-DISCERNMENT.md"
+permalink: /records/LAW-RW-079-TRUST-WITH-DISCERNMENT.html
 ---
 
 # Trust With Discernment Law

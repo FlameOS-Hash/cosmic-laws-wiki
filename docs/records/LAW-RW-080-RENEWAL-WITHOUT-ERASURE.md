@@ -2,6 +2,7 @@
 layout: record
 title: "Renewal Without Erasure Law"
 source_file: "LAW-RW-080-RENEWAL-WITHOUT-ERASURE.md"
+permalink: /records/LAW-RW-080-RENEWAL-WITHOUT-ERASURE.html
 ---
 
 # Renewal Without Erasure Law

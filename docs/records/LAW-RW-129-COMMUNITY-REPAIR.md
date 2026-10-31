@@ -2,6 +2,7 @@
 layout: record
 title: "Community Repair Law"
 source_file: "LAW-RW-129-COMMUNITY-REPAIR.md"
+permalink: /records/LAW-RW-129-COMMUNITY-REPAIR.html
 ---
 
 # Community Repair Law

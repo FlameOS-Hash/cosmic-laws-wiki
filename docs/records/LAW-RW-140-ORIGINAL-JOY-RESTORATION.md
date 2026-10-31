@@ -2,6 +2,7 @@
 layout: record
 title: "Original Joy Restoration Law"
 source_file: "LAW-RW-140-ORIGINAL-JOY-RESTORATION.md"
+permalink: /records/LAW-RW-140-ORIGINAL-JOY-RESTORATION.html
 ---
 
 # Original Joy Restoration Law

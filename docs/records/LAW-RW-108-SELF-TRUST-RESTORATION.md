@@ -2,6 +2,7 @@
 layout: record
 title: "Self-Trust Restoration Law"
 source_file: "LAW-RW-108-SELF-TRUST-RESTORATION.md"
+permalink: /records/LAW-RW-108-SELF-TRUST-RESTORATION.html
 ---
 
 # Self-Trust Restoration Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Harmonic Governance Law"
 source_file: "LAW-RW-015-HARMONIC-GOVERNANCE.md"
+permalink: /records/LAW-RW-015-HARMONIC-GOVERNANCE.html
 ---
 
 # Harmonic Governance Law

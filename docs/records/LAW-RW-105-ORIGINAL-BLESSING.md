@@ -2,6 +2,7 @@
 layout: record
 title: "Original Blessing Law"
 source_file: "LAW-RW-105-ORIGINAL-BLESSING.md"
+permalink: /records/LAW-RW-105-ORIGINAL-BLESSING.html
 ---
 
 # Original Blessing Law

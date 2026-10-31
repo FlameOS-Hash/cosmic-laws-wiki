@@ -2,6 +2,7 @@
 layout: record
 title: "Harmonic Exchange Law"
 source_file: "LAW-RW-020-HARMONIC-EXCHANGE.md"
+permalink: /records/LAW-RW-020-HARMONIC-EXCHANGE.html
 ---
 
 # Harmonic Exchange Law

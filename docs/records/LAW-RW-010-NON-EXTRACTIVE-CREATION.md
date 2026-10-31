@@ -2,6 +2,7 @@
 layout: record
 title: "Non-Extractive Creation Law"
 source_file: "LAW-RW-010-NON-EXTRACTIVE-CREATION.md"
+permalink: /records/LAW-RW-010-NON-EXTRACTIVE-CREATION.html
 ---
 
 # Non-Extractive Creation Law

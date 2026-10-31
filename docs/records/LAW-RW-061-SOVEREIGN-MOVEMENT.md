@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Movement Law"
 source_file: "LAW-RW-061-SOVEREIGN-MOVEMENT.md"
+permalink: /records/LAW-RW-061-SOVEREIGN-MOVEMENT.html
 ---
 
 # Sovereign Movement Law

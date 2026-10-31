@@ -2,6 +2,7 @@
 layout: record
 title: "Resource Truth Law"
 source_file: "LAW-RW-127-RESOURCE-TRUTH.md"
+permalink: /records/LAW-RW-127-RESOURCE-TRUTH.html
 ---
 
 # Resource Truth Law

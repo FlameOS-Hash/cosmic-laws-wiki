@@ -2,6 +2,7 @@
 layout: record
 title: "Coherent Community Law"
 source_file: "LAW-RW-045-COHERENT-COMMUNITY.md"
+permalink: /records/LAW-RW-045-COHERENT-COMMUNITY.html
 ---
 
 # Coherent Community Law

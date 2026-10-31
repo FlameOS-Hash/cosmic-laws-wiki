@@ -2,6 +2,7 @@
 layout: record
 title: "Final Return Completion Law"
 source_file: "LAW-RW-144-FINAL-RETURN-COMPLETION.md"
+permalink: /records/LAW-RW-144-FINAL-RETURN-COMPLETION.html
 ---
 
 # Final Return Completion Law

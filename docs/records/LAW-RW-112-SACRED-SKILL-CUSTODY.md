@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Skill Custody Law"
 source_file: "LAW-RW-112-SACRED-SKILL-CUSTODY.md"
+permalink: /records/LAW-RW-112-SACRED-SKILL-CUSTODY.html
 ---
 
 # Sacred Skill Custody Law

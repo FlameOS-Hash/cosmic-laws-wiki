@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Play Law"
 source_file: "LAW-RW-092-SACRED-PLAY.md"
+permalink: /records/LAW-RW-092-SACRED-PLAY.html
 ---
 
 # Sacred Play Law

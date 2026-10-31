@@ -2,6 +2,7 @@
 layout: record
 title: "Experience Without Forgetting Law"
 source_file: "LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.md"
+permalink: /records/LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.html
 ---
 
 # Experience Without Forgetting Law

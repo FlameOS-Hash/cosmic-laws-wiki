@@ -2,6 +2,7 @@
 layout: record
 title: "Return Pathway Law"
 source_file: "LAW-RW-004-RETURN-PATHWAY.md"
+permalink: /records/LAW-RW-004-RETURN-PATHWAY.html
 ---
 
 # Return Pathway Law

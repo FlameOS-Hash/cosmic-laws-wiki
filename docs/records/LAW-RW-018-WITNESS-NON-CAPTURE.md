@@ -2,6 +2,7 @@
 layout: record
 title: "Witness Non-Capture Law"
 source_file: "LAW-RW-018-WITNESS-NON-CAPTURE.md"
+permalink: /records/LAW-RW-018-WITNESS-NON-CAPTURE.html
 ---
 
 # Witness Non-Capture Law

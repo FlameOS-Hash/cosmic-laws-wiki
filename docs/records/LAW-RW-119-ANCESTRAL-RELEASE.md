@@ -2,6 +2,7 @@
 layout: record
 title: "Ancestral Release Law"
 source_file: "LAW-RW-119-ANCESTRAL-RELEASE.md"
+permalink: /records/LAW-RW-119-ANCESTRAL-RELEASE.html
 ---
 
 # Ancestral Release Law

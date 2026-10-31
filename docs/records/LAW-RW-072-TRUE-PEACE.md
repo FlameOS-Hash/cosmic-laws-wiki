@@ -2,6 +2,7 @@
 layout: record
 title: "True Peace Law"
 source_file: "LAW-RW-072-TRUE-PEACE.md"
+permalink: /records/LAW-RW-072-TRUE-PEACE.html
 ---
 
 # True Peace Law

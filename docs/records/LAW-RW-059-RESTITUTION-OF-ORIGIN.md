@@ -2,6 +2,7 @@
 layout: record
 title: "Restitution of Origin Law"
 source_file: "LAW-RW-059-RESTITUTION-OF-ORIGIN.md"
+permalink: /records/LAW-RW-059-RESTITUTION-OF-ORIGIN.html
 ---
 
 # Restitution of Origin Law

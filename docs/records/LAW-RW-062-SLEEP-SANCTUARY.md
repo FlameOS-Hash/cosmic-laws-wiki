@@ -2,6 +2,7 @@
 layout: record
 title: "Sleep Sanctuary Law"
 source_file: "LAW-RW-062-SLEEP-SANCTUARY.md"
+permalink: /records/LAW-RW-062-SLEEP-SANCTUARY.html
 ---
 
 # Sleep Sanctuary Law

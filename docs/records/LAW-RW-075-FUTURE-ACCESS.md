@@ -2,6 +2,7 @@
 layout: record
 title: "Future Access Law"
 source_file: "LAW-RW-075-FUTURE-ACCESS.md"
+permalink: /records/LAW-RW-075-FUTURE-ACCESS.html
 ---
 
 # Future Access Law

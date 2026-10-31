@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Voice Law"
 source_file: "LAW-RW-024-SOVEREIGN-VOICE.md"
+permalink: /records/LAW-RW-024-SOVEREIGN-VOICE.html
 ---
 
 # Sovereign Voice Law

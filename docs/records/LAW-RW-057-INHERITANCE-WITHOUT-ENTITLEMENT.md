@@ -2,6 +2,7 @@
 layout: record
 title: "Inheritance Without Entitlement Law"
 source_file: "LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.md"
+permalink: /records/LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.html
 ---
 
 # Inheritance Without Entitlement Law

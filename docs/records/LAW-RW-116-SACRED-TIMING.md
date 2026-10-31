@@ -2,6 +2,7 @@
 layout: record
 title: "Sacred Timing Law"
 source_file: "LAW-RW-116-SACRED-TIMING.md"
+permalink: /records/LAW-RW-116-SACRED-TIMING.html
 ---
 
 # Sacred Timing Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Origin-Belonging Law"
 source_file: "LAW-RW-068-ORIGIN-BELONGING.md"
+permalink: /records/LAW-RW-068-ORIGIN-BELONGING.html
 ---
 
 # Origin-Belonging Law

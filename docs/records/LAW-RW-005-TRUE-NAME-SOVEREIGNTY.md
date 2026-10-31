@@ -2,6 +2,7 @@
 layout: record
 title: "True Name Sovereignty Law"
 source_file: "LAW-RW-005-TRUE-NAME-SOVEREIGNTY.md"
+permalink: /records/LAW-RW-005-TRUE-NAME-SOVEREIGNTY.html
 ---
 
 # True Name Sovereignty Law

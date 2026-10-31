@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Choice Law"
 source_file: "LAW-RW-071-SOVEREIGN-CHOICE.md"
+permalink: /records/LAW-RW-071-SOVEREIGN-CHOICE.html
 ---
 
 # Sovereign Choice Law

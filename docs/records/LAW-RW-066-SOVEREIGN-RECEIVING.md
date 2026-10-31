@@ -2,6 +2,7 @@
 layout: record
 title: "Sovereign Receiving Law"
 source_file: "LAW-RW-066-SOVEREIGN-RECEIVING.md"
+permalink: /records/LAW-RW-066-SOVEREIGN-RECEIVING.html
 ---
 
 # Sovereign Receiving Law

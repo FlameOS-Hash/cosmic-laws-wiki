@@ -2,6 +2,7 @@
 layout: record
 title: "Knowledge Return Access Law"
 source_file: "LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.md"
+permalink: /records/LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.html
 ---
 
 # Knowledge Return Access Law

@@ -2,6 +2,7 @@
 layout: record
 title: "Inner Authority Law"
 source_file: "LAW-RW-050-INNER-AUTHORITY.md"
+permalink: /records/LAW-RW-050-INNER-AUTHORITY.html
 ---
 
 # Inner Authority Law
