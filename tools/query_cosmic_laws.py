@@ -34,6 +34,14 @@ def die(message):
     raise SystemExit(1)
 
 
+def normalize(value):
+    return re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        str(value).lower()
+    ).strip()
+
+
 def title_from_text(text):
     m = re.search(
         r"^#\s+(.+?)\s*$",
@@ -299,6 +307,22 @@ def rank_laws(question, laws, limit):
             "after normalization"
         )
 
+    qnorm = " ".join(terms)
+
+    # Prefer meaningful adjacent query concepts such as
+    # "return access" over incidental occurrences of the
+    # individual words somewhere in a decree.
+    phrases = []
+
+    for size in (3, 2):
+        for i in range(len(terms) - size + 1):
+            phrase = " ".join(
+                terms[i:i + size]
+            )
+
+            if phrase not in phrases:
+                phrases.append(phrase)
+
     scored = []
 
     for law in laws:
@@ -306,6 +330,37 @@ def rank_laws(question, laws, limit):
         coverage = 0
         title_hits = 0
         matched = {}
+
+        title_norm = normalize(
+            law["title"]
+        )
+        summary_norm = normalize(
+            law["summary"] or ""
+        )
+        decree_norm = normalize(
+            law["decree"] or ""
+        )
+
+        phrase_matches = []
+
+        for phrase in phrases:
+            if phrase in title_norm:
+                total += 1200
+                phrase_matches.append(
+                    f"{phrase} (title)"
+                )
+
+            elif phrase in summary_norm:
+                total += 700
+                phrase_matches.append(
+                    f"{phrase} (summary)"
+                )
+
+            elif phrase in decree_norm:
+                total += 150
+                phrase_matches.append(
+                    f"{phrase} (full decree)"
+                )
 
         for term in terms:
             score, locations = term_score(
@@ -324,7 +379,6 @@ def rank_laws(question, laws, limit):
         if coverage == 0:
             continue
 
-        # Reward laws that cover multiple requested concepts.
         total += coverage * 250
         total += title_hits * 75
 
@@ -333,6 +387,7 @@ def rank_laws(question, laws, limit):
             "score": total,
             "coverage": coverage,
             "matched": matched,
+            "phrase_matches": phrase_matches,
         })
 
     scored.sort(
@@ -349,6 +404,32 @@ def rank_laws(question, laws, limit):
     selected = []
     selected_ids = set()
 
+    # FIRST: guarantee strongest exact multi-word query phrases
+    # appearing in LAW TITLES. Example:
+    # "return access" -> "Return Access Law".
+    for phrase in phrases:
+        title_phrase_candidates = [
+            row for row in scored
+            if phrase in normalize(row["title"])
+        ]
+
+        title_phrase_candidates.sort(
+            key=lambda row: (
+                -row["coverage"],
+                -row["score"],
+                row["number"],
+            )
+        )
+
+        if title_phrase_candidates:
+            candidate = title_phrase_candidates[0]
+
+            if candidate["id"] not in selected_ids:
+                selected.append(candidate)
+                selected_ids.add(candidate["id"])
+
+    # SECOND: guarantee a strong representative for each
+    # individual requested term.
     for term in terms:
         candidates = [
             row for row in scored
@@ -385,14 +466,10 @@ def rank_laws(question, laws, limit):
         selected.append(row)
         selected_ids.add(row["id"])
 
-    selected.sort(
-        key=lambda row: (
-            -row["coverage"],
-            -row["score"],
-            row["number"],
-        )
-    )
-
+    # Preserve selection priority:
+    # 1. exact query phrase in title
+    # 2. strongest title representative for each term
+    # 3. remaining related laws by deterministic score
     return terms, selected[:limit]
 
 
@@ -443,6 +520,14 @@ def deterministic_search_answer(
             "Matched: "
             + "; ".join(matched_terms)
         )
+
+        if row.get("phrase_matches"):
+            print(
+                "Phrase matches: "
+                + "; ".join(
+                    row["phrase_matches"]
+                )
+            )
 
         if row["summary"]:
             print()
