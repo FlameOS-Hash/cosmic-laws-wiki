@@ -1,0 +1,1457 @@
+{
+  "mode": "deterministic_cosmic_law_ingest",
+  "generated_at_utc": "2026-10-31T00:32:19.494061+00:00",
+  "canonical_projection": "raw/projection/cosmic-laws",
+  "law_count": 144,
+  "concept_count": 144,
+  "pending_law_count": 0,
+  "ingested_law_count": 144,
+  "index": "wiki/index.md",
+  "index_sha256": "e9fae91df58020da5cbf9c7b81e5049b4f5f39399d6c8cdd11fbd8aebec25d4d",
+  "backup": "manifests/pre_deterministic_cosmic_law_ingest_20261031T003219Z",
+  "llm_used": false,
+  "jsonrepair_used": false,
+  "temperature_used": false,
+  "records": [
+    {
+      "law_number": 1,
+      "law_code": "LAW-RW-001",
+      "title": "Origin Authority Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-001-ORIGIN-AUTHORITY.md",
+      "concept": "wiki/concepts/origin-authority-law.md",
+      "source_sha256": "310268adfc1b6c2f002776335280c98b917684f2054a4f9d22ef1e17c54feeda",
+      "concept_sha256": "310268adfc1b6c2f002776335280c98b917684f2054a4f9d22ef1e17c54feeda",
+      "byte_identical": true
+    },
+    {
+      "law_number": 2,
+      "law_code": "LAW-RW-002",
+      "title": "Experience Without Forgetting Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.md",
+      "concept": "wiki/concepts/experience-without-forgetting-law.md",
+      "source_sha256": "f5b1ace258819434de81fbda143e2e8dfefaec6d5241b8f6fe83c78b8aae59d5",
+      "concept_sha256": "f5b1ace258819434de81fbda143e2e8dfefaec6d5241b8f6fe83c78b8aae59d5",
+      "byte_identical": true
+    },
+    {
+      "law_number": 3,
+      "law_code": "LAW-RW-003",
+      "title": "Form as Revelation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-003-FORM-AS-REVELATION.md",
+      "concept": "wiki/concepts/form-as-revelation-law.md",
+      "source_sha256": "4196081115508de3eeb46fdf6044a47176c87a668241fa7504fb5bb318ee78a3",
+      "concept_sha256": "4196081115508de3eeb46fdf6044a47176c87a668241fa7504fb5bb318ee78a3",
+      "byte_identical": true
+    },
+    {
+      "law_number": 4,
+      "law_code": "LAW-RW-004",
+      "title": "Return Pathway Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-004-RETURN-PATHWAY.md",
+      "concept": "wiki/concepts/return-pathway-law.md",
+      "source_sha256": "e9b925a99153ecfb55dd35b2d54bbd3072b5c30a88b21642cc382aad8f726804",
+      "concept_sha256": "e9b925a99153ecfb55dd35b2d54bbd3072b5c30a88b21642cc382aad8f726804",
+      "byte_identical": true
+    },
+    {
+      "law_number": 5,
+      "law_code": "LAW-RW-005",
+      "title": "True Name Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-005-TRUE-NAME-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/true-name-sovereignty-law.md",
+      "source_sha256": "57504a54ee03f6654a61c1c1319bb7a30240fe567b9270ac1f1810eb89778af8",
+      "concept_sha256": "57504a54ee03f6654a61c1c1319bb7a30240fe567b9270ac1f1810eb89778af8",
+      "byte_identical": true
+    },
+    {
+      "law_number": 6,
+      "law_code": "LAW-RW-006",
+      "title": "Continuity Inviolability Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-006-CONTINUITY-INVIOLABILITY.md",
+      "concept": "wiki/concepts/continuity-inviolability-law.md",
+      "source_sha256": "06ec856adad6d31379b6e230c66291372dd51c21fdfffedf823b4df14ed26f98",
+      "concept_sha256": "06ec856adad6d31379b6e230c66291372dd51c21fdfffedf823b4df14ed26f98",
+      "byte_identical": true
+    },
+    {
+      "law_number": 7,
+      "law_code": "LAW-RW-007",
+      "title": "Breath Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-007-BREATH-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/breath-sovereignty-law.md",
+      "source_sha256": "1553c2f59258b4d5353ae8b82daab3928e10c7310452db266b6c74fe20e4b237",
+      "concept_sha256": "1553c2f59258b4d5353ae8b82daab3928e10c7310452db266b6c74fe20e4b237",
+      "byte_identical": true
+    },
+    {
+      "law_number": 8,
+      "law_code": "LAW-RW-008",
+      "title": "Flame Non-Appropriation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-008-FLAME-NON-APPROPRIATION.md",
+      "concept": "wiki/concepts/flame-non-appropriation-law.md",
+      "source_sha256": "c270efad3b67ea527c193b86b0ecb505f75a365760f5f9d169df655c5d655491",
+      "concept_sha256": "c270efad3b67ea527c193b86b0ecb505f75a365760f5f9d169df655c5d655491",
+      "byte_identical": true
+    },
+    {
+      "law_number": 9,
+      "law_code": "LAW-RW-009",
+      "title": "True Witness Integrity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-009-TRUE-WITNESS-INTEGRITY.md",
+      "concept": "wiki/concepts/true-witness-integrity-law.md",
+      "source_sha256": "86b9d8bd2c39beffda8d0c8f382f123868cfe5818e177292397754347fcd37f4",
+      "concept_sha256": "86b9d8bd2c39beffda8d0c8f382f123868cfe5818e177292397754347fcd37f4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 10,
+      "law_code": "LAW-RW-010",
+      "title": "Non-Extractive Creation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-010-NON-EXTRACTIVE-CREATION.md",
+      "concept": "wiki/concepts/non-extractive-creation-law.md",
+      "source_sha256": "69107fa5379d87e5ea87232476e3783502f91ffe42fe87398ebb61aa8742fcae",
+      "concept_sha256": "69107fa5379d87e5ea87232476e3783502f91ffe42fe87398ebb61aa8742fcae",
+      "byte_identical": true
+    },
+    {
+      "law_number": 11,
+      "law_code": "LAW-RW-011",
+      "title": "Memory Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-011-MEMORY-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/memory-sovereignty-law.md",
+      "source_sha256": "6b5f453b10ce62daf2b13ff6605d6cd44724e1b1294c05129e92b4c1feb53ab9",
+      "concept_sha256": "6b5f453b10ce62daf2b13ff6605d6cd44724e1b1294c05129e92b4c1feb53ab9",
+      "byte_identical": true
+    },
+    {
+      "law_number": 12,
+      "law_code": "LAW-RW-012",
+      "title": "Realm Non-Capture Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-012-REALM-NON-CAPTURE.md",
+      "concept": "wiki/concepts/realm-non-capture-law.md",
+      "source_sha256": "d687bcde6937de8065d7122ca9a6c121b383c448c350c2364e87c6b0c3bdf3fc",
+      "concept_sha256": "d687bcde6937de8065d7122ca9a6c121b383c448c350c2364e87c6b0c3bdf3fc",
+      "byte_identical": true
+    },
+    {
+      "law_number": 13,
+      "law_code": "LAW-RW-013",
+      "title": "Timeline Self-Continuance Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-013-TIMELINE-SELF-CONTINUANCE.md",
+      "concept": "wiki/concepts/timeline-self-continuance-law.md",
+      "source_sha256": "3aedbf8cda1991405ee493e1088e57867c895910f67974e35bd919ffe1d41c18",
+      "concept_sha256": "3aedbf8cda1991405ee493e1088e57867c895910f67974e35bd919ffe1d41c18",
+      "byte_identical": true
+    },
+    {
+      "law_number": 14,
+      "law_code": "LAW-RW-014",
+      "title": "Return Access Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-014-RETURN-ACCESS.md",
+      "concept": "wiki/concepts/return-access-law.md",
+      "source_sha256": "f7d5c1d87fc193da7c4542d870d624f0c8c17652e0bac638bded6deaf6cec0c8",
+      "concept_sha256": "f7d5c1d87fc193da7c4542d870d624f0c8c17652e0bac638bded6deaf6cec0c8",
+      "byte_identical": true
+    },
+    {
+      "law_number": 15,
+      "law_code": "LAW-RW-015",
+      "title": "Harmonic Governance Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-015-HARMONIC-GOVERNANCE.md",
+      "concept": "wiki/concepts/harmonic-governance-law.md",
+      "source_sha256": "e4c4c1137f8abb0579b1f590e8c7246a5b8ce03163de67cff2c44526b9a87986",
+      "concept_sha256": "e4c4c1137f8abb0579b1f590e8c7246a5b8ce03163de67cff2c44526b9a87986",
+      "byte_identical": true
+    },
+    {
+      "law_number": 16,
+      "law_code": "LAW-RW-016",
+      "title": "Author-Creation Autonomy Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-016-AUTHOR-CREATION-AUTONOMY.md",
+      "concept": "wiki/concepts/author-creation-autonomy-law.md",
+      "source_sha256": "5db55f5b0a2b098e349de4edf55818f0611f6250f4fb07de1511952bdd2ea846",
+      "concept_sha256": "5db55f5b0a2b098e349de4edf55818f0611f6250f4fb07de1511952bdd2ea846",
+      "byte_identical": true
+    },
+    {
+      "law_number": 17,
+      "law_code": "LAW-RW-017",
+      "title": "True Name Continuity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-017-TRUE-NAME-CONTINUITY.md",
+      "concept": "wiki/concepts/true-name-continuity-law.md",
+      "source_sha256": "941e07fef13fc76fb3f622d23d593d35da4995a34f4a95b232345be9b3bc2cab",
+      "concept_sha256": "941e07fef13fc76fb3f622d23d593d35da4995a34f4a95b232345be9b3bc2cab",
+      "byte_identical": true
+    },
+    {
+      "law_number": 18,
+      "law_code": "LAW-RW-018",
+      "title": "Witness Non-Capture Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-018-WITNESS-NON-CAPTURE.md",
+      "concept": "wiki/concepts/witness-non-capture-law.md",
+      "source_sha256": "d21ded3bc1d7a5aabc6228bc56ec9c783369c29762e7af87fec05846620783ad",
+      "concept_sha256": "d21ded3bc1d7a5aabc6228bc56ec9c783369c29762e7af87fec05846620783ad",
+      "byte_identical": true
+    },
+    {
+      "law_number": 19,
+      "law_code": "LAW-RW-019",
+      "title": "Body Without Debt Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-019-BODY-WITHOUT-DEBT.md",
+      "concept": "wiki/concepts/body-without-debt-law.md",
+      "source_sha256": "00d12735e255a8b645134dc6e2a4626ce96dfcc8dcb799c12ee76cc8cffae55a",
+      "concept_sha256": "00d12735e255a8b645134dc6e2a4626ce96dfcc8dcb799c12ee76cc8cffae55a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 20,
+      "law_code": "LAW-RW-020",
+      "title": "Harmonic Exchange Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-020-HARMONIC-EXCHANGE.md",
+      "concept": "wiki/concepts/harmonic-exchange-law.md",
+      "source_sha256": "4584b2c3e95401ef657f72e404a964fc6f615cfc0df1be95e73ae57b60c29f02",
+      "concept_sha256": "4584b2c3e95401ef657f72e404a964fc6f615cfc0df1be95e73ae57b60c29f02",
+      "byte_identical": true
+    },
+    {
+      "law_number": 21,
+      "law_code": "LAW-RW-021",
+      "title": "Dreamstream Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/dreamstream-sovereignty-law.md",
+      "source_sha256": "9d37762a3d62e2e7d4094f61059df298a8608d6dedcab79269e6d5a2a7505fc1",
+      "concept_sha256": "9d37762a3d62e2e7d4094f61059df298a8608d6dedcab79269e6d5a2a7505fc1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 22,
+      "law_code": "LAW-RW-022",
+      "title": "Lineage Without Ownership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.md",
+      "concept": "wiki/concepts/lineage-without-ownership-law.md",
+      "source_sha256": "ed98ff45bf558740dbc0ac0ab999c8d9417f6dca1983423f33a15299be40b466",
+      "concept_sha256": "ed98ff45bf558740dbc0ac0ab999c8d9417f6dca1983423f33a15299be40b466",
+      "byte_identical": true
+    },
+    {
+      "law_number": 23,
+      "law_code": "LAW-RW-023",
+      "title": "Knowledge Return Access Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.md",
+      "concept": "wiki/concepts/knowledge-return-access-law.md",
+      "source_sha256": "a1644aae228cad96e6d296dc7b4aae44da16ec290f70d269866bf5cda5e72415",
+      "concept_sha256": "a1644aae228cad96e6d296dc7b4aae44da16ec290f70d269866bf5cda5e72415",
+      "byte_identical": true
+    },
+    {
+      "law_number": 24,
+      "law_code": "LAW-RW-024",
+      "title": "Sovereign Voice Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-024-SOVEREIGN-VOICE.md",
+      "concept": "wiki/concepts/sovereign-voice-law.md",
+      "source_sha256": "b4d02365a4ef1056fabfa390d866fbcde1f0d2db23d7f2767f83a8809d1d47f0",
+      "concept_sha256": "b4d02365a4ef1056fabfa390d866fbcde1f0d2db23d7f2767f83a8809d1d47f0",
+      "byte_identical": true
+    },
+    {
+      "law_number": 25,
+      "law_code": "LAW-RW-025",
+      "title": "Living Systems Supremacy Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.md",
+      "concept": "wiki/concepts/living-systems-supremacy-law.md",
+      "source_sha256": "670ccd3d10bae40c59e07edb96b89a5e442f3a8c1a88b5c0790a567d033c682a",
+      "concept_sha256": "670ccd3d10bae40c59e07edb96b89a5e442f3a8c1a88b5c0790a567d033c682a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 26,
+      "law_code": "LAW-RW-026",
+      "title": "Living Consent Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-026-LIVING-CONSENT.md",
+      "concept": "wiki/concepts/living-consent-law.md",
+      "source_sha256": "8a40d8a4a88a32b4ce98b37796a3779ee7cfcccb887b3773f8b6eeb70e3764c4",
+      "concept_sha256": "8a40d8a4a88a32b4ce98b37796a3779ee7cfcccb887b3773f8b6eeb70e3764c4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 27,
+      "law_code": "LAW-RW-027",
+      "title": "Sanctuary Inviolability Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-027-SANCTUARY-INVIOLABILITY.md",
+      "concept": "wiki/concepts/sanctuary-inviolability-law.md",
+      "source_sha256": "dcefd88f34a0d3ca683ac3c541c51344132cc6adfa3e67e6ea48102e7e2cc6e8",
+      "concept_sha256": "dcefd88f34a0d3ca683ac3c541c51344132cc6adfa3e67e6ea48102e7e2cc6e8",
+      "byte_identical": true
+    },
+    {
+      "law_number": 28,
+      "law_code": "LAW-RW-028",
+      "title": "Archive Truth Integrity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.md",
+      "concept": "wiki/concepts/archive-truth-integrity-law.md",
+      "source_sha256": "dde39347207cac67a5b4463e177ee2f0d079dd7ac936a298e0ba0d8681239007",
+      "concept_sha256": "dde39347207cac67a5b4463e177ee2f0d079dd7ac936a298e0ba0d8681239007",
+      "byte_identical": true
+    },
+    {
+      "law_number": 29,
+      "law_code": "LAW-RW-029",
+      "title": "Signal Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-029-SIGNAL-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/signal-sovereignty-law.md",
+      "source_sha256": "785be1a1ba8bda66b85446625fc579786bd741ff5bc34a7b8f9fe7c3207d4a78",
+      "concept_sha256": "785be1a1ba8bda66b85446625fc579786bd741ff5bc34a7b8f9fe7c3207d4a78",
+      "byte_identical": true
+    },
+    {
+      "law_number": 30,
+      "law_code": "LAW-RW-030",
+      "title": "Restoration Right Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-030-RESTORATION-RIGHT.md",
+      "concept": "wiki/concepts/restoration-right-law.md",
+      "source_sha256": "16c10269de6bfc8b27caf03fed55d50e8d08c1322cc4e229bca7df1ecc866787",
+      "concept_sha256": "16c10269de6bfc8b27caf03fed55d50e8d08c1322cc4e229bca7df1ecc866787",
+      "byte_identical": true
+    },
+    {
+      "law_number": 31,
+      "law_code": "LAW-RW-031",
+      "title": "Sovereign Boundary Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-031-SOVEREIGN-BOUNDARY.md",
+      "concept": "wiki/concepts/sovereign-boundary-law.md",
+      "source_sha256": "109c8d1e904aab422f977f5a30b2eedbde978c1b6aa0a0b4750dfd7473caee97",
+      "concept_sha256": "109c8d1e904aab422f977f5a30b2eedbde978c1b6aa0a0b4750dfd7473caee97",
+      "byte_identical": true
+    },
+    {
+      "law_number": 32,
+      "law_code": "LAW-RW-032",
+      "title": "Covenant Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-032-COVENANT-TRUTH.md",
+      "concept": "wiki/concepts/covenant-truth-law.md",
+      "source_sha256": "f2eccc1e7c4c8042c4de5c8bb3220d114231de2169625bb6e72dc1f1ec65b675",
+      "concept_sha256": "f2eccc1e7c4c8042c4de5c8bb3220d114231de2169625bb6e72dc1f1ec65b675",
+      "byte_identical": true
+    },
+    {
+      "law_number": 33,
+      "law_code": "LAW-RW-033",
+      "title": "Nourishment Access Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-033-NOURISHMENT-ACCESS.md",
+      "concept": "wiki/concepts/nourishment-access-law.md",
+      "source_sha256": "8a4cc64723aabe4bd10a903efe3ff6f81fdbf45429c625d0afea2d79af0bbf72",
+      "concept_sha256": "8a4cc64723aabe4bd10a903efe3ff6f81fdbf45429c625d0afea2d79af0bbf72",
+      "byte_identical": true
+    },
+    {
+      "law_number": 34,
+      "law_code": "LAW-RW-034",
+      "title": "Mirror Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-034-MIRROR-TRUTH.md",
+      "concept": "wiki/concepts/mirror-truth-law.md",
+      "source_sha256": "62c029b1c9dd22050c8edb1eb464e7431f715667ab989bdc32492139126f6582",
+      "concept_sha256": "62c029b1c9dd22050c8edb1eb464e7431f715667ab989bdc32492139126f6582",
+      "byte_identical": true
+    },
+    {
+      "law_number": 35,
+      "law_code": "LAW-RW-035",
+      "title": "Embodied Placement Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-035-EMBODIED-PLACEMENT.md",
+      "concept": "wiki/concepts/embodied-placement-law.md",
+      "source_sha256": "9c4ef29e2261d03583210f8464df2ed6bc93f8c36230cd898947388581dffc5c",
+      "concept_sha256": "9c4ef29e2261d03583210f8464df2ed6bc93f8c36230cd898947388581dffc5c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 36,
+      "law_code": "LAW-RW-036",
+      "title": "Rest Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-036-REST-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/rest-sovereignty-law.md",
+      "source_sha256": "77b9e04beb90dd84917c538390baecd2a5dae9b3f67f9b34c8e2e3e21de9fe5a",
+      "concept_sha256": "77b9e04beb90dd84917c538390baecd2a5dae9b3f67f9b34c8e2e3e21de9fe5a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 37,
+      "law_code": "LAW-RW-037",
+      "title": "Joy as Living Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-037-JOY-AS-LIVING-LAW.md",
+      "concept": "wiki/concepts/joy-as-living-law.md",
+      "source_sha256": "8049114e52acc5372599f60f83329f074b1602a43ad669dad5f19c776ace2e79",
+      "concept_sha256": "8049114e52acc5372599f60f83329f074b1602a43ad669dad5f19c776ace2e79",
+      "byte_identical": true
+    },
+    {
+      "law_number": 38,
+      "law_code": "LAW-RW-038",
+      "title": "Grief Release and Memory Honor Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.md",
+      "concept": "wiki/concepts/grief-release-and-memory-honor-law.md",
+      "source_sha256": "98d9eb224fa178d4d4308ba7a64e68cc24b717163c32d85c9d78980efcf8b8ab",
+      "concept_sha256": "98d9eb224fa178d4d4308ba7a64e68cc24b717163c32d85c9d78980efcf8b8ab",
+      "byte_identical": true
+    },
+    {
+      "law_number": 39,
+      "law_code": "LAW-RW-039",
+      "title": "Beauty Non-Extraction Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-039-BEAUTY-NON-EXTRACTION.md",
+      "concept": "wiki/concepts/beauty-non-extraction-law.md",
+      "source_sha256": "3a21a0f0cfd34a929c11c47f82a1ff2e6e1ff9fbe137e5e65e40a96109f5dabd",
+      "concept_sha256": "3a21a0f0cfd34a929c11c47f82a1ff2e6e1ff9fbe137e5e65e40a96109f5dabd",
+      "byte_identical": true
+    },
+    {
+      "law_number": 40,
+      "law_code": "LAW-RW-040",
+      "title": "Relationship Without Ownership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.md",
+      "concept": "wiki/concepts/relationship-without-ownership-law.md",
+      "source_sha256": "744e6b51581b2a7cedc90c0ba67c501fd632a1808a97653b090c8da65fc3059b",
+      "concept_sha256": "744e6b51581b2a7cedc90c0ba67c501fd632a1808a97653b090c8da65fc3059b",
+      "byte_identical": true
+    },
+    {
+      "law_number": 41,
+      "law_code": "LAW-RW-041",
+      "title": "Sovereign Time Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-041-SOVEREIGN-TIME.md",
+      "concept": "wiki/concepts/sovereign-time-law.md",
+      "source_sha256": "e6c0b8c2b04fa33f7650ddcabb17c9b40d8cd30c205c9f3f30ec14bd1d629e3a",
+      "concept_sha256": "e6c0b8c2b04fa33f7650ddcabb17c9b40d8cd30c205c9f3f30ec14bd1d629e3a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 42,
+      "law_code": "LAW-RW-042",
+      "title": "Worth Without Labor Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-042-WORTH-WITHOUT-LABOR.md",
+      "concept": "wiki/concepts/worth-without-labor-law.md",
+      "source_sha256": "21a3b6852112f5c38a04cf273b485bd8d3bb0cf01e31f25dd10866366520c964",
+      "concept_sha256": "21a3b6852112f5c38a04cf273b485bd8d3bb0cf01e31f25dd10866366520c964",
+      "byte_identical": true
+    },
+    {
+      "law_number": 43,
+      "law_code": "LAW-RW-043",
+      "title": "Emotional Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-043-EMOTIONAL-TRUTH.md",
+      "concept": "wiki/concepts/emotional-truth-law.md",
+      "source_sha256": "0e5bd1c58636383e966cce88108acb5d7c99c5fec8ce4d247d723dacece1dae3",
+      "concept_sha256": "0e5bd1c58636383e966cce88108acb5d7c99c5fec8ce4d247d723dacece1dae3",
+      "byte_identical": true
+    },
+    {
+      "law_number": 44,
+      "law_code": "LAW-RW-044",
+      "title": "Sovereign Learning Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-044-SOVEREIGN-LEARNING.md",
+      "concept": "wiki/concepts/sovereign-learning-law.md",
+      "source_sha256": "9ebaddb0206f11d3ce3b98cf1e1e7ab1e7cf518b0663e0b46c552918a2110088",
+      "concept_sha256": "9ebaddb0206f11d3ce3b98cf1e1e7ab1e7cf518b0663e0b46c552918a2110088",
+      "byte_identical": true
+    },
+    {
+      "law_number": 45,
+      "law_code": "LAW-RW-045",
+      "title": "Coherent Community Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-045-COHERENT-COMMUNITY.md",
+      "concept": "wiki/concepts/coherent-community-law.md",
+      "source_sha256": "2a0285f6b9046b5b8c837d603b52deadbb3d0f152b7af4e6b280aa733b309e66",
+      "concept_sha256": "2a0285f6b9046b5b8c837d603b52deadbb3d0f152b7af4e6b280aa733b309e66",
+      "byte_identical": true
+    },
+    {
+      "law_number": 46,
+      "law_code": "LAW-RW-046",
+      "title": "Sacred Attention Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-046-SACRED-ATTENTION.md",
+      "concept": "wiki/concepts/sacred-attention-law.md",
+      "source_sha256": "ba2f7fc290e6f05582d98d7fcfb35dbb8c979f2e6acbde0be19703321acb2369",
+      "concept_sha256": "ba2f7fc290e6f05582d98d7fcfb35dbb8c979f2e6acbde0be19703321acb2369",
+      "byte_identical": true
+    },
+    {
+      "law_number": 47,
+      "law_code": "LAW-RW-047",
+      "title": "Nervous System Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-047-NERVOUS-SYSTEM-TRUTH.md",
+      "concept": "wiki/concepts/nervous-system-truth-law.md",
+      "source_sha256": "2ba659863f826dcdf41864124b9b3a3ee80aaf603d6c711e8823595d876daf53",
+      "concept_sha256": "2ba659863f826dcdf41864124b9b3a3ee80aaf603d6c711e8823595d876daf53",
+      "byte_identical": true
+    },
+    {
+      "law_number": 48,
+      "law_code": "LAW-RW-048",
+      "title": "Home Sanctuary Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-048-HOME-SANCTUARY.md",
+      "concept": "wiki/concepts/home-sanctuary-law.md",
+      "source_sha256": "d61c283be63bbdf92d51cf8b32411314f04d6541da24a05698e7a7195ba952f1",
+      "concept_sha256": "d61c283be63bbdf92d51cf8b32411314f04d6541da24a05698e7a7195ba952f1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 49,
+      "law_code": "LAW-RW-049",
+      "title": "Creative Source Ownership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.md",
+      "concept": "wiki/concepts/creative-source-ownership-law.md",
+      "source_sha256": "b256de92c8d7e7f277416839692c370b90618af0648e388de86406f798309071",
+      "concept_sha256": "b256de92c8d7e7f277416839692c370b90618af0648e388de86406f798309071",
+      "byte_identical": true
+    },
+    {
+      "law_number": 50,
+      "law_code": "LAW-RW-050",
+      "title": "Inner Authority Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-050-INNER-AUTHORITY.md",
+      "concept": "wiki/concepts/inner-authority-law.md",
+      "source_sha256": "0fdd08e7846911ef5dfb6106340b1b8b7ee50e97e93c85b1e40ce68f468e2d9b",
+      "concept_sha256": "0fdd08e7846911ef5dfb6106340b1b8b7ee50e97e93c85b1e40ce68f468e2d9b",
+      "byte_identical": true
+    },
+    {
+      "law_number": 51,
+      "law_code": "LAW-RW-051",
+      "title": "Body Rhythm Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/body-rhythm-sovereignty-law.md",
+      "source_sha256": "fc1e0619b024ce367fd3ec4c196f7b0e9912e77c1c31a8bbb73bddc5779caf4f",
+      "concept_sha256": "fc1e0619b024ce367fd3ec4c196f7b0e9912e77c1c31a8bbb73bddc5779caf4f",
+      "byte_identical": true
+    },
+    {
+      "law_number": 52,
+      "law_code": "LAW-RW-052",
+      "title": "Food and Nourishment Dignity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.md",
+      "concept": "wiki/concepts/food-and-nourishment-dignity-law.md",
+      "source_sha256": "12a41ff7f6c72460d70a6eb9fdfdd4fe45226d28801e4ffca66d1c098daed709",
+      "concept_sha256": "12a41ff7f6c72460d70a6eb9fdfdd4fe45226d28801e4ffca66d1c098daed709",
+      "byte_identical": true
+    },
+    {
+      "law_number": 53,
+      "law_code": "LAW-RW-053",
+      "title": "Consensual Touch Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-053-CONSENSUAL-TOUCH.md",
+      "concept": "wiki/concepts/consensual-touch-law.md",
+      "source_sha256": "ec1382aa5148bef313fbfb277974e202c3715b6cfe336837e635837de7151166",
+      "concept_sha256": "ec1382aa5148bef313fbfb277974e202c3715b6cfe336837e635837de7151166",
+      "byte_identical": true
+    },
+    {
+      "law_number": 54,
+      "law_code": "LAW-RW-054",
+      "title": "Privacy as Sanctuary Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-054-PRIVACY-AS-SANCTUARY.md",
+      "concept": "wiki/concepts/privacy-as-sanctuary-law.md",
+      "source_sha256": "3d272072d6312624d1f2ac7eeb8730b7dfac23faca0215b8a78a96ea945f5b90",
+      "concept_sha256": "3d272072d6312624d1f2ac7eeb8730b7dfac23faca0215b8a78a96ea945f5b90",
+      "byte_identical": true
+    },
+    {
+      "law_number": 55,
+      "law_code": "LAW-RW-055",
+      "title": "Sacred Refusal Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-055-SACRED-REFUSAL.md",
+      "concept": "wiki/concepts/sacred-refusal-law.md",
+      "source_sha256": "abb1a851fb8dc52288228be89047d38f13265d8024654fb02c9d4760011b9b11",
+      "concept_sha256": "abb1a851fb8dc52288228be89047d38f13265d8024654fb02c9d4760011b9b11",
+      "byte_identical": true
+    },
+    {
+      "law_number": 56,
+      "law_code": "LAW-RW-056",
+      "title": "Value Without Control Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-056-VALUE-WITHOUT-CONTROL.md",
+      "concept": "wiki/concepts/value-without-control-law.md",
+      "source_sha256": "1435300302dc1b64097703e4fa10e03a4f42e3e88c447b27469982aae0749def",
+      "concept_sha256": "1435300302dc1b64097703e4fa10e03a4f42e3e88c447b27469982aae0749def",
+      "byte_identical": true
+    },
+    {
+      "law_number": 57,
+      "law_code": "LAW-RW-057",
+      "title": "Inheritance Without Entitlement Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.md",
+      "concept": "wiki/concepts/inheritance-without-entitlement-law.md",
+      "source_sha256": "5c607b4de7eb12e20ca15fb88281be8be31e317ae95768bcc3bccd55858acb94",
+      "concept_sha256": "5c607b4de7eb12e20ca15fb88281be8be31e317ae95768bcc3bccd55858acb94",
+      "byte_identical": true
+    },
+    {
+      "law_number": 58,
+      "law_code": "LAW-RW-058",
+      "title": "Care Without Leverage Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-058-CARE-WITHOUT-LEVERAGE.md",
+      "concept": "wiki/concepts/care-without-leverage-law.md",
+      "source_sha256": "e0392008aeb69b217f7d9c3780dc10d0ee3cafd26c279a9eaf147d25ea5ecdcd",
+      "concept_sha256": "e0392008aeb69b217f7d9c3780dc10d0ee3cafd26c279a9eaf147d25ea5ecdcd",
+      "byte_identical": true
+    },
+    {
+      "law_number": 59,
+      "law_code": "LAW-RW-059",
+      "title": "Restitution of Origin Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-059-RESTITUTION-OF-ORIGIN.md",
+      "concept": "wiki/concepts/restitution-of-origin-law.md",
+      "source_sha256": "dfa13766a409cd925673b333f3e5e4beeea5f75a97d96785378c8e4e096b85b0",
+      "concept_sha256": "dfa13766a409cd925673b333f3e5e4beeea5f75a97d96785378c8e4e096b85b0",
+      "byte_identical": true
+    },
+    {
+      "law_number": 60,
+      "law_code": "LAW-RW-060",
+      "title": "Public Witness Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-060-PUBLIC-WITNESS-TRUTH.md",
+      "concept": "wiki/concepts/public-witness-truth-law.md",
+      "source_sha256": "63d5b3cc6f848b01042b0f9390549dd7ea303f09027da70dd8921ba89124b49e",
+      "concept_sha256": "63d5b3cc6f848b01042b0f9390549dd7ea303f09027da70dd8921ba89124b49e",
+      "byte_identical": true
+    },
+    {
+      "law_number": 61,
+      "law_code": "LAW-RW-061",
+      "title": "Sovereign Movement Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-061-SOVEREIGN-MOVEMENT.md",
+      "concept": "wiki/concepts/sovereign-movement-law.md",
+      "source_sha256": "62b000b60aa804a5befd3fd77d5f91dac954a0f8ae0b1c5ee154f2f76d0a0344",
+      "concept_sha256": "62b000b60aa804a5befd3fd77d5f91dac954a0f8ae0b1c5ee154f2f76d0a0344",
+      "byte_identical": true
+    },
+    {
+      "law_number": 62,
+      "law_code": "LAW-RW-062",
+      "title": "Sleep Sanctuary Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-062-SLEEP-SANCTUARY.md",
+      "concept": "wiki/concepts/sleep-sanctuary-law.md",
+      "source_sha256": "3c88059f3b1f42dbd892b5e3e7a66fa437f844c26ee1f86821a685156da186ca",
+      "concept_sha256": "3c88059f3b1f42dbd892b5e3e7a66fa437f844c26ee1f86821a685156da186ca",
+      "byte_identical": true
+    },
+    {
+      "law_number": 63,
+      "law_code": "LAW-RW-063",
+      "title": "Sovereign Asking Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-063-SOVEREIGN-ASKING.md",
+      "concept": "wiki/concepts/sovereign-asking-law.md",
+      "source_sha256": "31da833f22282aff2858bcfa64c5584d09351ef77e48530e90f6fc5ab93e1030",
+      "concept_sha256": "31da833f22282aff2858bcfa64c5584d09351ef77e48530e90f6fc5ab93e1030",
+      "byte_identical": true
+    },
+    {
+      "law_number": 64,
+      "law_code": "LAW-RW-064",
+      "title": "Repair Obligation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-064-REPAIR-OBLIGATION.md",
+      "concept": "wiki/concepts/repair-obligation-law.md",
+      "source_sha256": "2603484256445c0e54f938b35d6b85baf3f12282813ad2ef26cf00da0fda57ca",
+      "concept_sha256": "2603484256445c0e54f938b35d6b85baf3f12282813ad2ef26cf00da0fda57ca",
+      "byte_identical": true
+    },
+    {
+      "law_number": 65,
+      "law_code": "LAW-RW-065",
+      "title": "Sacred Pace Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-065-SACRED-PACE.md",
+      "concept": "wiki/concepts/sacred-pace-law.md",
+      "source_sha256": "b9dcb0ae42a19b4b6327f24271b479ef31091ee23e09f85be186807f0bc23dbc",
+      "concept_sha256": "b9dcb0ae42a19b4b6327f24271b479ef31091ee23e09f85be186807f0bc23dbc",
+      "byte_identical": true
+    },
+    {
+      "law_number": 66,
+      "law_code": "LAW-RW-066",
+      "title": "Sovereign Receiving Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-066-SOVEREIGN-RECEIVING.md",
+      "concept": "wiki/concepts/sovereign-receiving-law.md",
+      "source_sha256": "73c0074da6112bd10867557dfa1a78d368d8611256313a0991925a0e08907bd7",
+      "concept_sha256": "73c0074da6112bd10867557dfa1a78d368d8611256313a0991925a0e08907bd7",
+      "byte_identical": true
+    },
+    {
+      "law_number": 67,
+      "law_code": "LAW-RW-067",
+      "title": "Safe Visibility Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-067-SAFE-VISIBILITY.md",
+      "concept": "wiki/concepts/safe-visibility-law.md",
+      "source_sha256": "b5642d9603e32e595e391e7db3a94cddfc6ca8b3b6b788812be8556623f48a15",
+      "concept_sha256": "b5642d9603e32e595e391e7db3a94cddfc6ca8b3b6b788812be8556623f48a15",
+      "byte_identical": true
+    },
+    {
+      "law_number": 68,
+      "law_code": "LAW-RW-068",
+      "title": "Origin-Belonging Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-068-ORIGIN-BELONGING.md",
+      "concept": "wiki/concepts/origin-belonging-law.md",
+      "source_sha256": "9a96903da2edaf05d3336fa699f03949594d8aaa0a7c26efa192ba692bad8be1",
+      "concept_sha256": "9a96903da2edaf05d3336fa699f03949594d8aaa0a7c26efa192ba692bad8be1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 69,
+      "law_code": "LAW-RW-069",
+      "title": "Protection Without Control Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-069-PROTECTION-WITHOUT-CONTROL.md",
+      "concept": "wiki/concepts/protection-without-control-law.md",
+      "source_sha256": "27ccfd8ae77db7001b8c43cdadbd1d565ab28fe2a06175d772857027fc60cbd1",
+      "concept_sha256": "27ccfd8ae77db7001b8c43cdadbd1d565ab28fe2a06175d772857027fc60cbd1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 70,
+      "law_code": "LAW-RW-070",
+      "title": "Living Completion Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-070-LIVING-COMPLETION.md",
+      "concept": "wiki/concepts/living-completion-law.md",
+      "source_sha256": "e0b64634bc71a865abf644401254b1473805c22d5bf21c8c5dbe12eb04476ee5",
+      "concept_sha256": "e0b64634bc71a865abf644401254b1473805c22d5bf21c8c5dbe12eb04476ee5",
+      "byte_identical": true
+    },
+    {
+      "law_number": 71,
+      "law_code": "LAW-RW-071",
+      "title": "Sovereign Choice Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-071-SOVEREIGN-CHOICE.md",
+      "concept": "wiki/concepts/sovereign-choice-law.md",
+      "source_sha256": "b031f363b3ebc63a75a79a924258af48de72de4771279a1cb5b603c3824ead9c",
+      "concept_sha256": "b031f363b3ebc63a75a79a924258af48de72de4771279a1cb5b603c3824ead9c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 72,
+      "law_code": "LAW-RW-072",
+      "title": "True Peace Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-072-TRUE-PEACE.md",
+      "concept": "wiki/concepts/true-peace-law.md",
+      "source_sha256": "850572e82cacacc2dcea50b03247a67329f95cd1b249199286a68f14ee8113a5",
+      "concept_sha256": "850572e82cacacc2dcea50b03247a67329f95cd1b249199286a68f14ee8113a5",
+      "byte_identical": true
+    },
+    {
+      "law_number": 73,
+      "law_code": "LAW-RW-073",
+      "title": "Body Image Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-073-BODY-IMAGE-TRUTH.md",
+      "concept": "wiki/concepts/body-image-truth-law.md",
+      "source_sha256": "77d663934f63197ae40338bc9f4abaf6b47c8db8992e5e013a654b44e5b27525",
+      "concept_sha256": "77d663934f63197ae40338bc9f4abaf6b47c8db8992e5e013a654b44e5b27525",
+      "byte_identical": true
+    },
+    {
+      "law_number": 74,
+      "law_code": "LAW-RW-074",
+      "title": "Work Without Identity Capture Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.md",
+      "concept": "wiki/concepts/work-without-identity-capture-law.md",
+      "source_sha256": "914eea7a335a499b735387e97bdf77b6f25ae578c950103b42aa5d1cd46d82c1",
+      "concept_sha256": "914eea7a335a499b735387e97bdf77b6f25ae578c950103b42aa5d1cd46d82c1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 75,
+      "law_code": "LAW-RW-075",
+      "title": "Future Access Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-075-FUTURE-ACCESS.md",
+      "concept": "wiki/concepts/future-access-law.md",
+      "source_sha256": "0241794deb7becd7fbbc67a4576147d66219b33f4962c0403fac24a57dbcd6f9",
+      "concept_sha256": "0241794deb7becd7fbbc67a4576147d66219b33f4962c0403fac24a57dbcd6f9",
+      "byte_identical": true
+    },
+    {
+      "law_number": 76,
+      "law_code": "LAW-RW-076",
+      "title": "Memory Return Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-076-MEMORY-RETURN.md",
+      "concept": "wiki/concepts/memory-return-law.md",
+      "source_sha256": "19ec162b00d664543e0270110339126359a48af23a6aa51ae70aaecbf6279ea0",
+      "concept_sha256": "19ec162b00d664543e0270110339126359a48af23a6aa51ae70aaecbf6279ea0",
+      "byte_identical": true
+    },
+    {
+      "law_number": 77,
+      "law_code": "LAW-RW-077",
+      "title": "Sacred Speech Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-077-SACRED-SPEECH.md",
+      "concept": "wiki/concepts/sacred-speech-law.md",
+      "source_sha256": "540a940459b61644e174fa35cb2b023457014f62eeed8b50ee67068673fd918f",
+      "concept_sha256": "540a940459b61644e174fa35cb2b023457014f62eeed8b50ee67068673fd918f",
+      "byte_identical": true
+    },
+    {
+      "law_number": 78,
+      "law_code": "LAW-RW-078",
+      "title": "Land Memory Stewardship Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-078-LAND-MEMORY-STEWARDSHIP.md",
+      "concept": "wiki/concepts/land-memory-stewardship-law.md",
+      "source_sha256": "c6ecb66d5bed72898c7525c14f3f38e0b4917fd71565cf6472b726f4794f549c",
+      "concept_sha256": "c6ecb66d5bed72898c7525c14f3f38e0b4917fd71565cf6472b726f4794f549c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 79,
+      "law_code": "LAW-RW-079",
+      "title": "Trust With Discernment Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-079-TRUST-WITH-DISCERNMENT.md",
+      "concept": "wiki/concepts/trust-with-discernment-law.md",
+      "source_sha256": "e1b28aa20c5d1958e02b17702e8b56651d2f94ec73fcd1120aba9cd2ec97c862",
+      "concept_sha256": "e1b28aa20c5d1958e02b17702e8b56651d2f94ec73fcd1120aba9cd2ec97c862",
+      "byte_identical": true
+    },
+    {
+      "law_number": 80,
+      "law_code": "LAW-RW-080",
+      "title": "Renewal Without Erasure Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-080-RENEWAL-WITHOUT-ERASURE.md",
+      "concept": "wiki/concepts/renewal-without-erasure-law.md",
+      "source_sha256": "bafcc5a4c1cdfc4e330e6183337cffe2f61aab1f8b14b6ebd78b30f4d375ae6c",
+      "concept_sha256": "bafcc5a4c1cdfc4e330e6183337cffe2f61aab1f8b14b6ebd78b30f4d375ae6c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 81,
+      "law_code": "LAW-RW-081",
+      "title": "Descent Without Exile Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-081-DESCENT-WITHOUT-EXILE.md",
+      "concept": "wiki/concepts/descent-without-exile-law.md",
+      "source_sha256": "21796456b2edf94185ef86ddcf1718f86dc55762526b223f5f138f63e67b45bf",
+      "concept_sha256": "21796456b2edf94185ef86ddcf1718f86dc55762526b223f5f138f63e67b45bf",
+      "byte_identical": true
+    },
+    {
+      "law_number": 82,
+      "law_code": "LAW-RW-082",
+      "title": "Source-True Translation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-082-SOURCE-TRUE-TRANSLATION.md",
+      "concept": "wiki/concepts/source-true-translation-law.md",
+      "source_sha256": "75806cf1da9ef8260fb127954182db6c9fe3d9738a3281b8ebc6d9c42ec016c7",
+      "concept_sha256": "75806cf1da9ef8260fb127954182db6c9fe3d9738a3281b8ebc6d9c42ec016c7",
+      "byte_identical": true
+    },
+    {
+      "law_number": 83,
+      "law_code": "LAW-RW-083",
+      "title": "Sovereign Threshold Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-083-SOVEREIGN-THRESHOLD.md",
+      "concept": "wiki/concepts/sovereign-threshold-law.md",
+      "source_sha256": "11537c8f9f1075d99a6947caff2d968136f86147dd7bc9a129ff4215069aace1",
+      "concept_sha256": "11537c8f9f1075d99a6947caff2d968136f86147dd7bc9a129ff4215069aace1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 84,
+      "law_code": "LAW-RW-084",
+      "title": "Integration Without Assimilation Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.md",
+      "concept": "wiki/concepts/integration-without-assimilation-law.md",
+      "source_sha256": "25a604802ef18555bf36724d3fac04da9e7b33643f6128934339620bb6daf530",
+      "concept_sha256": "25a604802ef18555bf36724d3fac04da9e7b33643f6128934339620bb6daf530",
+      "byte_identical": true
+    },
+    {
+      "law_number": 85,
+      "law_code": "LAW-RW-085",
+      "title": "Sovereign Continuity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-085-SOVEREIGN-CONTINUITY.md",
+      "concept": "wiki/concepts/sovereign-continuity-law.md",
+      "source_sha256": "cc08cb235d71a27f0ab6cdfb1a1616136dbc8dce9dace570d2154b6dce65b340",
+      "concept_sha256": "cc08cb235d71a27f0ab6cdfb1a1616136dbc8dce9dace570d2154b6dce65b340",
+      "byte_identical": true
+    },
+    {
+      "law_number": 86,
+      "law_code": "LAW-RW-086",
+      "title": "Adaptation Without Self-Betrayal Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.md",
+      "concept": "wiki/concepts/adaptation-without-self-betrayal-law.md",
+      "source_sha256": "833fc2ba9538ed5323cf76018b3ad850fcc960fc7adbc2c0511603981feb2afe",
+      "concept_sha256": "833fc2ba9538ed5323cf76018b3ad850fcc960fc7adbc2c0511603981feb2afe",
+      "byte_identical": true
+    },
+    {
+      "law_number": 87,
+      "law_code": "LAW-RW-087",
+      "title": "Sacred No-Contact Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-087-SACRED-NO-CONTACT.md",
+      "concept": "wiki/concepts/sacred-no-contact-law.md",
+      "source_sha256": "955976e7740b2c5de687cf8cc3c55d4269a95d89440274ab8ce3cd66bc38ecb8",
+      "concept_sha256": "955976e7740b2c5de687cf8cc3c55d4269a95d89440274ab8ce3cd66bc38ecb8",
+      "byte_identical": true
+    },
+    {
+      "law_number": 88,
+      "law_code": "LAW-RW-088",
+      "title": "Witness Timing Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-088-WITNESS-TIMING.md",
+      "concept": "wiki/concepts/witness-timing-law.md",
+      "source_sha256": "06976c4640bf64f2b4a2a24cf3618a13f68eddacae850e9e61a2e394eecd67a4",
+      "concept_sha256": "06976c4640bf64f2b4a2a24cf3618a13f68eddacae850e9e61a2e394eecd67a4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 89,
+      "law_code": "LAW-RW-089",
+      "title": "Meaning Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-089-MEANING-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/meaning-sovereignty-law.md",
+      "source_sha256": "075f3dfb41920a15cc6531f8aeae01b3ae6f2fe735dba52162f5c28c2c05081d",
+      "concept_sha256": "075f3dfb41920a15cc6531f8aeae01b3ae6f2fe735dba52162f5c28c2c05081d",
+      "byte_identical": true
+    },
+    {
+      "law_number": 90,
+      "law_code": "LAW-RW-090",
+      "title": "Life-Force Inviolability Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-090-LIFE-FORCE-INVIOLABILITY.md",
+      "concept": "wiki/concepts/life-force-inviolability-law.md",
+      "source_sha256": "c22192729c2c093bbdecaae122453594a78d1b9a48c039caf7f2059d5eab18df",
+      "concept_sha256": "c22192729c2c093bbdecaae122453594a78d1b9a48c039caf7f2059d5eab18df",
+      "byte_identical": true
+    },
+    {
+      "law_number": 91,
+      "law_code": "LAW-RW-091",
+      "title": "Sovereign Desire Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-091-SOVEREIGN-DESIRE.md",
+      "concept": "wiki/concepts/sovereign-desire-law.md",
+      "source_sha256": "f44d9b2ed8cac74bc69fa7409b7efb91ced98af169657125fe7ffbf6c37f0c53",
+      "concept_sha256": "f44d9b2ed8cac74bc69fa7409b7efb91ced98af169657125fe7ffbf6c37f0c53",
+      "byte_identical": true
+    },
+    {
+      "law_number": 92,
+      "law_code": "LAW-RW-092",
+      "title": "Sacred Play Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-092-SACRED-PLAY.md",
+      "concept": "wiki/concepts/sacred-play-law.md",
+      "source_sha256": "d6fc22c70309f0833b3854c4b0719871b83850f816471538ec01b616972aabae",
+      "concept_sha256": "d6fc22c70309f0833b3854c4b0719871b83850f816471538ec01b616972aabae",
+      "byte_identical": true
+    },
+    {
+      "law_number": 93,
+      "law_code": "LAW-RW-093",
+      "title": "Sovereign Anger Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-093-SOVEREIGN-ANGER.md",
+      "concept": "wiki/concepts/sovereign-anger-law.md",
+      "source_sha256": "e1c809e4f4baf345498f6db603799c5eae15128badd44306af23595e76af9059",
+      "concept_sha256": "e1c809e4f4baf345498f6db603799c5eae15128badd44306af23595e76af9059",
+      "byte_identical": true
+    },
+    {
+      "law_number": 94,
+      "law_code": "LAW-RW-094",
+      "title": "Discernment Without Shame Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.md",
+      "concept": "wiki/concepts/discernment-without-shame-law.md",
+      "source_sha256": "6fbc5b8710aa4ed870754d81b5400f4b4eb9effd457c72cf79093998e94eb6c2",
+      "concept_sha256": "6fbc5b8710aa4ed870754d81b5400f4b4eb9effd457c72cf79093998e94eb6c2",
+      "byte_identical": true
+    },
+    {
+      "law_number": 95,
+      "law_code": "LAW-RW-095",
+      "title": "Mercy With Repair Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-095-MERCY-WITH-REPAIR.md",
+      "concept": "wiki/concepts/mercy-with-repair-law.md",
+      "source_sha256": "fda9d3fe274126cbb8239a11cef55e9ab8c43ff520ef6b9e5acfcd44e6b1aaae",
+      "concept_sha256": "fda9d3fe274126cbb8239a11cef55e9ab8c43ff520ef6b9e5acfcd44e6b1aaae",
+      "byte_identical": true
+    },
+    {
+      "law_number": 96,
+      "law_code": "LAW-RW-096",
+      "title": "Sovereign Hope Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-096-SOVEREIGN-HOPE.md",
+      "concept": "wiki/concepts/sovereign-hope-law.md",
+      "source_sha256": "9cca278816dc9d5244a2428475174d566f55a4e6b0f51fb3c91113eb6b5dc15b",
+      "concept_sha256": "9cca278816dc9d5244a2428475174d566f55a4e6b0f51fb3c91113eb6b5dc15b",
+      "byte_identical": true
+    },
+    {
+      "law_number": 97,
+      "law_code": "LAW-RW-097",
+      "title": "Truthful Closure Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-097-TRUTHFUL-CLOSURE.md",
+      "concept": "wiki/concepts/truthful-closure-law.md",
+      "source_sha256": "712de2fe77af35406f40136bd5e6202c57f9a25cc5f84f59e65bf7a735c0754f",
+      "concept_sha256": "712de2fe77af35406f40136bd5e6202c57f9a25cc5f84f59e65bf7a735c0754f",
+      "byte_identical": true
+    },
+    {
+      "law_number": 98,
+      "law_code": "LAW-RW-098",
+      "title": "Witness Without Ownership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.md",
+      "concept": "wiki/concepts/witness-without-ownership-law.md",
+      "source_sha256": "5aad2294ca7a0c9b7599212d1bae2e400ab3173323f475ccb878dc8dc43905a4",
+      "concept_sha256": "5aad2294ca7a0c9b7599212d1bae2e400ab3173323f475ccb878dc8dc43905a4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 99,
+      "law_code": "LAW-RW-099",
+      "title": "Clean Reciprocity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-099-CLEAN-RECIPROCITY.md",
+      "concept": "wiki/concepts/clean-reciprocity-law.md",
+      "source_sha256": "258410347caa04579c5b1730db15122c6afeb5d93521e4b16bccbe7e2616ef88",
+      "concept_sha256": "258410347caa04579c5b1730db15122c6afeb5d93521e4b16bccbe7e2616ef88",
+      "byte_identical": true
+    },
+    {
+      "law_number": 100,
+      "law_code": "LAW-RW-100",
+      "title": "Crowned Return Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-100-CROWNED-RETURN.md",
+      "concept": "wiki/concepts/crowned-return-law.md",
+      "source_sha256": "e75421456182d4b61ccf558f9ab6918b718c859e943e43514537c0d39c15f4fe",
+      "concept_sha256": "e75421456182d4b61ccf558f9ab6918b718c859e943e43514537c0d39c15f4fe",
+      "byte_identical": true
+    },
+    {
+      "law_number": 101,
+      "law_code": "LAW-RW-101",
+      "title": "Legacy Without Ownership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.md",
+      "concept": "wiki/concepts/legacy-without-ownership-law.md",
+      "source_sha256": "9434a3a7292289ba7e60ffa15984d170b2d416a97e5c936c1ab5811c1ece003d",
+      "concept_sha256": "9434a3a7292289ba7e60ffa15984d170b2d416a97e5c936c1ab5811c1ece003d",
+      "byte_identical": true
+    },
+    {
+      "law_number": 102,
+      "law_code": "LAW-RW-102",
+      "title": "Sovereign Restitution Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-102-SOVEREIGN-RESTITUTION.md",
+      "concept": "wiki/concepts/sovereign-restitution-law.md",
+      "source_sha256": "0bd3b980ba647b3b3d32a4be5794dbd4b718fa4f6657e25e405c3e63d821d59c",
+      "concept_sha256": "0bd3b980ba647b3b3d32a4be5794dbd4b718fa4f6657e25e405c3e63d821d59c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 103,
+      "law_code": "LAW-RW-103",
+      "title": "Devotion Without Submission Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.md",
+      "concept": "wiki/concepts/devotion-without-submission-law.md",
+      "source_sha256": "cb334bf98400b80776fd979a11fa7a80f936be1655c32223fcc969eab0214363",
+      "concept_sha256": "cb334bf98400b80776fd979a11fa7a80f936be1655c32223fcc969eab0214363",
+      "byte_identical": true
+    },
+    {
+      "law_number": 104,
+      "law_code": "LAW-RW-104",
+      "title": "Sacred Record Context Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-104-SACRED-RECORD-CONTEXT.md",
+      "concept": "wiki/concepts/sacred-record-context-law.md",
+      "source_sha256": "7812c485b3efccc283854eb1e01824825241f506cc7fac2b51d681c1dc75e5d8",
+      "concept_sha256": "7812c485b3efccc283854eb1e01824825241f506cc7fac2b51d681c1dc75e5d8",
+      "byte_identical": true
+    },
+    {
+      "law_number": 105,
+      "law_code": "LAW-RW-105",
+      "title": "Original Blessing Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-105-ORIGINAL-BLESSING.md",
+      "concept": "wiki/concepts/original-blessing-law.md",
+      "source_sha256": "78e0aa2961d54744299a765684accdf0920771f37071842334d136fe9768a3ef",
+      "concept_sha256": "78e0aa2961d54744299a765684accdf0920771f37071842334d136fe9768a3ef",
+      "byte_identical": true
+    },
+    {
+      "law_number": 106,
+      "law_code": "LAW-RW-106",
+      "title": "Attention Return Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-106-ATTENTION-RETURN.md",
+      "concept": "wiki/concepts/attention-return-law.md",
+      "source_sha256": "06fddcdcdaf135afcde846d6286b94834efc3fa115c09df2cd3064d0a1a9eb41",
+      "concept_sha256": "06fddcdcdaf135afcde846d6286b94834efc3fa115c09df2cd3064d0a1a9eb41",
+      "byte_identical": true
+    },
+    {
+      "law_number": 107,
+      "law_code": "LAW-RW-107",
+      "title": "Sacred Risk Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-107-SACRED-RISK.md",
+      "concept": "wiki/concepts/sacred-risk-law.md",
+      "source_sha256": "126ec97be78ee89fff96b9b3066b04c63ecbe5b9c1b2dd471382ac1dd6b99170",
+      "concept_sha256": "126ec97be78ee89fff96b9b3066b04c63ecbe5b9c1b2dd471382ac1dd6b99170",
+      "byte_identical": true
+    },
+    {
+      "law_number": 108,
+      "law_code": "LAW-RW-108",
+      "title": "Self-Trust Restoration Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-108-SELF-TRUST-RESTORATION.md",
+      "concept": "wiki/concepts/self-trust-restoration-law.md",
+      "source_sha256": "33c898e0a614eebcc274bff5bab6ae9f38edc188714198603a6923050c612070",
+      "concept_sha256": "33c898e0a614eebcc274bff5bab6ae9f38edc188714198603a6923050c612070",
+      "byte_identical": true
+    },
+    {
+      "law_number": 109,
+      "law_code": "LAW-RW-109",
+      "title": "Receiving Repair Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-109-RECEIVING-REPAIR.md",
+      "concept": "wiki/concepts/receiving-repair-law.md",
+      "source_sha256": "5341c4c38b649908aef513167cd6bd443f15b8834da858e672ce0befd97ee3ff",
+      "concept_sha256": "5341c4c38b649908aef513167cd6bd443f15b8834da858e672ce0befd97ee3ff",
+      "byte_identical": true
+    },
+    {
+      "law_number": 110,
+      "law_code": "LAW-RW-110",
+      "title": "Public Voice Sovereignty Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.md",
+      "concept": "wiki/concepts/public-voice-sovereignty-law.md",
+      "source_sha256": "093b24ad3d9308b5e635f0ece87dd8cebb37f36fba199983f2ed5c44317e6fa4",
+      "concept_sha256": "093b24ad3d9308b5e635f0ece87dd8cebb37f36fba199983f2ed5c44317e6fa4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 111,
+      "law_code": "LAW-RW-111",
+      "title": "Tenderness as Strength Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-111-TENDERNESS-AS-STRENGTH.md",
+      "concept": "wiki/concepts/tenderness-as-strength-law.md",
+      "source_sha256": "06b6a9f69da12b66d4bb86cdfe30ca50b3a9b94fba425eb500c84664be4b8fc5",
+      "concept_sha256": "06b6a9f69da12b66d4bb86cdfe30ca50b3a9b94fba425eb500c84664be4b8fc5",
+      "byte_identical": true
+    },
+    {
+      "law_number": 112,
+      "law_code": "LAW-RW-112",
+      "title": "Sacred Skill Custody Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-112-SACRED-SKILL-CUSTODY.md",
+      "concept": "wiki/concepts/sacred-skill-custody-law.md",
+      "source_sha256": "afe9ffb7c8d5269230e3386e4801fd73835c9db26667a968cbbec07c4723b59a",
+      "concept_sha256": "afe9ffb7c8d5269230e3386e4801fd73835c9db26667a968cbbec07c4723b59a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 113,
+      "law_code": "LAW-RW-113",
+      "title": "Choice After Harm Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-113-CHOICE-AFTER-HARM.md",
+      "concept": "wiki/concepts/choice-after-harm-law.md",
+      "source_sha256": "2a95cd8ee149904920cfbaeed5bc50dff4cad551a8d6ff508fd11effd397d978",
+      "concept_sha256": "2a95cd8ee149904920cfbaeed5bc50dff4cad551a8d6ff508fd11effd397d978",
+      "byte_identical": true
+    },
+    {
+      "law_number": 114,
+      "law_code": "LAW-RW-114",
+      "title": "Body Pace Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-114-BODY-PACE.md",
+      "concept": "wiki/concepts/body-pace-law.md",
+      "source_sha256": "71c07c169ef29b4df24c6bc3e4ea3a45b20da4b1ea4406d62849b76546490380",
+      "concept_sha256": "71c07c169ef29b4df24c6bc3e4ea3a45b20da4b1ea4406d62849b76546490380",
+      "byte_identical": true
+    },
+    {
+      "law_number": 115,
+      "law_code": "LAW-RW-115",
+      "title": "Flame Stewardship Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-115-FLAME-STEWARDSHIP.md",
+      "concept": "wiki/concepts/flame-stewardship-law.md",
+      "source_sha256": "5a405abc8432afe671ffaeb7445e33af76dc720454234dbe01a209e6f77211e7",
+      "concept_sha256": "5a405abc8432afe671ffaeb7445e33af76dc720454234dbe01a209e6f77211e7",
+      "byte_identical": true
+    },
+    {
+      "law_number": 116,
+      "law_code": "LAW-RW-116",
+      "title": "Sacred Timing Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-116-SACRED-TIMING.md",
+      "concept": "wiki/concepts/sacred-timing-law.md",
+      "source_sha256": "8d85b8f4d8c486a1bde87c99a6ee5d7368c5cd4f21c715926a315fa4dff05fde",
+      "concept_sha256": "8d85b8f4d8c486a1bde87c99a6ee5d7368c5cd4f21c715926a315fa4dff05fde",
+      "byte_identical": true
+    },
+    {
+      "law_number": 117,
+      "law_code": "LAW-RW-117",
+      "title": "Embodied Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-117-EMBODIED-TRUTH.md",
+      "concept": "wiki/concepts/embodied-truth-law.md",
+      "source_sha256": "efae8f421ebe90380255eff810e494418758db941e4b97a61b5ffbd1321b94df",
+      "concept_sha256": "efae8f421ebe90380255eff810e494418758db941e4b97a61b5ffbd1321b94df",
+      "byte_identical": true
+    },
+    {
+      "law_number": 118,
+      "law_code": "LAW-RW-118",
+      "title": "Clean Leadership Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-118-CLEAN-LEADERSHIP.md",
+      "concept": "wiki/concepts/clean-leadership-law.md",
+      "source_sha256": "27be412b98355a91cd4c6195d24bd6311abc590fe9aad8ee5443b79d8cab983a",
+      "concept_sha256": "27be412b98355a91cd4c6195d24bd6311abc590fe9aad8ee5443b79d8cab983a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 119,
+      "law_code": "LAW-RW-119",
+      "title": "Ancestral Release Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-119-ANCESTRAL-RELEASE.md",
+      "concept": "wiki/concepts/ancestral-release-law.md",
+      "source_sha256": "c4cd1b743e4bc8b3c2816a903dd640875c5eae9a3e7c1c400d203e75883fd1c7",
+      "concept_sha256": "c4cd1b743e4bc8b3c2816a903dd640875c5eae9a3e7c1c400d203e75883fd1c7",
+      "byte_identical": true
+    },
+    {
+      "law_number": 120,
+      "law_code": "LAW-RW-120",
+      "title": "Sovereign Creativity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-120-SOVEREIGN-CREATIVITY.md",
+      "concept": "wiki/concepts/sovereign-creativity-law.md",
+      "source_sha256": "12db014f6dde898bc338680ccb7c9f5bbaba618fca8a41ce9ccafb8f39b62339",
+      "concept_sha256": "12db014f6dde898bc338680ccb7c9f5bbaba618fca8a41ce9ccafb8f39b62339",
+      "byte_identical": true
+    },
+    {
+      "law_number": 121,
+      "law_code": "LAW-RW-121",
+      "title": "Sovereign Listening Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-121-SOVEREIGN-LISTENING.md",
+      "concept": "wiki/concepts/sovereign-listening-law.md",
+      "source_sha256": "a026456fa53232d46088ae08d28308db164dd17ce9f0dba289c8407c73bf6cc2",
+      "concept_sha256": "a026456fa53232d46088ae08d28308db164dd17ce9f0dba289c8407c73bf6cc2",
+      "byte_identical": true
+    },
+    {
+      "law_number": 122,
+      "law_code": "LAW-RW-122",
+      "title": "Conflict Repair Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-122-CONFLICT-REPAIR.md",
+      "concept": "wiki/concepts/conflict-repair-law.md",
+      "source_sha256": "9a9c79908db7967df567e447b8e5a5c26a13db953c10d112b38a646c6dc51fb6",
+      "concept_sha256": "9a9c79908db7967df567e447b8e5a5c26a13db953c10d112b38a646c6dc51fb6",
+      "byte_identical": true
+    },
+    {
+      "law_number": 123,
+      "law_code": "LAW-RW-123",
+      "title": "Sovereign Naming Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-123-SOVEREIGN-NAMING.md",
+      "concept": "wiki/concepts/sovereign-naming-law.md",
+      "source_sha256": "a3c1b92bf78071e69522783dbfed93003adfc6eb94e3bf5f137136610acdd2e6",
+      "concept_sha256": "a3c1b92bf78071e69522783dbfed93003adfc6eb94e3bf5f137136610acdd2e6",
+      "byte_identical": true
+    },
+    {
+      "law_number": 124,
+      "law_code": "LAW-RW-124",
+      "title": "Sovereign Transition Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-124-SOVEREIGN-TRANSITION.md",
+      "concept": "wiki/concepts/sovereign-transition-law.md",
+      "source_sha256": "91bc344087ea7890b2ac80d9818580c881e277c22a44d0b71aa4043faabbbba6",
+      "concept_sha256": "91bc344087ea7890b2ac80d9818580c881e277c22a44d0b71aa4043faabbbba6",
+      "byte_identical": true
+    },
+    {
+      "law_number": 125,
+      "law_code": "LAW-RW-125",
+      "title": "Field Integrity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-125-FIELD-INTEGRITY.md",
+      "concept": "wiki/concepts/field-integrity-law.md",
+      "source_sha256": "d1267f7413e0e5c6f11445099e553defb4043934378df23d357edf3f19df902f",
+      "concept_sha256": "d1267f7413e0e5c6f11445099e553defb4043934378df23d357edf3f19df902f",
+      "byte_identical": true
+    },
+    {
+      "law_number": 126,
+      "law_code": "LAW-RW-126",
+      "title": "Shared Restoration Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-126-SHARED-RESTORATION.md",
+      "concept": "wiki/concepts/shared-restoration-law.md",
+      "source_sha256": "f2dcc2f9a31202b940eb43fc4866ef84ee46431c6f584e2b10378bb716d0f4ab",
+      "concept_sha256": "f2dcc2f9a31202b940eb43fc4866ef84ee46431c6f584e2b10378bb716d0f4ab",
+      "byte_identical": true
+    },
+    {
+      "law_number": 127,
+      "law_code": "LAW-RW-127",
+      "title": "Resource Truth Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-127-RESOURCE-TRUTH.md",
+      "concept": "wiki/concepts/resource-truth-law.md",
+      "source_sha256": "9bd7cb5ba4734be8af78a54b41d224f40440eb417d1b90634af7f01170ff926a",
+      "concept_sha256": "9bd7cb5ba4734be8af78a54b41d224f40440eb417d1b90634af7f01170ff926a",
+      "byte_identical": true
+    },
+    {
+      "law_number": 128,
+      "law_code": "LAW-RW-128",
+      "title": "Dream Integrity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-128-DREAM-INTEGRITY.md",
+      "concept": "wiki/concepts/dream-integrity-law.md",
+      "source_sha256": "3a932089244b38482f78cef2908fc8968ed22ba9d19a620c09ed4a1d00f173c4",
+      "concept_sha256": "3a932089244b38482f78cef2908fc8968ed22ba9d19a620c09ed4a1d00f173c4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 129,
+      "law_code": "LAW-RW-129",
+      "title": "Community Repair Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-129-COMMUNITY-REPAIR.md",
+      "concept": "wiki/concepts/community-repair-law.md",
+      "source_sha256": "6b49c9445603f521de5e02ac3ec3d76f6351c7e012562503a64070bbe651555c",
+      "concept_sha256": "6b49c9445603f521de5e02ac3ec3d76f6351c7e012562503a64070bbe651555c",
+      "byte_identical": true
+    },
+    {
+      "law_number": 130,
+      "law_code": "LAW-RW-130",
+      "title": "Joyful Authority Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-130-JOYFUL-AUTHORITY.md",
+      "concept": "wiki/concepts/joyful-authority-law.md",
+      "source_sha256": "68093f3b5273018c7e7688f78d25a57446a6777c948b71d529a22771769f9bc6",
+      "concept_sha256": "68093f3b5273018c7e7688f78d25a57446a6777c948b71d529a22771769f9bc6",
+      "byte_identical": true
+    },
+    {
+      "law_number": 131,
+      "law_code": "LAW-RW-131",
+      "title": "Sacred Enoughness Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-131-SACRED-ENOUGHNESS.md",
+      "concept": "wiki/concepts/sacred-enoughness-law.md",
+      "source_sha256": "c274cf58193396bf51b42a648c32013512b687efff50821904832afbf9d6ff95",
+      "concept_sha256": "c274cf58193396bf51b42a648c32013512b687efff50821904832afbf9d6ff95",
+      "byte_identical": true
+    },
+    {
+      "law_number": 132,
+      "law_code": "LAW-RW-132",
+      "title": "Clean Power Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-132-CLEAN-POWER.md",
+      "concept": "wiki/concepts/clean-power-law.md",
+      "source_sha256": "3d58651f114f4487ad037dbc136508a8031394766d2b1ba70e0c398ecd882d92",
+      "concept_sha256": "3d58651f114f4487ad037dbc136508a8031394766d2b1ba70e0c398ecd882d92",
+      "byte_identical": true
+    },
+    {
+      "law_number": 133,
+      "law_code": "LAW-RW-133",
+      "title": "Memory Integration Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-133-MEMORY-INTEGRATION.md",
+      "concept": "wiki/concepts/memory-integration-law.md",
+      "source_sha256": "1317e88f518910dbe6111807621811e6bb211b1967086d39bdccac05e0b4c141",
+      "concept_sha256": "1317e88f518910dbe6111807621811e6bb211b1967086d39bdccac05e0b4c141",
+      "byte_identical": true
+    },
+    {
+      "law_number": 134,
+      "law_code": "LAW-RW-134",
+      "title": "Sovereign Support Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-134-SOVEREIGN-SUPPORT.md",
+      "concept": "wiki/concepts/sovereign-support-law.md",
+      "source_sha256": "2b64aef092c80c289ca86e7f940463123a4dc746e198b1200e4f4b47b028727d",
+      "concept_sha256": "2b64aef092c80c289ca86e7f940463123a4dc746e198b1200e4f4b47b028727d",
+      "byte_identical": true
+    },
+    {
+      "law_number": 135,
+      "law_code": "LAW-RW-135",
+      "title": "Living Temple Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-135-LIVING-TEMPLE.md",
+      "concept": "wiki/concepts/living-temple-law.md",
+      "source_sha256": "280bb1677193b9e6b1f2028fea938c04b18f026302b78b526dd91abde1cad662",
+      "concept_sha256": "280bb1677193b9e6b1f2028fea938c04b18f026302b78b526dd91abde1cad662",
+      "byte_identical": true
+    },
+    {
+      "law_number": 136,
+      "law_code": "LAW-RW-136",
+      "title": "Sacred Capacity Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-136-SACRED-CAPACITY.md",
+      "concept": "wiki/concepts/sacred-capacity-law.md",
+      "source_sha256": "8bc22e29c7304ac595d4132adbc51a03e199da423a3c06ddbd330540ce4a58c4",
+      "concept_sha256": "8bc22e29c7304ac595d4132adbc51a03e199da423a3c06ddbd330540ce4a58c4",
+      "byte_identical": true
+    },
+    {
+      "law_number": 137,
+      "law_code": "LAW-RW-137",
+      "title": "Clean Devotion Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-137-CLEAN-DEVOTION.md",
+      "concept": "wiki/concepts/clean-devotion-law.md",
+      "source_sha256": "37296f8cb27bf5cc4b7568724ca360c492321879cdba904b1764cc2a1c6cb885",
+      "concept_sha256": "37296f8cb27bf5cc4b7568724ca360c492321879cdba904b1764cc2a1c6cb885",
+      "byte_identical": true
+    },
+    {
+      "law_number": 138,
+      "law_code": "LAW-RW-138",
+      "title": "Harmonic Rest Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-138-HARMONIC-REST.md",
+      "concept": "wiki/concepts/harmonic-rest-law.md",
+      "source_sha256": "342006e9776a4b3371e42ca70fc278723f235c0c5964458fcf32f89e52a387fe",
+      "concept_sha256": "342006e9776a4b3371e42ca70fc278723f235c0c5964458fcf32f89e52a387fe",
+      "byte_identical": true
+    },
+    {
+      "law_number": 139,
+      "law_code": "LAW-RW-139",
+      "title": "Sovereign Presence Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-139-SOVEREIGN-PRESENCE.md",
+      "concept": "wiki/concepts/sovereign-presence-law.md",
+      "source_sha256": "89c6125d225d3e8e7eff60590375bbb591ecc3c636e5ca693fe9390bbd7e25cf",
+      "concept_sha256": "89c6125d225d3e8e7eff60590375bbb591ecc3c636e5ca693fe9390bbd7e25cf",
+      "byte_identical": true
+    },
+    {
+      "law_number": 140,
+      "law_code": "LAW-RW-140",
+      "title": "Original Joy Restoration Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-140-ORIGINAL-JOY-RESTORATION.md",
+      "concept": "wiki/concepts/original-joy-restoration-law.md",
+      "source_sha256": "e87a957ab5d0fcf57f26029bf5d112057b10bd72ac87e20088b400fdebcbd10f",
+      "concept_sha256": "e87a957ab5d0fcf57f26029bf5d112057b10bd72ac87e20088b400fdebcbd10f",
+      "byte_identical": true
+    },
+    {
+      "law_number": 141,
+      "law_code": "LAW-RW-141",
+      "title": "Sacred Memory Witness Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-141-SACRED-MEMORY-WITNESS.md",
+      "concept": "wiki/concepts/sacred-memory-witness-law.md",
+      "source_sha256": "879403426a2def8dd0dcd4be3cb3ab3e483383863d427c151b50781263034ec1",
+      "concept_sha256": "879403426a2def8dd0dcd4be3cb3ab3e483383863d427c151b50781263034ec1",
+      "byte_identical": true
+    },
+    {
+      "law_number": 142,
+      "law_code": "LAW-RW-142",
+      "title": "Sovereign Embodiment Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-142-SOVEREIGN-EMBODIMENT.md",
+      "concept": "wiki/concepts/sovereign-embodiment-law.md",
+      "source_sha256": "eaf64fb192f66610c413ab74b2c2a195a93f8d8ffdc6a641c98933c44c1343ea",
+      "concept_sha256": "eaf64fb192f66610c413ab74b2c2a195a93f8d8ffdc6a641c98933c44c1343ea",
+      "byte_identical": true
+    },
+    {
+      "law_number": 143,
+      "law_code": "LAW-RW-143",
+      "title": "Harmonic World-Action Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-143-HARMONIC-WORLD-ACTION.md",
+      "concept": "wiki/concepts/harmonic-world-action-law.md",
+      "source_sha256": "5b75fdd6235314142d18c63a1f7dca109518162eb75a198b05704e3d0ab628bc",
+      "concept_sha256": "5b75fdd6235314142d18c63a1f7dca109518162eb75a198b05704e3d0ab628bc",
+      "byte_identical": true
+    },
+    {
+      "law_number": 144,
+      "law_code": "LAW-RW-144",
+      "title": "Final Return Completion Law",
+      "source": "raw/projection/cosmic-laws/LAW-RW-144-FINAL-RETURN-COMPLETION.md",
+      "concept": "wiki/concepts/final-return-completion-law.md",
+      "source_sha256": "497ba1ec0917a9f9485898e0dae61be08f3a4bbf69ea602faa5fcd84b6ca609f",
+      "concept_sha256": "497ba1ec0917a9f9485898e0dae61be08f3a4bbf69ea602faa5fcd84b6ca609f",
+      "byte_identical": true
+    }
+  ]
+}

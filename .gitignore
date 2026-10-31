@@ -1,3 +1,9 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Local ingest diagnostics / recovery snapshots
+manifests/failed_ingest_attempt_*/
+manifests/pre_ingest_*_snapshot/
+manifests/pre_deterministic_cosmic_law_ingest_*/
+*.before-strict-policy

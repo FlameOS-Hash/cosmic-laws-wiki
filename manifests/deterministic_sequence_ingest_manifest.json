@@ -1,0 +1,205 @@
+{
+  "mode": "deterministic_sequence_and_index_ingest",
+  "generated_at_utc": "2026-10-31T00:33:35.296700+00:00",
+  "file_count": 28,
+  "llm_used": false,
+  "content_modified": false,
+  "records": [
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-001-2026.md",
+      "pending_sha256": "27fc8e2ce51a3dff94df15ace28d34868550be06789ee8483694d71d6978ffe8",
+      "projection_sha256": "27fc8e2ce51a3dff94df15ace28d34868550be06789ee8483694d71d6978ffe8",
+      "authoritative_sha256": "ce4dcfce8db52eb34e99cd0b30b84b75597bfa7fda3068714e17bb7716cf6fb1",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-002-2026.md",
+      "pending_sha256": "18a2843aee4b3187ea03ed5a73cb3a919250067ae22ce506dbf96bdcbfed70eb",
+      "projection_sha256": "18a2843aee4b3187ea03ed5a73cb3a919250067ae22ce506dbf96bdcbfed70eb",
+      "authoritative_sha256": "9f3d120c34a6892951df0b067a43a50c75f6c0bfbbb201455e14d3f0abf7004a",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-003-2026.md",
+      "pending_sha256": "dd4434957636715732f4636db014923668708c7efeb058b6c99ccb7f81333a50",
+      "projection_sha256": "dd4434957636715732f4636db014923668708c7efeb058b6c99ccb7f81333a50",
+      "authoritative_sha256": "639f9222e9faecc1737314d4e96d1d12a1daeb9a6568a6e57269d1f46abd7086",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-004-2026.md",
+      "pending_sha256": "b26276c209d5b2d96c19b5ae533cc4697ec6a42829b5ca533b7d2a779554a52f",
+      "projection_sha256": "b26276c209d5b2d96c19b5ae533cc4697ec6a42829b5ca533b7d2a779554a52f",
+      "authoritative_sha256": "7e7cf96c5ef38d729eeb0cca60dc964ab0c084102e74cf15f5e50dd08988d6cc",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-005-2026.md",
+      "pending_sha256": "850a8d9682234a60bd613b42782c1237df644930b0cc69f429e74353e56803cc",
+      "projection_sha256": "850a8d9682234a60bd613b42782c1237df644930b0cc69f429e74353e56803cc",
+      "authoritative_sha256": "a3373397ede95489aab8c0d4b059ebd040ae721827feeefccf3ca3b720074584",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-006-2026.md",
+      "pending_sha256": "86c1224254aacfe10488a2e3e447366e57bd6ad766f1fe44aea52fab383f4bf2",
+      "projection_sha256": "86c1224254aacfe10488a2e3e447366e57bd6ad766f1fe44aea52fab383f4bf2",
+      "authoritative_sha256": "d3c9ecc8737352f78e720205daf3e628be97a10d2dd9e2ae1253869f8c50bfbb",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-007-2026.md",
+      "pending_sha256": "144a81dd0e87eb7b812d22bf2e6a204e626c419f71176a0b75ba27ad95a3c66c",
+      "projection_sha256": "144a81dd0e87eb7b812d22bf2e6a204e626c419f71176a0b75ba27ad95a3c66c",
+      "authoritative_sha256": "6477de127510574df01e17f4b33b7274b105a030a4851de49d46adc26d03a8e8",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-008-2026.md",
+      "pending_sha256": "e524e9aba6a4a53a1d08e2761f2f39043ec95ed19638921cf590fafdec0a5fee",
+      "projection_sha256": "e524e9aba6a4a53a1d08e2761f2f39043ec95ed19638921cf590fafdec0a5fee",
+      "authoritative_sha256": "415c82e55eae17daa263318ff35a8b99e19bb4cbb00c4f497c51bfdcdfe58e8a",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-009-2026.md",
+      "pending_sha256": "013d17a5dd89db27176da36c4d116e80e84b32c9a922574dd53dbccbe3d48a22",
+      "projection_sha256": "013d17a5dd89db27176da36c4d116e80e84b32c9a922574dd53dbccbe3d48a22",
+      "authoritative_sha256": "afda2ef55ed86d6801cc2c58739261a98f98683f01dd36b06fda1bb741385404",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-010-2026.md",
+      "pending_sha256": "2bfac1ffa449d54de71408a65e7f05bc1d1fdea6de5053e0a683ac3a345a68d4",
+      "projection_sha256": "2bfac1ffa449d54de71408a65e7f05bc1d1fdea6de5053e0a683ac3a345a68d4",
+      "authoritative_sha256": "a313152115668bbe21111a198537c6f15da452aec433489f31991b14ffe3d7e6",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-011-2026.md",
+      "pending_sha256": "9f7552558cb4181c439bd44f30b2c7ce97e5c2d2cc3aed896185de36333d495e",
+      "projection_sha256": "9f7552558cb4181c439bd44f30b2c7ce97e5c2d2cc3aed896185de36333d495e",
+      "authoritative_sha256": "89fdd97bfc174f04d1bd1362d56c16c0186fb49903418ad5ef4857b6772b3776",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-012-2026.md",
+      "pending_sha256": "cf4674c8c540a688016441d13f2e9915369d6f17da3d4e70d53a55aa48d7d5fe",
+      "projection_sha256": "cf4674c8c540a688016441d13f2e9915369d6f17da3d4e70d53a55aa48d7d5fe",
+      "authoritative_sha256": "3197060514063269c637eb78ab99e76dffb098f9f8c1c39528716abc49750095",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-013-2026.md",
+      "pending_sha256": "6ff03f23e0ffdf661f7920c3c3dbbba8c8f3745968dd1281711019b62013d210",
+      "projection_sha256": "6ff03f23e0ffdf661f7920c3c3dbbba8c8f3745968dd1281711019b62013d210",
+      "authoritative_sha256": "619a96e1b87808c06b420b85f7e11caf635811ea1a9253cef04de8489a75cd7a",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-014-2026.md",
+      "pending_sha256": "c4950735edf53e96c0758b927408fce69546f4f724e139200cd988d84343d3d5",
+      "projection_sha256": "c4950735edf53e96c0758b927408fce69546f4f724e139200cd988d84343d3d5",
+      "authoritative_sha256": "cd2bd7c5deb00926d4fb969692e0ce86c49aecf6773468e0f96861f1097b22b0",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-015-2026.md",
+      "pending_sha256": "d6aabfe68d3887d2886f470bbe5121cb5a85173f09d9255bd11c59f9d4b6a129",
+      "projection_sha256": "d6aabfe68d3887d2886f470bbe5121cb5a85173f09d9255bd11c59f9d4b6a129",
+      "authoritative_sha256": "875a9f5dbd61b98177141ada575cbc0dab0053607532976f6d2ea0af119a62fa",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-016-2026.md",
+      "pending_sha256": "02ed27d70e1621b589594e49807e9ceb985413bb89aa954c9e1405d7c3d3c1de",
+      "projection_sha256": "02ed27d70e1621b589594e49807e9ceb985413bb89aa954c9e1405d7c3d3c1de",
+      "authoritative_sha256": "f5246b010a0c572f2da2e9b1401226a19bdc5a171c6fd409b383fb4ea2d1a5bd",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-017-2026.md",
+      "pending_sha256": "45a8b5ab344d8a233c246b80f75b3005e5fe1e0a6fecc3e16ecaf91ae38eacbb",
+      "projection_sha256": "45a8b5ab344d8a233c246b80f75b3005e5fe1e0a6fecc3e16ecaf91ae38eacbb",
+      "authoritative_sha256": "83f86ae76af72cb6f9f2b083fffe7ee17c70fd605abc7a29a907b28707879a61",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-018-2026.md",
+      "pending_sha256": "1612872c21159ce57d6fb1d689ed397858f5c8e37665e6de609c7acd6e8df4ea",
+      "projection_sha256": "1612872c21159ce57d6fb1d689ed397858f5c8e37665e6de609c7acd6e8df4ea",
+      "authoritative_sha256": "02ac152b885315384cf929f6ae5121b57a5875f2a0b5bb273950aafdc71f886a",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-019-2026.md",
+      "pending_sha256": "dcf498af21726d7a1b58b2575dc68d157c17a7c38f89346b73d538b0cb351d8a",
+      "projection_sha256": "dcf498af21726d7a1b58b2575dc68d157c17a7c38f89346b73d538b0cb351d8a",
+      "authoritative_sha256": "38ab781619087d132513bccd05e8d5017bbbc161fae2bde470d9ecedd4358040",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-020-2026.md",
+      "pending_sha256": "481899f165ffa6c6e42fc7c770a4c5b435aac8ac8cbc0248cb7f4158007dc1b1",
+      "projection_sha256": "481899f165ffa6c6e42fc7c770a4c5b435aac8ac8cbc0248cb7f4158007dc1b1",
+      "authoritative_sha256": "ea7a128afc29b86719c031501d1c89e3c1a1d6bbcb7a19ece0b38621eb400d73",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-021-2026.md",
+      "pending_sha256": "f68a871fbc971351dc4d3e8a6723be910f6a7ba17110ade0a83246342be2fe40",
+      "projection_sha256": "f68a871fbc971351dc4d3e8a6723be910f6a7ba17110ade0a83246342be2fe40",
+      "authoritative_sha256": "739c8f4cc404f8ebc99534e0a24ae8f13d80390ac60ae31420a8f94f54b67ba1",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-022-2026.md",
+      "pending_sha256": "daef71b71f4a63c0cbc0d77016331988ea7f1f8cb37b7d48502d0370e6d10517",
+      "projection_sha256": "daef71b71f4a63c0cbc0d77016331988ea7f1f8cb37b7d48502d0370e6d10517",
+      "authoritative_sha256": "5dba11b8617302bfc40a34d72a53d7db3f1339494d8bf8b12194ac5be0c340a8",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-023-2026.md",
+      "pending_sha256": "08490d58edc8b8c01f8c64a210fd8b1cee9b33700e72ec0c99df6d74fed3a47b",
+      "projection_sha256": "08490d58edc8b8c01f8c64a210fd8b1cee9b33700e72ec0c99df6d74fed3a47b",
+      "authoritative_sha256": "0a5477e24854f80409f70d5d93ac870ec4afb4637a30c3f33b40a968ede7aedf",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-024-2026.md",
+      "pending_sha256": "c1a3ff5fcd975e877de5b8be72ce12ed0fb90ce2b46465586f30d9e6aa48845e",
+      "projection_sha256": "c1a3ff5fcd975e877de5b8be72ce12ed0fb90ce2b46465586f30d9e6aa48845e",
+      "authoritative_sha256": "7c2e651afa11894cdf386a525b41adf5308ffb851b638196c56f983da337581b",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-025-2026.md",
+      "pending_sha256": "e098d12ea3103d03543b953c290f420fb8dcd5ebe3e7a13f78d6c62b2261ef65",
+      "projection_sha256": "e098d12ea3103d03543b953c290f420fb8dcd5ebe3e7a13f78d6c62b2261ef65",
+      "authoritative_sha256": "d4e54b89b99d34c51d17e4e9bd9e33885a375769cf88eabc2bd0f23001be2c08",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-026-2026.md",
+      "pending_sha256": "79c68569f9dc0025728cb6051c2804a7e46a88efc20acc9eb4c39df9f8fcb376",
+      "projection_sha256": "79c68569f9dc0025728cb6051c2804a7e46a88efc20acc9eb4c39df9f8fcb376",
+      "authoritative_sha256": "a560406363be98b0979538480b8db4b7bce782a11d9d0a96cd7e95594da63d63",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "SC-COSMIC-LAW-REWRITE-026-FINAL-2026.md",
+      "pending_sha256": "596aa39efdd9da8bbd9ef9350a8165532d11e247099f0e6446d3a01770be1adb",
+      "projection_sha256": "596aa39efdd9da8bbd9ef9350a8165532d11e247099f0e6446d3a01770be1adb",
+      "authoritative_sha256": "a2af5d948d96f1119c517393a6d37dfff6d3eab9e6c0745229ff598689e95510",
+      "pending_projection_identical": true
+    },
+    {
+      "file": "index.md",
+      "pending_sha256": "6cea94b66231475fefd382ac7bae9c8137197d327a1a6e0d13b7ca508e4a44c3",
+      "projection_sha256": "6cea94b66231475fefd382ac7bae9c8137197d327a1a6e0d13b7ca508e4a44c3",
+      "authoritative_sha256": "6cea94b66231475fefd382ac7bae9c8137197d327a1a6e0d13b7ca508e4a44c3",
+      "pending_projection_identical": true
+    }
+  ]
+}
