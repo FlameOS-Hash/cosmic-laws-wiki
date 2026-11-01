@@ -3,6 +3,12 @@ layout: record
 title: "Body Rhythm Sovereignty Law"
 source_file: "LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.html
+record_kind: law
+law_number: 51
+prev_url: /records/LAW-RW-050-INNER-AUTHORITY.html
+prev_title: "Inner Authority Law"
+next_url: /records/LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.html
+next_title: "Food and Nourishment Dignity Law"
 ---
 
 # Body Rhythm Sovereignty Law

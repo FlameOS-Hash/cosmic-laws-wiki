@@ -3,6 +3,12 @@ layout: record
 title: "Signal Sovereignty Law"
 source_file: "LAW-RW-029-SIGNAL-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-029-SIGNAL-SOVEREIGNTY.html
+record_kind: law
+law_number: 29
+prev_url: /records/LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.html
+prev_title: "Archive Truth Integrity Law"
+next_url: /records/LAW-RW-030-RESTORATION-RIGHT.html
+next_title: "Restoration Right Law"
 ---
 
 # Signal Sovereignty Law

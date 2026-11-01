@@ -3,6 +3,10 @@ layout: record
 title: "Final Return Completion Law"
 source_file: "LAW-RW-144-FINAL-RETURN-COMPLETION.md"
 permalink: /records/LAW-RW-144-FINAL-RETURN-COMPLETION.html
+record_kind: law
+law_number: 144
+prev_url: /records/LAW-RW-143-HARMONIC-WORLD-ACTION.html
+prev_title: "Harmonic World-Action Law"
 ---
 
 # Final Return Completion Law

@@ -3,6 +3,12 @@ layout: record
 title: "Clean Devotion Law"
 source_file: "LAW-RW-137-CLEAN-DEVOTION.md"
 permalink: /records/LAW-RW-137-CLEAN-DEVOTION.html
+record_kind: law
+law_number: 137
+prev_url: /records/LAW-RW-136-SACRED-CAPACITY.html
+prev_title: "Sacred Capacity Law"
+next_url: /records/LAW-RW-138-HARMONIC-REST.html
+next_title: "Harmonic Rest Law"
 ---
 
 # Clean Devotion Law

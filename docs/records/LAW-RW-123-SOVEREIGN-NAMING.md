@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Naming Law"
 source_file: "LAW-RW-123-SOVEREIGN-NAMING.md"
 permalink: /records/LAW-RW-123-SOVEREIGN-NAMING.html
+record_kind: law
+law_number: 123
+prev_url: /records/LAW-RW-122-CONFLICT-REPAIR.html
+prev_title: "Conflict Repair Law"
+next_url: /records/LAW-RW-124-SOVEREIGN-TRANSITION.html
+next_title: "Sovereign Transition Law"
 ---
 
 # Sovereign Naming Law

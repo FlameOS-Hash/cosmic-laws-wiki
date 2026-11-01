@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Capacity Law"
 source_file: "LAW-RW-136-SACRED-CAPACITY.md"
 permalink: /records/LAW-RW-136-SACRED-CAPACITY.html
+record_kind: law
+law_number: 136
+prev_url: /records/LAW-RW-135-LIVING-TEMPLE.html
+prev_title: "Living Temple Law"
+next_url: /records/LAW-RW-137-CLEAN-DEVOTION.html
+next_title: "Clean Devotion Law"
 ---
 
 # Sacred Capacity Law

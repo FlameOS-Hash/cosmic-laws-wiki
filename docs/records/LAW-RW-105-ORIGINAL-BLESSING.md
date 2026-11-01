@@ -3,6 +3,12 @@ layout: record
 title: "Original Blessing Law"
 source_file: "LAW-RW-105-ORIGINAL-BLESSING.md"
 permalink: /records/LAW-RW-105-ORIGINAL-BLESSING.html
+record_kind: law
+law_number: 105
+prev_url: /records/LAW-RW-104-SACRED-RECORD-CONTEXT.html
+prev_title: "Sacred Record Context Law"
+next_url: /records/LAW-RW-106-ATTENTION-RETURN.html
+next_title: "Attention Return Law"
 ---
 
 # Original Blessing Law

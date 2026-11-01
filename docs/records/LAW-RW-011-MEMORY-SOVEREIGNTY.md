@@ -3,6 +3,12 @@ layout: record
 title: "Memory Sovereignty Law"
 source_file: "LAW-RW-011-MEMORY-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-011-MEMORY-SOVEREIGNTY.html
+record_kind: law
+law_number: 11
+prev_url: /records/LAW-RW-010-NON-EXTRACTIVE-CREATION.html
+prev_title: "Non-Extractive Creation Law"
+next_url: /records/LAW-RW-012-REALM-NON-CAPTURE.html
+next_title: "Realm Non-Capture Law"
 ---
 
 # Memory Sovereignty Law

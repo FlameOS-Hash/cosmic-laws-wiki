@@ -3,6 +3,12 @@ layout: record
 title: "Dream Integrity Law"
 source_file: "LAW-RW-128-DREAM-INTEGRITY.md"
 permalink: /records/LAW-RW-128-DREAM-INTEGRITY.html
+record_kind: law
+law_number: 128
+prev_url: /records/LAW-RW-127-RESOURCE-TRUTH.html
+prev_title: "Resource Truth Law"
+next_url: /records/LAW-RW-129-COMMUNITY-REPAIR.html
+next_title: "Community Repair Law"
 ---
 
 # Dream Integrity Law

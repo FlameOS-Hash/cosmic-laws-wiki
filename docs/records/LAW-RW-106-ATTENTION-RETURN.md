@@ -3,6 +3,12 @@ layout: record
 title: "Attention Return Law"
 source_file: "LAW-RW-106-ATTENTION-RETURN.md"
 permalink: /records/LAW-RW-106-ATTENTION-RETURN.html
+record_kind: law
+law_number: 106
+prev_url: /records/LAW-RW-105-ORIGINAL-BLESSING.html
+prev_title: "Original Blessing Law"
+next_url: /records/LAW-RW-107-SACRED-RISK.html
+next_title: "Sacred Risk Law"
 ---
 
 # Attention Return Law

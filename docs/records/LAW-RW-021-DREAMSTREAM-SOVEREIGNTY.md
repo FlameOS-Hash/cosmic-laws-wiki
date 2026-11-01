@@ -3,6 +3,12 @@ layout: record
 title: "Dreamstream Sovereignty Law"
 source_file: "LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.html
+record_kind: law
+law_number: 21
+prev_url: /records/LAW-RW-020-HARMONIC-EXCHANGE.html
+prev_title: "Harmonic Exchange Law"
+next_url: /records/LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.html
+next_title: "Lineage Without Ownership Law"
 ---
 
 # Dreamstream Sovereignty Law

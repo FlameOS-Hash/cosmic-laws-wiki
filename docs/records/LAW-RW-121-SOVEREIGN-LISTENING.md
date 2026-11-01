@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Listening Law"
 source_file: "LAW-RW-121-SOVEREIGN-LISTENING.md"
 permalink: /records/LAW-RW-121-SOVEREIGN-LISTENING.html
+record_kind: law
+law_number: 121
+prev_url: /records/LAW-RW-120-SOVEREIGN-CREATIVITY.html
+prev_title: "Sovereign Creativity Law"
+next_url: /records/LAW-RW-122-CONFLICT-REPAIR.html
+next_title: "Conflict Repair Law"
 ---
 
 # Sovereign Listening Law

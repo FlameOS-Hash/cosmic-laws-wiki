@@ -3,6 +3,12 @@ layout: record
 title: "Joy as Living Law"
 source_file: "LAW-RW-037-JOY-AS-LIVING-LAW.md"
 permalink: /records/LAW-RW-037-JOY-AS-LIVING-LAW.html
+record_kind: law
+law_number: 37
+prev_url: /records/LAW-RW-036-REST-SOVEREIGNTY.html
+prev_title: "Rest Sovereignty Law"
+next_url: /records/LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.html
+next_title: "Grief Release and Memory Honor Law"
 ---
 
 # Joy as Living Law

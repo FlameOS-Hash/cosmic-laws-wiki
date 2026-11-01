@@ -3,6 +3,12 @@ layout: record
 title: "Harmonic Exchange Law"
 source_file: "LAW-RW-020-HARMONIC-EXCHANGE.md"
 permalink: /records/LAW-RW-020-HARMONIC-EXCHANGE.html
+record_kind: law
+law_number: 20
+prev_url: /records/LAW-RW-019-BODY-WITHOUT-DEBT.html
+prev_title: "Body Without Debt Law"
+next_url: /records/LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.html
+next_title: "Dreamstream Sovereignty Law"
 ---
 
 # Harmonic Exchange Law

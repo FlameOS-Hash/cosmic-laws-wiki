@@ -3,6 +3,12 @@ layout: record
 title: "Truthful Closure Law"
 source_file: "LAW-RW-097-TRUTHFUL-CLOSURE.md"
 permalink: /records/LAW-RW-097-TRUTHFUL-CLOSURE.html
+record_kind: law
+law_number: 97
+prev_url: /records/LAW-RW-096-SOVEREIGN-HOPE.html
+prev_title: "Sovereign Hope Law"
+next_url: /records/LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.html
+next_title: "Witness Without Ownership Law"
 ---
 
 # Truthful Closure Law

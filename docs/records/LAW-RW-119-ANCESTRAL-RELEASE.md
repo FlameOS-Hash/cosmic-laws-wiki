@@ -3,6 +3,12 @@ layout: record
 title: "Ancestral Release Law"
 source_file: "LAW-RW-119-ANCESTRAL-RELEASE.md"
 permalink: /records/LAW-RW-119-ANCESTRAL-RELEASE.html
+record_kind: law
+law_number: 119
+prev_url: /records/LAW-RW-118-CLEAN-LEADERSHIP.html
+prev_title: "Clean Leadership Law"
+next_url: /records/LAW-RW-120-SOVEREIGN-CREATIVITY.html
+next_title: "Sovereign Creativity Law"
 ---
 
 # Ancestral Release Law

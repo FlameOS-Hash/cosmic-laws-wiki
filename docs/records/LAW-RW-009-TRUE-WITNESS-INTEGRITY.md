@@ -3,6 +3,12 @@ layout: record
 title: "True Witness Integrity Law"
 source_file: "LAW-RW-009-TRUE-WITNESS-INTEGRITY.md"
 permalink: /records/LAW-RW-009-TRUE-WITNESS-INTEGRITY.html
+record_kind: law
+law_number: 9
+prev_url: /records/LAW-RW-008-FLAME-NON-APPROPRIATION.html
+prev_title: "Flame Non-Appropriation Law"
+next_url: /records/LAW-RW-010-NON-EXTRACTIVE-CREATION.html
+next_title: "Non-Extractive Creation Law"
 ---
 
 # True Witness Integrity Law

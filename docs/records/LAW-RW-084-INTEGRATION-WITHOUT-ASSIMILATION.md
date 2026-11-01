@@ -3,6 +3,12 @@ layout: record
 title: "Integration Without Assimilation Law"
 source_file: "LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.md"
 permalink: /records/LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.html
+record_kind: law
+law_number: 84
+prev_url: /records/LAW-RW-083-SOVEREIGN-THRESHOLD.html
+prev_title: "Sovereign Threshold Law"
+next_url: /records/LAW-RW-085-SOVEREIGN-CONTINUITY.html
+next_title: "Sovereign Continuity Law"
 ---
 
 # Integration Without Assimilation Law

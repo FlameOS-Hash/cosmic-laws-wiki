@@ -3,6 +3,12 @@ layout: record
 title: "Clean Power Law"
 source_file: "LAW-RW-132-CLEAN-POWER.md"
 permalink: /records/LAW-RW-132-CLEAN-POWER.html
+record_kind: law
+law_number: 132
+prev_url: /records/LAW-RW-131-SACRED-ENOUGHNESS.html
+prev_title: "Sacred Enoughness Law"
+next_url: /records/LAW-RW-133-MEMORY-INTEGRATION.html
+next_title: "Memory Integration Law"
 ---
 
 # Clean Power Law

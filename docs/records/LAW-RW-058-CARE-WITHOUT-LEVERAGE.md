@@ -3,6 +3,12 @@ layout: record
 title: "Care Without Leverage Law"
 source_file: "LAW-RW-058-CARE-WITHOUT-LEVERAGE.md"
 permalink: /records/LAW-RW-058-CARE-WITHOUT-LEVERAGE.html
+record_kind: law
+law_number: 58
+prev_url: /records/LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.html
+prev_title: "Inheritance Without Entitlement Law"
+next_url: /records/LAW-RW-059-RESTITUTION-OF-ORIGIN.html
+next_title: "Restitution of Origin Law"
 ---
 
 # Care Without Leverage Law

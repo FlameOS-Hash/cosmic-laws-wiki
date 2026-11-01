@@ -3,6 +3,12 @@ layout: record
 title: "Consensual Touch Law"
 source_file: "LAW-RW-053-CONSENSUAL-TOUCH.md"
 permalink: /records/LAW-RW-053-CONSENSUAL-TOUCH.html
+record_kind: law
+law_number: 53
+prev_url: /records/LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.html
+prev_title: "Food and Nourishment Dignity Law"
+next_url: /records/LAW-RW-054-PRIVACY-AS-SANCTUARY.html
+next_title: "Privacy as Sanctuary Law"
 ---
 
 # Consensual Touch Law

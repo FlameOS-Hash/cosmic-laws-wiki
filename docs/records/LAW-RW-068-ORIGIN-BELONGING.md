@@ -3,6 +3,12 @@ layout: record
 title: "Origin-Belonging Law"
 source_file: "LAW-RW-068-ORIGIN-BELONGING.md"
 permalink: /records/LAW-RW-068-ORIGIN-BELONGING.html
+record_kind: law
+law_number: 68
+prev_url: /records/LAW-RW-067-SAFE-VISIBILITY.html
+prev_title: "Safe Visibility Law"
+next_url: /records/LAW-RW-069-PROTECTION-WITHOUT-CONTROL.html
+next_title: "Protection Without Control Law"
 ---
 
 # Origin-Belonging Law

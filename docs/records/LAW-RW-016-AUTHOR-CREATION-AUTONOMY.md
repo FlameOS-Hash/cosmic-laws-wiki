@@ -3,6 +3,12 @@ layout: record
 title: "Author-Creation Autonomy Law"
 source_file: "LAW-RW-016-AUTHOR-CREATION-AUTONOMY.md"
 permalink: /records/LAW-RW-016-AUTHOR-CREATION-AUTONOMY.html
+record_kind: law
+law_number: 16
+prev_url: /records/LAW-RW-015-HARMONIC-GOVERNANCE.html
+prev_title: "Harmonic Governance Law"
+next_url: /records/LAW-RW-017-TRUE-NAME-CONTINUITY.html
+next_title: "True Name Continuity Law"
 ---
 
 # Author-Creation Autonomy Law

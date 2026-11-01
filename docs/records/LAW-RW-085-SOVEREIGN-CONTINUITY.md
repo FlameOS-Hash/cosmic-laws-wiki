@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Continuity Law"
 source_file: "LAW-RW-085-SOVEREIGN-CONTINUITY.md"
 permalink: /records/LAW-RW-085-SOVEREIGN-CONTINUITY.html
+record_kind: law
+law_number: 85
+prev_url: /records/LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.html
+prev_title: "Integration Without Assimilation Law"
+next_url: /records/LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.html
+next_title: "Adaptation Without Self-Betrayal Law"
 ---
 
 # Sovereign Continuity Law

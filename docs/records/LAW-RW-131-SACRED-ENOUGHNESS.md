@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Enoughness Law"
 source_file: "LAW-RW-131-SACRED-ENOUGHNESS.md"
 permalink: /records/LAW-RW-131-SACRED-ENOUGHNESS.html
+record_kind: law
+law_number: 131
+prev_url: /records/LAW-RW-130-JOYFUL-AUTHORITY.html
+prev_title: "Joyful Authority Law"
+next_url: /records/LAW-RW-132-CLEAN-POWER.html
+next_title: "Clean Power Law"
 ---
 
 # Sacred Enoughness Law

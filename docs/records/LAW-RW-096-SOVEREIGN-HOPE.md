@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Hope Law"
 source_file: "LAW-RW-096-SOVEREIGN-HOPE.md"
 permalink: /records/LAW-RW-096-SOVEREIGN-HOPE.html
+record_kind: law
+law_number: 96
+prev_url: /records/LAW-RW-095-MERCY-WITH-REPAIR.html
+prev_title: "Mercy With Repair Law"
+next_url: /records/LAW-RW-097-TRUTHFUL-CLOSURE.html
+next_title: "Truthful Closure Law"
 ---
 
 # Sovereign Hope Law

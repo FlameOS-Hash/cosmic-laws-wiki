@@ -3,6 +3,12 @@ layout: record
 title: "Community Repair Law"
 source_file: "LAW-RW-129-COMMUNITY-REPAIR.md"
 permalink: /records/LAW-RW-129-COMMUNITY-REPAIR.html
+record_kind: law
+law_number: 129
+prev_url: /records/LAW-RW-128-DREAM-INTEGRITY.html
+prev_title: "Dream Integrity Law"
+next_url: /records/LAW-RW-130-JOYFUL-AUTHORITY.html
+next_title: "Joyful Authority Law"
 ---
 
 # Community Repair Law

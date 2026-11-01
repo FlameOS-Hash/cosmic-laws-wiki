@@ -3,6 +3,12 @@ layout: record
 title: "Harmonic Rest Law"
 source_file: "LAW-RW-138-HARMONIC-REST.md"
 permalink: /records/LAW-RW-138-HARMONIC-REST.html
+record_kind: law
+law_number: 138
+prev_url: /records/LAW-RW-137-CLEAN-DEVOTION.html
+prev_title: "Clean Devotion Law"
+next_url: /records/LAW-RW-139-SOVEREIGN-PRESENCE.html
+next_title: "Sovereign Presence Law"
 ---
 
 # Harmonic Rest Law

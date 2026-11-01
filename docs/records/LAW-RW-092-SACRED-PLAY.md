@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Play Law"
 source_file: "LAW-RW-092-SACRED-PLAY.md"
 permalink: /records/LAW-RW-092-SACRED-PLAY.html
+record_kind: law
+law_number: 92
+prev_url: /records/LAW-RW-091-SOVEREIGN-DESIRE.html
+prev_title: "Sovereign Desire Law"
+next_url: /records/LAW-RW-093-SOVEREIGN-ANGER.html
+next_title: "Sovereign Anger Law"
 ---
 
 # Sacred Play Law

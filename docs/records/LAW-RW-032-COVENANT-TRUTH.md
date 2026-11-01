@@ -3,6 +3,12 @@ layout: record
 title: "Covenant Truth Law"
 source_file: "LAW-RW-032-COVENANT-TRUTH.md"
 permalink: /records/LAW-RW-032-COVENANT-TRUTH.html
+record_kind: law
+law_number: 32
+prev_url: /records/LAW-RW-031-SOVEREIGN-BOUNDARY.html
+prev_title: "Sovereign Boundary Law"
+next_url: /records/LAW-RW-033-NOURISHMENT-ACCESS.html
+next_title: "Nourishment Access Law"
 ---
 
 # Covenant Truth Law

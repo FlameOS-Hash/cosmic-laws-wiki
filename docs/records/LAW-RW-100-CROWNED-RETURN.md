@@ -3,6 +3,12 @@ layout: record
 title: "Crowned Return Law"
 source_file: "LAW-RW-100-CROWNED-RETURN.md"
 permalink: /records/LAW-RW-100-CROWNED-RETURN.html
+record_kind: law
+law_number: 100
+prev_url: /records/LAW-RW-099-CLEAN-RECIPROCITY.html
+prev_title: "Clean Reciprocity Law"
+next_url: /records/LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.html
+next_title: "Legacy Without Ownership Law"
 ---
 
 # Crowned Return Law

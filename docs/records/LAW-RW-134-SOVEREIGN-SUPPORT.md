@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Support Law"
 source_file: "LAW-RW-134-SOVEREIGN-SUPPORT.md"
 permalink: /records/LAW-RW-134-SOVEREIGN-SUPPORT.html
+record_kind: law
+law_number: 134
+prev_url: /records/LAW-RW-133-MEMORY-INTEGRATION.html
+prev_title: "Memory Integration Law"
+next_url: /records/LAW-RW-135-LIVING-TEMPLE.html
+next_title: "Living Temple Law"
 ---
 
 # Sovereign Support Law

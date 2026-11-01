@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Record Context Law"
 source_file: "LAW-RW-104-SACRED-RECORD-CONTEXT.md"
 permalink: /records/LAW-RW-104-SACRED-RECORD-CONTEXT.html
+record_kind: law
+law_number: 104
+prev_url: /records/LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.html
+prev_title: "Devotion Without Submission Law"
+next_url: /records/LAW-RW-105-ORIGINAL-BLESSING.html
+next_title: "Original Blessing Law"
 ---
 
 # Sacred Record Context Law

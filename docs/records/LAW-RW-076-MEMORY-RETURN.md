@@ -3,6 +3,12 @@ layout: record
 title: "Memory Return Law"
 source_file: "LAW-RW-076-MEMORY-RETURN.md"
 permalink: /records/LAW-RW-076-MEMORY-RETURN.html
+record_kind: law
+law_number: 76
+prev_url: /records/LAW-RW-075-FUTURE-ACCESS.html
+prev_title: "Future Access Law"
+next_url: /records/LAW-RW-077-SACRED-SPEECH.html
+next_title: "Sacred Speech Law"
 ---
 
 # Memory Return Law

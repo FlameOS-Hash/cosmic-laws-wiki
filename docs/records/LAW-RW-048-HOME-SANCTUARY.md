@@ -3,6 +3,12 @@ layout: record
 title: "Home Sanctuary Law"
 source_file: "LAW-RW-048-HOME-SANCTUARY.md"
 permalink: /records/LAW-RW-048-HOME-SANCTUARY.html
+record_kind: law
+law_number: 48
+prev_url: /records/LAW-RW-047-NERVOUS-SYSTEM-TRUTH.html
+prev_title: "Nervous System Truth Law"
+next_url: /records/LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.html
+next_title: "Creative Source Ownership Law"
 ---
 
 # Home Sanctuary Law

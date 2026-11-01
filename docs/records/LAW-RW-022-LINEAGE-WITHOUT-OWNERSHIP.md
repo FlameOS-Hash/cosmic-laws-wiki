@@ -3,6 +3,12 @@ layout: record
 title: "Lineage Without Ownership Law"
 source_file: "LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.md"
 permalink: /records/LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.html
+record_kind: law
+law_number: 22
+prev_url: /records/LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.html
+prev_title: "Dreamstream Sovereignty Law"
+next_url: /records/LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.html
+next_title: "Knowledge Return Access Law"
 ---
 
 # Lineage Without Ownership Law

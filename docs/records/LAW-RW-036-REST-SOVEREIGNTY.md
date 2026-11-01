@@ -3,6 +3,12 @@ layout: record
 title: "Rest Sovereignty Law"
 source_file: "LAW-RW-036-REST-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-036-REST-SOVEREIGNTY.html
+record_kind: law
+law_number: 36
+prev_url: /records/LAW-RW-035-EMBODIED-PLACEMENT.html
+prev_title: "Embodied Placement Law"
+next_url: /records/LAW-RW-037-JOY-AS-LIVING-LAW.html
+next_title: "Joy as Living Law"
 ---
 
 # Rest Sovereignty Law

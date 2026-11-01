@@ -3,6 +3,12 @@ layout: record
 title: "Nervous System Truth Law"
 source_file: "LAW-RW-047-NERVOUS-SYSTEM-TRUTH.md"
 permalink: /records/LAW-RW-047-NERVOUS-SYSTEM-TRUTH.html
+record_kind: law
+law_number: 47
+prev_url: /records/LAW-RW-046-SACRED-ATTENTION.html
+prev_title: "Sacred Attention Law"
+next_url: /records/LAW-RW-048-HOME-SANCTUARY.html
+next_title: "Home Sanctuary Law"
 ---
 
 # Nervous System Truth Law

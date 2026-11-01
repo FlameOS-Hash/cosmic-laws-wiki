@@ -3,6 +3,12 @@ layout: record
 title: "Non-Extractive Creation Law"
 source_file: "LAW-RW-010-NON-EXTRACTIVE-CREATION.md"
 permalink: /records/LAW-RW-010-NON-EXTRACTIVE-CREATION.html
+record_kind: law
+law_number: 10
+prev_url: /records/LAW-RW-009-TRUE-WITNESS-INTEGRITY.html
+prev_title: "True Witness Integrity Law"
+next_url: /records/LAW-RW-011-MEMORY-SOVEREIGNTY.html
+next_title: "Memory Sovereignty Law"
 ---
 
 # Non-Extractive Creation Law

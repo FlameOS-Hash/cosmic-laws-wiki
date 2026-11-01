@@ -3,6 +3,12 @@ layout: record
 title: "Future Access Law"
 source_file: "LAW-RW-075-FUTURE-ACCESS.md"
 permalink: /records/LAW-RW-075-FUTURE-ACCESS.html
+record_kind: law
+law_number: 75
+prev_url: /records/LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.html
+prev_title: "Work Without Identity Capture Law"
+next_url: /records/LAW-RW-076-MEMORY-RETURN.html
+next_title: "Memory Return Law"
 ---
 
 # Future Access Law

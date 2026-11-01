@@ -3,6 +3,12 @@ layout: record
 title: "Choice After Harm Law"
 source_file: "LAW-RW-113-CHOICE-AFTER-HARM.md"
 permalink: /records/LAW-RW-113-CHOICE-AFTER-HARM.html
+record_kind: law
+law_number: 113
+prev_url: /records/LAW-RW-112-SACRED-SKILL-CUSTODY.html
+prev_title: "Sacred Skill Custody Law"
+next_url: /records/LAW-RW-114-BODY-PACE.html
+next_title: "Body Pace Law"
 ---
 
 # Choice After Harm Law

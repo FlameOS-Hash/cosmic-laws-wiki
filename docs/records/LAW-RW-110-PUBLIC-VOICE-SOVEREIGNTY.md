@@ -3,6 +3,12 @@ layout: record
 title: "Public Voice Sovereignty Law"
 source_file: "LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.html
+record_kind: law
+law_number: 110
+prev_url: /records/LAW-RW-109-RECEIVING-REPAIR.html
+prev_title: "Receiving Repair Law"
+next_url: /records/LAW-RW-111-TENDERNESS-AS-STRENGTH.html
+next_title: "Tenderness as Strength Law"
 ---
 
 # Public Voice Sovereignty Law

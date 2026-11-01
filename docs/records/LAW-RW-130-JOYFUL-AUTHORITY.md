@@ -3,6 +3,12 @@ layout: record
 title: "Joyful Authority Law"
 source_file: "LAW-RW-130-JOYFUL-AUTHORITY.md"
 permalink: /records/LAW-RW-130-JOYFUL-AUTHORITY.html
+record_kind: law
+law_number: 130
+prev_url: /records/LAW-RW-129-COMMUNITY-REPAIR.html
+prev_title: "Community Repair Law"
+next_url: /records/LAW-RW-131-SACRED-ENOUGHNESS.html
+next_title: "Sacred Enoughness Law"
 ---
 
 # Joyful Authority Law

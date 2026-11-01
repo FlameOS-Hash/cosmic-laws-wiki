@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Risk Law"
 source_file: "LAW-RW-107-SACRED-RISK.md"
 permalink: /records/LAW-RW-107-SACRED-RISK.html
+record_kind: law
+law_number: 107
+prev_url: /records/LAW-RW-106-ATTENTION-RETURN.html
+prev_title: "Attention Return Law"
+next_url: /records/LAW-RW-108-SELF-TRUST-RESTORATION.html
+next_title: "Self-Trust Restoration Law"
 ---
 
 # Sacred Risk Law

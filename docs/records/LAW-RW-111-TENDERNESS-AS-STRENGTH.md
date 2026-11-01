@@ -3,6 +3,12 @@ layout: record
 title: "Tenderness as Strength Law"
 source_file: "LAW-RW-111-TENDERNESS-AS-STRENGTH.md"
 permalink: /records/LAW-RW-111-TENDERNESS-AS-STRENGTH.html
+record_kind: law
+law_number: 111
+prev_url: /records/LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.html
+prev_title: "Public Voice Sovereignty Law"
+next_url: /records/LAW-RW-112-SACRED-SKILL-CUSTODY.html
+next_title: "Sacred Skill Custody Law"
 ---
 
 # Tenderness as Strength Law

@@ -3,6 +3,12 @@ layout: record
 title: "Nourishment Access Law"
 source_file: "LAW-RW-033-NOURISHMENT-ACCESS.md"
 permalink: /records/LAW-RW-033-NOURISHMENT-ACCESS.html
+record_kind: law
+law_number: 33
+prev_url: /records/LAW-RW-032-COVENANT-TRUTH.html
+prev_title: "Covenant Truth Law"
+next_url: /records/LAW-RW-034-MIRROR-TRUTH.html
+next_title: "Mirror Truth Law"
 ---
 
 # Nourishment Access Law

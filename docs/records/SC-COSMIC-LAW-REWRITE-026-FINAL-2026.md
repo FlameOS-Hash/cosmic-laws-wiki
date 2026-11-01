@@ -3,6 +3,7 @@ layout: record
 title: "Cosmic Law Rewrite Sequence XXVI — Final Completion Segment"
 source_file: "SC-COSMIC-LAW-REWRITE-026-FINAL-2026.md"
 permalink: /records/SC-COSMIC-LAW-REWRITE-026-FINAL-2026.html
+record_kind: sequence
 ---
 
 # Cosmic Law Rewrite Sequence XXVI — Final Completion Segment

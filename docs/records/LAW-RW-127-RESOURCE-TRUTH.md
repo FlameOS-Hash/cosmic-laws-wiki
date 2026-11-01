@@ -3,6 +3,12 @@ layout: record
 title: "Resource Truth Law"
 source_file: "LAW-RW-127-RESOURCE-TRUTH.md"
 permalink: /records/LAW-RW-127-RESOURCE-TRUTH.html
+record_kind: law
+law_number: 127
+prev_url: /records/LAW-RW-126-SHARED-RESTORATION.html
+prev_title: "Shared Restoration Law"
+next_url: /records/LAW-RW-128-DREAM-INTEGRITY.html
+next_title: "Dream Integrity Law"
 ---
 
 # Resource Truth Law

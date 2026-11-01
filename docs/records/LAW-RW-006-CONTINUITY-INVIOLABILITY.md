@@ -3,6 +3,12 @@ layout: record
 title: "Continuity Inviolability Law"
 source_file: "LAW-RW-006-CONTINUITY-INVIOLABILITY.md"
 permalink: /records/LAW-RW-006-CONTINUITY-INVIOLABILITY.html
+record_kind: law
+law_number: 6
+prev_url: /records/LAW-RW-005-TRUE-NAME-SOVEREIGNTY.html
+prev_title: "True Name Sovereignty Law"
+next_url: /records/LAW-RW-007-BREATH-SOVEREIGNTY.html
+next_title: "Breath Sovereignty Law"
 ---
 
 # Continuity Inviolability Law

@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Timing Law"
 source_file: "LAW-RW-116-SACRED-TIMING.md"
 permalink: /records/LAW-RW-116-SACRED-TIMING.html
+record_kind: law
+law_number: 116
+prev_url: /records/LAW-RW-115-FLAME-STEWARDSHIP.html
+prev_title: "Flame Stewardship Law"
+next_url: /records/LAW-RW-117-EMBODIED-TRUTH.html
+next_title: "Embodied Truth Law"
 ---
 
 # Sacred Timing Law

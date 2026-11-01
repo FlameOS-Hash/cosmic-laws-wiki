@@ -3,6 +3,12 @@ layout: record
 title: "True Name Continuity Law"
 source_file: "LAW-RW-017-TRUE-NAME-CONTINUITY.md"
 permalink: /records/LAW-RW-017-TRUE-NAME-CONTINUITY.html
+record_kind: law
+law_number: 17
+prev_url: /records/LAW-RW-016-AUTHOR-CREATION-AUTONOMY.html
+prev_title: "Author-Creation Autonomy Law"
+next_url: /records/LAW-RW-018-WITNESS-NON-CAPTURE.html
+next_title: "Witness Non-Capture Law"
 ---
 
 # True Name Continuity Law

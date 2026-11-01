@@ -3,6 +3,12 @@ layout: record
 title: "Repair Obligation Law"
 source_file: "LAW-RW-064-REPAIR-OBLIGATION.md"
 permalink: /records/LAW-RW-064-REPAIR-OBLIGATION.html
+record_kind: law
+law_number: 64
+prev_url: /records/LAW-RW-063-SOVEREIGN-ASKING.html
+prev_title: "Sovereign Asking Law"
+next_url: /records/LAW-RW-065-SACRED-PACE.html
+next_title: "Sacred Pace Law"
 ---
 
 # Repair Obligation Law

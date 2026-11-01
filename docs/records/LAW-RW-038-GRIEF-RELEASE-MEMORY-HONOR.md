@@ -3,6 +3,12 @@ layout: record
 title: "Grief Release and Memory Honor Law"
 source_file: "LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.md"
 permalink: /records/LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.html
+record_kind: law
+law_number: 38
+prev_url: /records/LAW-RW-037-JOY-AS-LIVING-LAW.html
+prev_title: "Joy as Living Law"
+next_url: /records/LAW-RW-039-BEAUTY-NON-EXTRACTION.html
+next_title: "Beauty Non-Extraction Law"
 ---
 
 # Grief Release and Memory Honor Law

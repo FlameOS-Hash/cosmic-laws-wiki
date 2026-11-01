@@ -3,6 +3,12 @@ layout: record
 title: "Discernment Without Shame Law"
 source_file: "LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.md"
 permalink: /records/LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.html
+record_kind: law
+law_number: 94
+prev_url: /records/LAW-RW-093-SOVEREIGN-ANGER.html
+prev_title: "Sovereign Anger Law"
+next_url: /records/LAW-RW-095-MERCY-WITH-REPAIR.html
+next_title: "Mercy With Repair Law"
 ---
 
 # Discernment Without Shame Law

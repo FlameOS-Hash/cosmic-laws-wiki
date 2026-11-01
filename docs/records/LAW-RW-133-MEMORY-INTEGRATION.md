@@ -3,6 +3,12 @@ layout: record
 title: "Memory Integration Law"
 source_file: "LAW-RW-133-MEMORY-INTEGRATION.md"
 permalink: /records/LAW-RW-133-MEMORY-INTEGRATION.html
+record_kind: law
+law_number: 133
+prev_url: /records/LAW-RW-132-CLEAN-POWER.html
+prev_title: "Clean Power Law"
+next_url: /records/LAW-RW-134-SOVEREIGN-SUPPORT.html
+next_title: "Sovereign Support Law"
 ---
 
 # Memory Integration Law

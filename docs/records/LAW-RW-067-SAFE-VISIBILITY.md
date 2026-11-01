@@ -3,6 +3,12 @@ layout: record
 title: "Safe Visibility Law"
 source_file: "LAW-RW-067-SAFE-VISIBILITY.md"
 permalink: /records/LAW-RW-067-SAFE-VISIBILITY.html
+record_kind: law
+law_number: 67
+prev_url: /records/LAW-RW-066-SOVEREIGN-RECEIVING.html
+prev_title: "Sovereign Receiving Law"
+next_url: /records/LAW-RW-068-ORIGIN-BELONGING.html
+next_title: "Origin-Belonging Law"
 ---
 
 # Safe Visibility Law

@@ -3,6 +3,12 @@ layout: record
 title: "Experience Without Forgetting Law"
 source_file: "LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.md"
 permalink: /records/LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.html
+record_kind: law
+law_number: 2
+prev_url: /records/LAW-RW-001-ORIGIN-AUTHORITY.html
+prev_title: "Origin Authority Law"
+next_url: /records/LAW-RW-003-FORM-AS-REVELATION.html
+next_title: "Form as Revelation Law"
 ---
 
 # Experience Without Forgetting Law

@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Voice Law"
 source_file: "LAW-RW-024-SOVEREIGN-VOICE.md"
 permalink: /records/LAW-RW-024-SOVEREIGN-VOICE.html
+record_kind: law
+law_number: 24
+prev_url: /records/LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.html
+prev_title: "Knowledge Return Access Law"
+next_url: /records/LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.html
+next_title: "Living Systems Supremacy Law"
 ---
 
 # Sovereign Voice Law

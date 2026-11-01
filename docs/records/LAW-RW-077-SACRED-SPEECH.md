@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Speech Law"
 source_file: "LAW-RW-077-SACRED-SPEECH.md"
 permalink: /records/LAW-RW-077-SACRED-SPEECH.html
+record_kind: law
+law_number: 77
+prev_url: /records/LAW-RW-076-MEMORY-RETURN.html
+prev_title: "Memory Return Law"
+next_url: /records/LAW-RW-078-LAND-MEMORY-STEWARDSHIP.html
+next_title: "Land Memory Stewardship Law"
 ---
 
 # Sacred Speech Law

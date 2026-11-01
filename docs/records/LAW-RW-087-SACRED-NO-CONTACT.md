@@ -3,6 +3,12 @@ layout: record
 title: "Sacred No-Contact Law"
 source_file: "LAW-RW-087-SACRED-NO-CONTACT.md"
 permalink: /records/LAW-RW-087-SACRED-NO-CONTACT.html
+record_kind: law
+law_number: 87
+prev_url: /records/LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.html
+prev_title: "Adaptation Without Self-Betrayal Law"
+next_url: /records/LAW-RW-088-WITNESS-TIMING.html
+next_title: "Witness Timing Law"
 ---
 
 # Sacred No-Contact Law

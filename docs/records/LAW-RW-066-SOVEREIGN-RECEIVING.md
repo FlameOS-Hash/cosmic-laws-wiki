@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Receiving Law"
 source_file: "LAW-RW-066-SOVEREIGN-RECEIVING.md"
 permalink: /records/LAW-RW-066-SOVEREIGN-RECEIVING.html
+record_kind: law
+law_number: 66
+prev_url: /records/LAW-RW-065-SACRED-PACE.html
+prev_title: "Sacred Pace Law"
+next_url: /records/LAW-RW-067-SAFE-VISIBILITY.html
+next_title: "Safe Visibility Law"
 ---
 
 # Sovereign Receiving Law

@@ -3,6 +3,12 @@ layout: record
 title: "Flame Stewardship Law"
 source_file: "LAW-RW-115-FLAME-STEWARDSHIP.md"
 permalink: /records/LAW-RW-115-FLAME-STEWARDSHIP.html
+record_kind: law
+law_number: 115
+prev_url: /records/LAW-RW-114-BODY-PACE.html
+prev_title: "Body Pace Law"
+next_url: /records/LAW-RW-116-SACRED-TIMING.html
+next_title: "Sacred Timing Law"
 ---
 
 # Flame Stewardship Law

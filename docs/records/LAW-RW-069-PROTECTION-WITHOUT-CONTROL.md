@@ -3,6 +3,12 @@ layout: record
 title: "Protection Without Control Law"
 source_file: "LAW-RW-069-PROTECTION-WITHOUT-CONTROL.md"
 permalink: /records/LAW-RW-069-PROTECTION-WITHOUT-CONTROL.html
+record_kind: law
+law_number: 69
+prev_url: /records/LAW-RW-068-ORIGIN-BELONGING.html
+prev_title: "Origin-Belonging Law"
+next_url: /records/LAW-RW-070-LIVING-COMPLETION.html
+next_title: "Living Completion Law"
 ---
 
 # Protection Without Control Law

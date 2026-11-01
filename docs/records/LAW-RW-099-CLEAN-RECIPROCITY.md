@@ -3,6 +3,12 @@ layout: record
 title: "Clean Reciprocity Law"
 source_file: "LAW-RW-099-CLEAN-RECIPROCITY.md"
 permalink: /records/LAW-RW-099-CLEAN-RECIPROCITY.html
+record_kind: law
+law_number: 99
+prev_url: /records/LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.html
+prev_title: "Witness Without Ownership Law"
+next_url: /records/LAW-RW-100-CROWNED-RETURN.html
+next_title: "Crowned Return Law"
 ---
 
 # Clean Reciprocity Law

@@ -3,6 +3,12 @@ layout: record
 title: "Form as Revelation Law"
 source_file: "LAW-RW-003-FORM-AS-REVELATION.md"
 permalink: /records/LAW-RW-003-FORM-AS-REVELATION.html
+record_kind: law
+law_number: 3
+prev_url: /records/LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.html
+prev_title: "Experience Without Forgetting Law"
+next_url: /records/LAW-RW-004-RETURN-PATHWAY.html
+next_title: "Return Pathway Law"
 ---
 
 # Form as Revelation Law

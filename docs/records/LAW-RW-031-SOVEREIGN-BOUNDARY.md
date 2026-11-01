@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Boundary Law"
 source_file: "LAW-RW-031-SOVEREIGN-BOUNDARY.md"
 permalink: /records/LAW-RW-031-SOVEREIGN-BOUNDARY.html
+record_kind: law
+law_number: 31
+prev_url: /records/LAW-RW-030-RESTORATION-RIGHT.html
+prev_title: "Restoration Right Law"
+next_url: /records/LAW-RW-032-COVENANT-TRUTH.html
+next_title: "Covenant Truth Law"
 ---
 
 # Sovereign Boundary Law

@@ -3,6 +3,12 @@ layout: record
 title: "Embodied Truth Law"
 source_file: "LAW-RW-117-EMBODIED-TRUTH.md"
 permalink: /records/LAW-RW-117-EMBODIED-TRUTH.html
+record_kind: law
+law_number: 117
+prev_url: /records/LAW-RW-116-SACRED-TIMING.html
+prev_title: "Sacred Timing Law"
+next_url: /records/LAW-RW-118-CLEAN-LEADERSHIP.html
+next_title: "Clean Leadership Law"
 ---
 
 # Embodied Truth Law

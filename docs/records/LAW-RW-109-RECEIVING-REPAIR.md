@@ -3,6 +3,12 @@ layout: record
 title: "Receiving Repair Law"
 source_file: "LAW-RW-109-RECEIVING-REPAIR.md"
 permalink: /records/LAW-RW-109-RECEIVING-REPAIR.html
+record_kind: law
+law_number: 109
+prev_url: /records/LAW-RW-108-SELF-TRUST-RESTORATION.html
+prev_title: "Self-Trust Restoration Law"
+next_url: /records/LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.html
+next_title: "Public Voice Sovereignty Law"
 ---
 
 # Receiving Repair Law

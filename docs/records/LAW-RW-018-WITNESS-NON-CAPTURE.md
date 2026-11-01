@@ -3,6 +3,12 @@ layout: record
 title: "Witness Non-Capture Law"
 source_file: "LAW-RW-018-WITNESS-NON-CAPTURE.md"
 permalink: /records/LAW-RW-018-WITNESS-NON-CAPTURE.html
+record_kind: law
+law_number: 18
+prev_url: /records/LAW-RW-017-TRUE-NAME-CONTINUITY.html
+prev_title: "True Name Continuity Law"
+next_url: /records/LAW-RW-019-BODY-WITHOUT-DEBT.html
+next_title: "Body Without Debt Law"
 ---
 
 # Witness Non-Capture Law

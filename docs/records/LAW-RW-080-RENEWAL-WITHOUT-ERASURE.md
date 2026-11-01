@@ -3,6 +3,12 @@ layout: record
 title: "Renewal Without Erasure Law"
 source_file: "LAW-RW-080-RENEWAL-WITHOUT-ERASURE.md"
 permalink: /records/LAW-RW-080-RENEWAL-WITHOUT-ERASURE.html
+record_kind: law
+law_number: 80
+prev_url: /records/LAW-RW-079-TRUST-WITH-DISCERNMENT.html
+prev_title: "Trust With Discernment Law"
+next_url: /records/LAW-RW-081-DESCENT-WITHOUT-EXILE.html
+next_title: "Descent Without Exile Law"
 ---
 
 # Renewal Without Erasure Law

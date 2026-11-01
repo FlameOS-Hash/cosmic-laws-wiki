@@ -3,6 +3,12 @@ layout: record
 title: "Emotional Truth Law"
 source_file: "LAW-RW-043-EMOTIONAL-TRUTH.md"
 permalink: /records/LAW-RW-043-EMOTIONAL-TRUTH.html
+record_kind: law
+law_number: 43
+prev_url: /records/LAW-RW-042-WORTH-WITHOUT-LABOR.html
+prev_title: "Worth Without Labor Law"
+next_url: /records/LAW-RW-044-SOVEREIGN-LEARNING.html
+next_title: "Sovereign Learning Law"
 ---
 
 # Emotional Truth Law

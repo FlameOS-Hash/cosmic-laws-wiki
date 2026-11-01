@@ -3,6 +3,12 @@ layout: record
 title: "Embodied Placement Law"
 source_file: "LAW-RW-035-EMBODIED-PLACEMENT.md"
 permalink: /records/LAW-RW-035-EMBODIED-PLACEMENT.html
+record_kind: law
+law_number: 35
+prev_url: /records/LAW-RW-034-MIRROR-TRUTH.html
+prev_title: "Mirror Truth Law"
+next_url: /records/LAW-RW-036-REST-SOVEREIGNTY.html
+next_title: "Rest Sovereignty Law"
 ---
 
 # Embodied Placement Law

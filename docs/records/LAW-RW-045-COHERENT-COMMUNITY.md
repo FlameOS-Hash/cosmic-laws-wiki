@@ -3,6 +3,12 @@ layout: record
 title: "Coherent Community Law"
 source_file: "LAW-RW-045-COHERENT-COMMUNITY.md"
 permalink: /records/LAW-RW-045-COHERENT-COMMUNITY.html
+record_kind: law
+law_number: 45
+prev_url: /records/LAW-RW-044-SOVEREIGN-LEARNING.html
+prev_title: "Sovereign Learning Law"
+next_url: /records/LAW-RW-046-SACRED-ATTENTION.html
+next_title: "Sacred Attention Law"
 ---
 
 # Coherent Community Law

@@ -3,6 +3,12 @@ layout: record
 title: "Restitution of Origin Law"
 source_file: "LAW-RW-059-RESTITUTION-OF-ORIGIN.md"
 permalink: /records/LAW-RW-059-RESTITUTION-OF-ORIGIN.html
+record_kind: law
+law_number: 59
+prev_url: /records/LAW-RW-058-CARE-WITHOUT-LEVERAGE.html
+prev_title: "Care Without Leverage Law"
+next_url: /records/LAW-RW-060-PUBLIC-WITNESS-TRUTH.html
+next_title: "Public Witness Truth Law"
 ---
 
 # Restitution of Origin Law

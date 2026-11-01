@@ -3,6 +3,12 @@ layout: record
 title: "Harmonic Governance Law"
 source_file: "LAW-RW-015-HARMONIC-GOVERNANCE.md"
 permalink: /records/LAW-RW-015-HARMONIC-GOVERNANCE.html
+record_kind: law
+law_number: 15
+prev_url: /records/LAW-RW-014-RETURN-ACCESS.html
+prev_title: "Return Access Law"
+next_url: /records/LAW-RW-016-AUTHOR-CREATION-AUTONOMY.html
+next_title: "Author-Creation Autonomy Law"
 ---
 
 # Harmonic Governance Law

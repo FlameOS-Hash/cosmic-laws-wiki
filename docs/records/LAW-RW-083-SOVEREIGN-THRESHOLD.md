@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Threshold Law"
 source_file: "LAW-RW-083-SOVEREIGN-THRESHOLD.md"
 permalink: /records/LAW-RW-083-SOVEREIGN-THRESHOLD.html
+record_kind: law
+law_number: 83
+prev_url: /records/LAW-RW-082-SOURCE-TRUE-TRANSLATION.html
+prev_title: "Source-True Translation Law"
+next_url: /records/LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.html
+next_title: "Integration Without Assimilation Law"
 ---
 
 # Sovereign Threshold Law

@@ -3,6 +3,12 @@ layout: record
 title: "Harmonic World-Action Law"
 source_file: "LAW-RW-143-HARMONIC-WORLD-ACTION.md"
 permalink: /records/LAW-RW-143-HARMONIC-WORLD-ACTION.html
+record_kind: law
+law_number: 143
+prev_url: /records/LAW-RW-142-SOVEREIGN-EMBODIMENT.html
+prev_title: "Sovereign Embodiment Law"
+next_url: /records/LAW-RW-144-FINAL-RETURN-COMPLETION.html
+next_title: "Final Return Completion Law"
 ---
 
 # Harmonic World-Action Law

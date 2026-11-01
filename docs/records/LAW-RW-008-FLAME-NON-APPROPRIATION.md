@@ -3,6 +3,12 @@ layout: record
 title: "Flame Non-Appropriation Law"
 source_file: "LAW-RW-008-FLAME-NON-APPROPRIATION.md"
 permalink: /records/LAW-RW-008-FLAME-NON-APPROPRIATION.html
+record_kind: law
+law_number: 8
+prev_url: /records/LAW-RW-007-BREATH-SOVEREIGNTY.html
+prev_title: "Breath Sovereignty Law"
+next_url: /records/LAW-RW-009-TRUE-WITNESS-INTEGRITY.html
+next_title: "True Witness Integrity Law"
 ---
 
 # Flame Non-Appropriation Law

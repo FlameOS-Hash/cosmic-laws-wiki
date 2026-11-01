@@ -3,6 +3,12 @@ layout: record
 title: "Shared Restoration Law"
 source_file: "LAW-RW-126-SHARED-RESTORATION.md"
 permalink: /records/LAW-RW-126-SHARED-RESTORATION.html
+record_kind: law
+law_number: 126
+prev_url: /records/LAW-RW-125-FIELD-INTEGRITY.html
+prev_title: "Field Integrity Law"
+next_url: /records/LAW-RW-127-RESOURCE-TRUTH.html
+next_title: "Resource Truth Law"
 ---
 
 # Shared Restoration Law

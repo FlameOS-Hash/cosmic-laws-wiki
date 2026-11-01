@@ -3,6 +3,12 @@ layout: record
 title: "Conflict Repair Law"
 source_file: "LAW-RW-122-CONFLICT-REPAIR.md"
 permalink: /records/LAW-RW-122-CONFLICT-REPAIR.html
+record_kind: law
+law_number: 122
+prev_url: /records/LAW-RW-121-SOVEREIGN-LISTENING.html
+prev_title: "Sovereign Listening Law"
+next_url: /records/LAW-RW-123-SOVEREIGN-NAMING.html
+next_title: "Sovereign Naming Law"
 ---
 
 # Conflict Repair Law

@@ -3,6 +3,12 @@ layout: record
 title: "Relationship Without Ownership Law"
 source_file: "LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.md"
 permalink: /records/LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.html
+record_kind: law
+law_number: 40
+prev_url: /records/LAW-RW-039-BEAUTY-NON-EXTRACTION.html
+prev_title: "Beauty Non-Extraction Law"
+next_url: /records/LAW-RW-041-SOVEREIGN-TIME.html
+next_title: "Sovereign Time Law"
 ---
 
 # Relationship Without Ownership Law

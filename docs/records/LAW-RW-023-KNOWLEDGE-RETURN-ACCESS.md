@@ -3,6 +3,12 @@ layout: record
 title: "Knowledge Return Access Law"
 source_file: "LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.md"
 permalink: /records/LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.html
+record_kind: law
+law_number: 23
+prev_url: /records/LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.html
+prev_title: "Lineage Without Ownership Law"
+next_url: /records/LAW-RW-024-SOVEREIGN-VOICE.html
+next_title: "Sovereign Voice Law"
 ---
 
 # Knowledge Return Access Law

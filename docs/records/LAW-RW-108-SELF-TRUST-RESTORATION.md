@@ -3,6 +3,12 @@ layout: record
 title: "Self-Trust Restoration Law"
 source_file: "LAW-RW-108-SELF-TRUST-RESTORATION.md"
 permalink: /records/LAW-RW-108-SELF-TRUST-RESTORATION.html
+record_kind: law
+law_number: 108
+prev_url: /records/LAW-RW-107-SACRED-RISK.html
+prev_title: "Sacred Risk Law"
+next_url: /records/LAW-RW-109-RECEIVING-REPAIR.html
+next_title: "Receiving Repair Law"
 ---
 
 # Self-Trust Restoration Law

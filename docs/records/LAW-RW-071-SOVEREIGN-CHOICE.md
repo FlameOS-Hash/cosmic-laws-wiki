@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Choice Law"
 source_file: "LAW-RW-071-SOVEREIGN-CHOICE.md"
 permalink: /records/LAW-RW-071-SOVEREIGN-CHOICE.html
+record_kind: law
+law_number: 71
+prev_url: /records/LAW-RW-070-LIVING-COMPLETION.html
+prev_title: "Living Completion Law"
+next_url: /records/LAW-RW-072-TRUE-PEACE.html
+next_title: "True Peace Law"
 ---
 
 # Sovereign Choice Law

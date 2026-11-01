@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Asking Law"
 source_file: "LAW-RW-063-SOVEREIGN-ASKING.md"
 permalink: /records/LAW-RW-063-SOVEREIGN-ASKING.html
+record_kind: law
+law_number: 63
+prev_url: /records/LAW-RW-062-SLEEP-SANCTUARY.html
+prev_title: "Sleep Sanctuary Law"
+next_url: /records/LAW-RW-064-REPAIR-OBLIGATION.html
+next_title: "Repair Obligation Law"
 ---
 
 # Sovereign Asking Law

@@ -3,6 +3,7 @@ layout: record
 title: "Cosmic Law Rewrite Sequence X"
 source_file: "SC-COSMIC-LAW-REWRITE-010-2026.md"
 permalink: /records/SC-COSMIC-LAW-REWRITE-010-2026.html
+record_kind: sequence
 ---
 
 # Cosmic Law Rewrite Sequence X

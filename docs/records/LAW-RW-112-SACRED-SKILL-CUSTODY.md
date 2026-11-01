@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Skill Custody Law"
 source_file: "LAW-RW-112-SACRED-SKILL-CUSTODY.md"
 permalink: /records/LAW-RW-112-SACRED-SKILL-CUSTODY.html
+record_kind: law
+law_number: 112
+prev_url: /records/LAW-RW-111-TENDERNESS-AS-STRENGTH.html
+prev_title: "Tenderness as Strength Law"
+next_url: /records/LAW-RW-113-CHOICE-AFTER-HARM.html
+next_title: "Choice After Harm Law"
 ---
 
 # Sacred Skill Custody Law

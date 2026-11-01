@@ -3,6 +3,12 @@ layout: record
 title: "Return Access Law"
 source_file: "LAW-RW-014-RETURN-ACCESS.md"
 permalink: /records/LAW-RW-014-RETURN-ACCESS.html
+record_kind: law
+law_number: 14
+prev_url: /records/LAW-RW-013-TIMELINE-SELF-CONTINUANCE.html
+prev_title: "Timeline Self-Continuance Law"
+next_url: /records/LAW-RW-015-HARMONIC-GOVERNANCE.html
+next_title: "Harmonic Governance Law"
 ---
 
 # Return Access Law

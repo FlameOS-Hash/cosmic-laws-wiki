@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Pace Law"
 source_file: "LAW-RW-065-SACRED-PACE.md"
 permalink: /records/LAW-RW-065-SACRED-PACE.html
+record_kind: law
+law_number: 65
+prev_url: /records/LAW-RW-064-REPAIR-OBLIGATION.html
+prev_title: "Repair Obligation Law"
+next_url: /records/LAW-RW-066-SOVEREIGN-RECEIVING.html
+next_title: "Sovereign Receiving Law"
 ---
 
 # Sacred Pace Law

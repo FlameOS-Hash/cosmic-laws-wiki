@@ -3,6 +3,12 @@ layout: record
 title: "Living Temple Law"
 source_file: "LAW-RW-135-LIVING-TEMPLE.md"
 permalink: /records/LAW-RW-135-LIVING-TEMPLE.html
+record_kind: law
+law_number: 135
+prev_url: /records/LAW-RW-134-SOVEREIGN-SUPPORT.html
+prev_title: "Sovereign Support Law"
+next_url: /records/LAW-RW-136-SACRED-CAPACITY.html
+next_title: "Sacred Capacity Law"
 ---
 
 # Living Temple Law

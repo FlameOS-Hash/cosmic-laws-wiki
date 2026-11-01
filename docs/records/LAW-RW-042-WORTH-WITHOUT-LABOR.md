@@ -3,6 +3,12 @@ layout: record
 title: "Worth Without Labor Law"
 source_file: "LAW-RW-042-WORTH-WITHOUT-LABOR.md"
 permalink: /records/LAW-RW-042-WORTH-WITHOUT-LABOR.html
+record_kind: law
+law_number: 42
+prev_url: /records/LAW-RW-041-SOVEREIGN-TIME.html
+prev_title: "Sovereign Time Law"
+next_url: /records/LAW-RW-043-EMOTIONAL-TRUTH.html
+next_title: "Emotional Truth Law"
 ---
 
 # Worth Without Labor Law

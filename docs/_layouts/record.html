@@ -3,11 +3,34 @@ layout: default
 ---
 <div class="record-nav">
   <a href="{{ '/' | relative_url }}">← All Cosmic Laws</a>
+  <a href="{{ '/search.html' | relative_url }}">Search</a>
 </div>
 
 <article class="record">
   {{ content }}
 </article>
+
+{% if page.record_kind == "law" %}
+<nav class="law-pager" aria-label="Cosmic Law navigation">
+  <div class="law-pager-prev">
+    {% if page.prev_url %}
+      <span>Previous Law</span>
+      <a href="{{ page.prev_url | relative_url }}">
+        ← {{ page.prev_title }}
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="law-pager-next">
+    {% if page.next_url %}
+      <span>Next Law</span>
+      <a href="{{ page.next_url | relative_url }}">
+        {{ page.next_title }} →
+      </a>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}
 
 <div class="record-source">
   Publication source: <code>wiki/cosmic-laws/{{ page.source_file }}</code>

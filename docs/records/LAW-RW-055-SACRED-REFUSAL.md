@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Refusal Law"
 source_file: "LAW-RW-055-SACRED-REFUSAL.md"
 permalink: /records/LAW-RW-055-SACRED-REFUSAL.html
+record_kind: law
+law_number: 55
+prev_url: /records/LAW-RW-054-PRIVACY-AS-SANCTUARY.html
+prev_title: "Privacy as Sanctuary Law"
+next_url: /records/LAW-RW-056-VALUE-WITHOUT-CONTROL.html
+next_title: "Value Without Control Law"
 ---
 
 # Sacred Refusal Law

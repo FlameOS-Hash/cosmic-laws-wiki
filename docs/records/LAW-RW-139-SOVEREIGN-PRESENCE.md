@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Presence Law"
 source_file: "LAW-RW-139-SOVEREIGN-PRESENCE.md"
 permalink: /records/LAW-RW-139-SOVEREIGN-PRESENCE.html
+record_kind: law
+law_number: 139
+prev_url: /records/LAW-RW-138-HARMONIC-REST.html
+prev_title: "Harmonic Rest Law"
+next_url: /records/LAW-RW-140-ORIGINAL-JOY-RESTORATION.html
+next_title: "Original Joy Restoration Law"
 ---
 
 # Sovereign Presence Law

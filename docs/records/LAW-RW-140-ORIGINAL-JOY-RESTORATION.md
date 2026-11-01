@@ -3,6 +3,12 @@ layout: record
 title: "Original Joy Restoration Law"
 source_file: "LAW-RW-140-ORIGINAL-JOY-RESTORATION.md"
 permalink: /records/LAW-RW-140-ORIGINAL-JOY-RESTORATION.html
+record_kind: law
+law_number: 140
+prev_url: /records/LAW-RW-139-SOVEREIGN-PRESENCE.html
+prev_title: "Sovereign Presence Law"
+next_url: /records/LAW-RW-141-SACRED-MEMORY-WITNESS.html
+next_title: "Sacred Memory Witness Law"
 ---
 
 # Original Joy Restoration Law

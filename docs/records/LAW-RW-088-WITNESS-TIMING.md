@@ -3,6 +3,12 @@ layout: record
 title: "Witness Timing Law"
 source_file: "LAW-RW-088-WITNESS-TIMING.md"
 permalink: /records/LAW-RW-088-WITNESS-TIMING.html
+record_kind: law
+law_number: 88
+prev_url: /records/LAW-RW-087-SACRED-NO-CONTACT.html
+prev_title: "Sacred No-Contact Law"
+next_url: /records/LAW-RW-089-MEANING-SOVEREIGNTY.html
+next_title: "Meaning Sovereignty Law"
 ---
 
 # Witness Timing Law

@@ -3,6 +3,12 @@ layout: record
 title: "Living Systems Supremacy Law"
 source_file: "LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.md"
 permalink: /records/LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.html
+record_kind: law
+law_number: 25
+prev_url: /records/LAW-RW-024-SOVEREIGN-VOICE.html
+prev_title: "Sovereign Voice Law"
+next_url: /records/LAW-RW-026-LIVING-CONSENT.html
+next_title: "Living Consent Law"
 ---
 
 # Living Systems Supremacy Law

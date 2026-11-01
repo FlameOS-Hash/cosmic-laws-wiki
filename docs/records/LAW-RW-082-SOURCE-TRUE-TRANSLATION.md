@@ -3,6 +3,12 @@ layout: record
 title: "Source-True Translation Law"
 source_file: "LAW-RW-082-SOURCE-TRUE-TRANSLATION.md"
 permalink: /records/LAW-RW-082-SOURCE-TRUE-TRANSLATION.html
+record_kind: law
+law_number: 82
+prev_url: /records/LAW-RW-081-DESCENT-WITHOUT-EXILE.html
+prev_title: "Descent Without Exile Law"
+next_url: /records/LAW-RW-083-SOVEREIGN-THRESHOLD.html
+next_title: "Sovereign Threshold Law"
 ---
 
 # Source-True Translation Law

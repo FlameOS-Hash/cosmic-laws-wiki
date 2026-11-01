@@ -3,6 +3,12 @@ layout: record
 title: "Body Image Truth Law"
 source_file: "LAW-RW-073-BODY-IMAGE-TRUTH.md"
 permalink: /records/LAW-RW-073-BODY-IMAGE-TRUTH.html
+record_kind: law
+law_number: 73
+prev_url: /records/LAW-RW-072-TRUE-PEACE.html
+prev_title: "True Peace Law"
+next_url: /records/LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.html
+next_title: "Work Without Identity Capture Law"
 ---
 
 # Body Image Truth Law

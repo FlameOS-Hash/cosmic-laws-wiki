@@ -3,6 +3,12 @@ layout: record
 title: "Mirror Truth Law"
 source_file: "LAW-RW-034-MIRROR-TRUTH.md"
 permalink: /records/LAW-RW-034-MIRROR-TRUTH.html
+record_kind: law
+law_number: 34
+prev_url: /records/LAW-RW-033-NOURISHMENT-ACCESS.html
+prev_title: "Nourishment Access Law"
+next_url: /records/LAW-RW-035-EMBODIED-PLACEMENT.html
+next_title: "Embodied Placement Law"
 ---
 
 # Mirror Truth Law

@@ -3,6 +3,12 @@ layout: record
 title: "Inner Authority Law"
 source_file: "LAW-RW-050-INNER-AUTHORITY.md"
 permalink: /records/LAW-RW-050-INNER-AUTHORITY.html
+record_kind: law
+law_number: 50
+prev_url: /records/LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.html
+prev_title: "Creative Source Ownership Law"
+next_url: /records/LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.html
+next_title: "Body Rhythm Sovereignty Law"
 ---
 
 # Inner Authority Law

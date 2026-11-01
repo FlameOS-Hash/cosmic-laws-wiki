@@ -3,6 +3,12 @@ layout: record
 title: "Legacy Without Ownership Law"
 source_file: "LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.md"
 permalink: /records/LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.html
+record_kind: law
+law_number: 101
+prev_url: /records/LAW-RW-100-CROWNED-RETURN.html
+prev_title: "Crowned Return Law"
+next_url: /records/LAW-RW-102-SOVEREIGN-RESTITUTION.html
+next_title: "Sovereign Restitution Law"
 ---
 
 # Legacy Without Ownership Law

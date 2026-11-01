@@ -3,6 +3,12 @@ layout: record
 title: "Living Completion Law"
 source_file: "LAW-RW-070-LIVING-COMPLETION.md"
 permalink: /records/LAW-RW-070-LIVING-COMPLETION.html
+record_kind: law
+law_number: 70
+prev_url: /records/LAW-RW-069-PROTECTION-WITHOUT-CONTROL.html
+prev_title: "Protection Without Control Law"
+next_url: /records/LAW-RW-071-SOVEREIGN-CHOICE.html
+next_title: "Sovereign Choice Law"
 ---
 
 # Living Completion Law

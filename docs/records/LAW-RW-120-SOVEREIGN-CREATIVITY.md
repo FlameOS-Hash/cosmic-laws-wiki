@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Creativity Law"
 source_file: "LAW-RW-120-SOVEREIGN-CREATIVITY.md"
 permalink: /records/LAW-RW-120-SOVEREIGN-CREATIVITY.html
+record_kind: law
+law_number: 120
+prev_url: /records/LAW-RW-119-ANCESTRAL-RELEASE.html
+prev_title: "Ancestral Release Law"
+next_url: /records/LAW-RW-121-SOVEREIGN-LISTENING.html
+next_title: "Sovereign Listening Law"
 ---
 
 # Sovereign Creativity Law

@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Anger Law"
 source_file: "LAW-RW-093-SOVEREIGN-ANGER.md"
 permalink: /records/LAW-RW-093-SOVEREIGN-ANGER.html
+record_kind: law
+law_number: 93
+prev_url: /records/LAW-RW-092-SACRED-PLAY.html
+prev_title: "Sacred Play Law"
+next_url: /records/LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.html
+next_title: "Discernment Without Shame Law"
 ---
 
 # Sovereign Anger Law

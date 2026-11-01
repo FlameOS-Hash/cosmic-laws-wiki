@@ -3,6 +3,12 @@ layout: record
 title: "Body Pace Law"
 source_file: "LAW-RW-114-BODY-PACE.md"
 permalink: /records/LAW-RW-114-BODY-PACE.html
+record_kind: law
+law_number: 114
+prev_url: /records/LAW-RW-113-CHOICE-AFTER-HARM.html
+prev_title: "Choice After Harm Law"
+next_url: /records/LAW-RW-115-FLAME-STEWARDSHIP.html
+next_title: "Flame Stewardship Law"
 ---
 
 # Body Pace Law

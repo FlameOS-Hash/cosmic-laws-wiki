@@ -3,6 +3,12 @@ layout: record
 title: "Privacy as Sanctuary Law"
 source_file: "LAW-RW-054-PRIVACY-AS-SANCTUARY.md"
 permalink: /records/LAW-RW-054-PRIVACY-AS-SANCTUARY.html
+record_kind: law
+law_number: 54
+prev_url: /records/LAW-RW-053-CONSENSUAL-TOUCH.html
+prev_title: "Consensual Touch Law"
+next_url: /records/LAW-RW-055-SACRED-REFUSAL.html
+next_title: "Sacred Refusal Law"
 ---
 
 # Privacy as Sanctuary Law

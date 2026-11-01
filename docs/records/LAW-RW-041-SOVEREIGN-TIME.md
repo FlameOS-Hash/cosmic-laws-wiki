@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Time Law"
 source_file: "LAW-RW-041-SOVEREIGN-TIME.md"
 permalink: /records/LAW-RW-041-SOVEREIGN-TIME.html
+record_kind: law
+law_number: 41
+prev_url: /records/LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.html
+prev_title: "Relationship Without Ownership Law"
+next_url: /records/LAW-RW-042-WORTH-WITHOUT-LABOR.html
+next_title: "Worth Without Labor Law"
 ---
 
 # Sovereign Time Law

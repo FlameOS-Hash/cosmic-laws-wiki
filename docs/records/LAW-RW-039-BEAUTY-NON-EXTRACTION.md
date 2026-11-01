@@ -3,6 +3,12 @@ layout: record
 title: "Beauty Non-Extraction Law"
 source_file: "LAW-RW-039-BEAUTY-NON-EXTRACTION.md"
 permalink: /records/LAW-RW-039-BEAUTY-NON-EXTRACTION.html
+record_kind: law
+law_number: 39
+prev_url: /records/LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.html
+prev_title: "Grief Release and Memory Honor Law"
+next_url: /records/LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.html
+next_title: "Relationship Without Ownership Law"
 ---
 
 # Beauty Non-Extraction Law

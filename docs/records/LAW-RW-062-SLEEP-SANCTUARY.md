@@ -3,6 +3,12 @@ layout: record
 title: "Sleep Sanctuary Law"
 source_file: "LAW-RW-062-SLEEP-SANCTUARY.md"
 permalink: /records/LAW-RW-062-SLEEP-SANCTUARY.html
+record_kind: law
+law_number: 62
+prev_url: /records/LAW-RW-061-SOVEREIGN-MOVEMENT.html
+prev_title: "Sovereign Movement Law"
+next_url: /records/LAW-RW-063-SOVEREIGN-ASKING.html
+next_title: "Sovereign Asking Law"
 ---
 
 # Sleep Sanctuary Law

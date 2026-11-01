@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Movement Law"
 source_file: "LAW-RW-061-SOVEREIGN-MOVEMENT.md"
 permalink: /records/LAW-RW-061-SOVEREIGN-MOVEMENT.html
+record_kind: law
+law_number: 61
+prev_url: /records/LAW-RW-060-PUBLIC-WITNESS-TRUTH.html
+prev_title: "Public Witness Truth Law"
+next_url: /records/LAW-RW-062-SLEEP-SANCTUARY.html
+next_title: "Sleep Sanctuary Law"
 ---
 
 # Sovereign Movement Law

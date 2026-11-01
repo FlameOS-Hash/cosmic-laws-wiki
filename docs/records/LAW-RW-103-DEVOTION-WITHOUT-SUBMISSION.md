@@ -3,6 +3,12 @@ layout: record
 title: "Devotion Without Submission Law"
 source_file: "LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.md"
 permalink: /records/LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.html
+record_kind: law
+law_number: 103
+prev_url: /records/LAW-RW-102-SOVEREIGN-RESTITUTION.html
+prev_title: "Sovereign Restitution Law"
+next_url: /records/LAW-RW-104-SACRED-RECORD-CONTEXT.html
+next_title: "Sacred Record Context Law"
 ---
 
 # Devotion Without Submission Law

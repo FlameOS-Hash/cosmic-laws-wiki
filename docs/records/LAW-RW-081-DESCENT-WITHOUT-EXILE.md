@@ -3,6 +3,12 @@ layout: record
 title: "Descent Without Exile Law"
 source_file: "LAW-RW-081-DESCENT-WITHOUT-EXILE.md"
 permalink: /records/LAW-RW-081-DESCENT-WITHOUT-EXILE.html
+record_kind: law
+law_number: 81
+prev_url: /records/LAW-RW-080-RENEWAL-WITHOUT-ERASURE.html
+prev_title: "Renewal Without Erasure Law"
+next_url: /records/LAW-RW-082-SOURCE-TRUE-TRANSLATION.html
+next_title: "Source-True Translation Law"
 ---
 
 # Descent Without Exile Law

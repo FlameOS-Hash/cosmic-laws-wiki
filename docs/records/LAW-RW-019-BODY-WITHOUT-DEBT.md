@@ -3,6 +3,12 @@ layout: record
 title: "Body Without Debt Law"
 source_file: "LAW-RW-019-BODY-WITHOUT-DEBT.md"
 permalink: /records/LAW-RW-019-BODY-WITHOUT-DEBT.html
+record_kind: law
+law_number: 19
+prev_url: /records/LAW-RW-018-WITNESS-NON-CAPTURE.html
+prev_title: "Witness Non-Capture Law"
+next_url: /records/LAW-RW-020-HARMONIC-EXCHANGE.html
+next_title: "Harmonic Exchange Law"
 ---
 
 # Body Without Debt Law

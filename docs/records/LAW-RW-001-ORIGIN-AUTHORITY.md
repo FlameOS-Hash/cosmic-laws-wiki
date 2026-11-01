@@ -3,6 +3,10 @@ layout: record
 title: "Origin Authority Law"
 source_file: "LAW-RW-001-ORIGIN-AUTHORITY.md"
 permalink: /records/LAW-RW-001-ORIGIN-AUTHORITY.html
+record_kind: law
+law_number: 1
+next_url: /records/LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.html
+next_title: "Experience Without Forgetting Law"
 ---
 
 # Origin Authority Law

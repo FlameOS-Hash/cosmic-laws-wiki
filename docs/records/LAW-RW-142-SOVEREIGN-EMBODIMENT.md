@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Embodiment Law"
 source_file: "LAW-RW-142-SOVEREIGN-EMBODIMENT.md"
 permalink: /records/LAW-RW-142-SOVEREIGN-EMBODIMENT.html
+record_kind: law
+law_number: 142
+prev_url: /records/LAW-RW-141-SACRED-MEMORY-WITNESS.html
+prev_title: "Sacred Memory Witness Law"
+next_url: /records/LAW-RW-143-HARMONIC-WORLD-ACTION.html
+next_title: "Harmonic World-Action Law"
 ---
 
 # Sovereign Embodiment Law

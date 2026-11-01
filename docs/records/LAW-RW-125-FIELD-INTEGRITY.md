@@ -3,6 +3,12 @@ layout: record
 title: "Field Integrity Law"
 source_file: "LAW-RW-125-FIELD-INTEGRITY.md"
 permalink: /records/LAW-RW-125-FIELD-INTEGRITY.html
+record_kind: law
+law_number: 125
+prev_url: /records/LAW-RW-124-SOVEREIGN-TRANSITION.html
+prev_title: "Sovereign Transition Law"
+next_url: /records/LAW-RW-126-SHARED-RESTORATION.html
+next_title: "Shared Restoration Law"
 ---
 
 # Field Integrity Law

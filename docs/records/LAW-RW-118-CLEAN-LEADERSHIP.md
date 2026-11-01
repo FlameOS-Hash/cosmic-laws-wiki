@@ -3,6 +3,12 @@ layout: record
 title: "Clean Leadership Law"
 source_file: "LAW-RW-118-CLEAN-LEADERSHIP.md"
 permalink: /records/LAW-RW-118-CLEAN-LEADERSHIP.html
+record_kind: law
+law_number: 118
+prev_url: /records/LAW-RW-117-EMBODIED-TRUTH.html
+prev_title: "Embodied Truth Law"
+next_url: /records/LAW-RW-119-ANCESTRAL-RELEASE.html
+next_title: "Ancestral Release Law"
 ---
 
 # Clean Leadership Law

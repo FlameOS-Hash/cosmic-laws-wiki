@@ -3,6 +3,12 @@ layout: record
 title: "Land Memory Stewardship Law"
 source_file: "LAW-RW-078-LAND-MEMORY-STEWARDSHIP.md"
 permalink: /records/LAW-RW-078-LAND-MEMORY-STEWARDSHIP.html
+record_kind: law
+law_number: 78
+prev_url: /records/LAW-RW-077-SACRED-SPEECH.html
+prev_title: "Sacred Speech Law"
+next_url: /records/LAW-RW-079-TRUST-WITH-DISCERNMENT.html
+next_title: "Trust With Discernment Law"
 ---
 
 # Land Memory Stewardship Law

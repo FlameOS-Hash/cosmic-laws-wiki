@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Transition Law"
 source_file: "LAW-RW-124-SOVEREIGN-TRANSITION.md"
 permalink: /records/LAW-RW-124-SOVEREIGN-TRANSITION.html
+record_kind: law
+law_number: 124
+prev_url: /records/LAW-RW-123-SOVEREIGN-NAMING.html
+prev_title: "Sovereign Naming Law"
+next_url: /records/LAW-RW-125-FIELD-INTEGRITY.html
+next_title: "Field Integrity Law"
 ---
 
 # Sovereign Transition Law

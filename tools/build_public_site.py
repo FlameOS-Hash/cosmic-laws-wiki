@@ -80,6 +80,26 @@ sources = sorted(SOURCE.glob("*.md"))
 if len(sources) != 172:
     fail(f"expected 172 source pages; found {len(sources)}")
 
+law_sources = sorted(
+    [src for src in sources if LAW_RE.match(src.name)],
+    key=lambda src: int(LAW_RE.match(src.name).group(1)),
+)
+
+law_nav = {}
+
+for i, src in enumerate(law_sources):
+    prev_src = law_sources[i - 1] if i > 0 else None
+    next_src = (
+        law_sources[i + 1]
+        if i + 1 < len(law_sources)
+        else None
+    )
+
+    law_nav[src.name] = {
+        "prev": prev_src,
+        "next": next_src,
+    }
+
 laws = []
 sequences = []
 search_records = []
@@ -112,14 +132,65 @@ try:
 
         summary = extract_summary(text)
 
-        frontmatter = (
-            "---\n"
-            "layout: record\n"
-            f"title: {yaml_quote(title)}\n"
-            f"source_file: {yaml_quote(src.name)}\n"
-            f"permalink: /records/{src.stem}.html\n"
-            "---\n\n"
-        )
+        law_match = LAW_RE.match(src.name)
+
+        fm = [
+            "---",
+            "layout: record",
+            f"title: {yaml_quote(title)}",
+            f"source_file: {yaml_quote(src.name)}",
+            f"permalink: /records/{src.stem}.html",
+        ]
+
+        if law_match:
+            number = int(law_match.group(1))
+            nav = law_nav[src.name]
+
+            fm.extend([
+                "record_kind: law",
+                f"law_number: {number}",
+            ])
+
+            if nav["prev"]:
+                prev_text = nav["prev"].read_text(
+                    encoding="utf-8"
+                )
+                prev_title = title_from_text(prev_text)
+
+                fm.extend([
+                    (
+                        "prev_url: "
+                        f"/records/{nav['prev'].stem}.html"
+                    ),
+                    (
+                        "prev_title: "
+                        f"{yaml_quote(prev_title)}"
+                    ),
+                ])
+
+            if nav["next"]:
+                next_text = nav["next"].read_text(
+                    encoding="utf-8"
+                )
+                next_title = title_from_text(next_text)
+
+                fm.extend([
+                    (
+                        "next_url: "
+                        f"/records/{nav['next'].stem}.html"
+                    ),
+                    (
+                        "next_title: "
+                        f"{yaml_quote(next_title)}"
+                    ),
+                ])
+
+        else:
+            fm.append("record_kind: sequence")
+
+        fm.extend(["---", ""])
+
+        frontmatter = "\n".join(fm) + "\n"
 
         target = records_dir / src.name
         target.write_text(
@@ -261,11 +332,34 @@ layout: default
 ---
 <div class="record-nav">
   <a href="{{ '/' | relative_url }}">← All Cosmic Laws</a>
+  <a href="{{ '/search.html' | relative_url }}">Search</a>
 </div>
 
 <article class="record">
   {{ content }}
 </article>
+
+{% if page.record_kind == "law" %}
+<nav class="law-pager" aria-label="Cosmic Law navigation">
+  <div class="law-pager-prev">
+    {% if page.prev_url %}
+      <span>Previous Law</span>
+      <a href="{{ page.prev_url | relative_url }}">
+        ← {{ page.prev_title }}
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="law-pager-next">
+    {% if page.next_url %}
+      <span>Next Law</span>
+      <a href="{{ page.next_url | relative_url }}">
+        {{ page.next_title }} →
+      </a>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}
 
 <div class="record-source">
   Publication source: <code>wiki/cosmic-laws/{{ page.source_file }}</code>
@@ -391,6 +485,43 @@ code {
 .search-count {
   color: var(--muted);
   margin-bottom: 1.5rem;
+}
+
+.record-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.law-pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+}
+
+.law-pager span {
+  display: block;
+  color: var(--muted);
+  font-size: .85rem;
+  margin-bottom: .35rem;
+}
+
+.law-pager-next {
+  text-align: right;
+}
+
+@media (max-width: 650px) {
+  .law-pager {
+    grid-template-columns: 1fr;
+  }
+
+  .law-pager-next {
+    text-align: left;
+  }
 }
 
 .record-source {

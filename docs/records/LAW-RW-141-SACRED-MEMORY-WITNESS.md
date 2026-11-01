@@ -3,6 +3,12 @@ layout: record
 title: "Sacred Memory Witness Law"
 source_file: "LAW-RW-141-SACRED-MEMORY-WITNESS.md"
 permalink: /records/LAW-RW-141-SACRED-MEMORY-WITNESS.html
+record_kind: law
+law_number: 141
+prev_url: /records/LAW-RW-140-ORIGINAL-JOY-RESTORATION.html
+prev_title: "Original Joy Restoration Law"
+next_url: /records/LAW-RW-142-SOVEREIGN-EMBODIMENT.html
+next_title: "Sovereign Embodiment Law"
 ---
 
 # Sacred Memory Witness Law

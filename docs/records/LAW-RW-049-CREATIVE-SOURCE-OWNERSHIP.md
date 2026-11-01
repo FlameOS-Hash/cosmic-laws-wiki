@@ -3,6 +3,12 @@ layout: record
 title: "Creative Source Ownership Law"
 source_file: "LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.md"
 permalink: /records/LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.html
+record_kind: law
+law_number: 49
+prev_url: /records/LAW-RW-048-HOME-SANCTUARY.html
+prev_title: "Home Sanctuary Law"
+next_url: /records/LAW-RW-050-INNER-AUTHORITY.html
+next_title: "Inner Authority Law"
 ---
 
 # Creative Source Ownership Law

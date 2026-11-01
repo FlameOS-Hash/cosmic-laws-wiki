@@ -3,6 +3,12 @@ layout: record
 title: "Witness Without Ownership Law"
 source_file: "LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.md"
 permalink: /records/LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.html
+record_kind: law
+law_number: 98
+prev_url: /records/LAW-RW-097-TRUTHFUL-CLOSURE.html
+prev_title: "Truthful Closure Law"
+next_url: /records/LAW-RW-099-CLEAN-RECIPROCITY.html
+next_title: "Clean Reciprocity Law"
 ---
 
 # Witness Without Ownership Law

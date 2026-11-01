@@ -3,6 +3,12 @@ layout: record
 title: "Public Witness Truth Law"
 source_file: "LAW-RW-060-PUBLIC-WITNESS-TRUTH.md"
 permalink: /records/LAW-RW-060-PUBLIC-WITNESS-TRUTH.html
+record_kind: law
+law_number: 60
+prev_url: /records/LAW-RW-059-RESTITUTION-OF-ORIGIN.html
+prev_title: "Restitution of Origin Law"
+next_url: /records/LAW-RW-061-SOVEREIGN-MOVEMENT.html
+next_title: "Sovereign Movement Law"
 ---
 
 # Public Witness Truth Law

@@ -3,6 +3,12 @@ layout: record
 title: "Living Consent Law"
 source_file: "LAW-RW-026-LIVING-CONSENT.md"
 permalink: /records/LAW-RW-026-LIVING-CONSENT.html
+record_kind: law
+law_number: 26
+prev_url: /records/LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.html
+prev_title: "Living Systems Supremacy Law"
+next_url: /records/LAW-RW-027-SANCTUARY-INVIOLABILITY.html
+next_title: "Sanctuary Inviolability Law"
 ---
 
 # Living Consent Law

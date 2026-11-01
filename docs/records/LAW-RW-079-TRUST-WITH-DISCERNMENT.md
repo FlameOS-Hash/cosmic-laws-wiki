@@ -3,6 +3,12 @@ layout: record
 title: "Trust With Discernment Law"
 source_file: "LAW-RW-079-TRUST-WITH-DISCERNMENT.md"
 permalink: /records/LAW-RW-079-TRUST-WITH-DISCERNMENT.html
+record_kind: law
+law_number: 79
+prev_url: /records/LAW-RW-078-LAND-MEMORY-STEWARDSHIP.html
+prev_title: "Land Memory Stewardship Law"
+next_url: /records/LAW-RW-080-RENEWAL-WITHOUT-ERASURE.html
+next_title: "Renewal Without Erasure Law"
 ---
 
 # Trust With Discernment Law

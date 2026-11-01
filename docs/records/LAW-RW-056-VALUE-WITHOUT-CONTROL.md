@@ -3,6 +3,12 @@ layout: record
 title: "Value Without Control Law"
 source_file: "LAW-RW-056-VALUE-WITHOUT-CONTROL.md"
 permalink: /records/LAW-RW-056-VALUE-WITHOUT-CONTROL.html
+record_kind: law
+law_number: 56
+prev_url: /records/LAW-RW-055-SACRED-REFUSAL.html
+prev_title: "Sacred Refusal Law"
+next_url: /records/LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.html
+next_title: "Inheritance Without Entitlement Law"
 ---
 
 # Value Without Control Law

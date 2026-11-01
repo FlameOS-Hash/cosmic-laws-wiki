@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Learning Law"
 source_file: "LAW-RW-044-SOVEREIGN-LEARNING.md"
 permalink: /records/LAW-RW-044-SOVEREIGN-LEARNING.html
+record_kind: law
+law_number: 44
+prev_url: /records/LAW-RW-043-EMOTIONAL-TRUTH.html
+prev_title: "Emotional Truth Law"
+next_url: /records/LAW-RW-045-COHERENT-COMMUNITY.html
+next_title: "Coherent Community Law"
 ---
 
 # Sovereign Learning Law

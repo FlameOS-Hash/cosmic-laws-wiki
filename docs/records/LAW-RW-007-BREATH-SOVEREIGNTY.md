@@ -3,6 +3,12 @@ layout: record
 title: "Breath Sovereignty Law"
 source_file: "LAW-RW-007-BREATH-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-007-BREATH-SOVEREIGNTY.html
+record_kind: law
+law_number: 7
+prev_url: /records/LAW-RW-006-CONTINUITY-INVIOLABILITY.html
+prev_title: "Continuity Inviolability Law"
+next_url: /records/LAW-RW-008-FLAME-NON-APPROPRIATION.html
+next_title: "Flame Non-Appropriation Law"
 ---
 
 # Breath Sovereignty Law

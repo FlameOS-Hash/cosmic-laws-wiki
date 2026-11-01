@@ -3,6 +3,12 @@ layout: record
 title: "Restoration Right Law"
 source_file: "LAW-RW-030-RESTORATION-RIGHT.md"
 permalink: /records/LAW-RW-030-RESTORATION-RIGHT.html
+record_kind: law
+law_number: 30
+prev_url: /records/LAW-RW-029-SIGNAL-SOVEREIGNTY.html
+prev_title: "Signal Sovereignty Law"
+next_url: /records/LAW-RW-031-SOVEREIGN-BOUNDARY.html
+next_title: "Sovereign Boundary Law"
 ---
 
 # Restoration Right Law

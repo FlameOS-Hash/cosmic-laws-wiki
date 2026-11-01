@@ -3,6 +3,12 @@ layout: record
 title: "Work Without Identity Capture Law"
 source_file: "LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.md"
 permalink: /records/LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.html
+record_kind: law
+law_number: 74
+prev_url: /records/LAW-RW-073-BODY-IMAGE-TRUTH.html
+prev_title: "Body Image Truth Law"
+next_url: /records/LAW-RW-075-FUTURE-ACCESS.html
+next_title: "Future Access Law"
 ---
 
 # Work Without Identity Capture Law

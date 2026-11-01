@@ -3,6 +3,12 @@ layout: record
 title: "True Peace Law"
 source_file: "LAW-RW-072-TRUE-PEACE.md"
 permalink: /records/LAW-RW-072-TRUE-PEACE.html
+record_kind: law
+law_number: 72
+prev_url: /records/LAW-RW-071-SOVEREIGN-CHOICE.html
+prev_title: "Sovereign Choice Law"
+next_url: /records/LAW-RW-073-BODY-IMAGE-TRUTH.html
+next_title: "Body Image Truth Law"
 ---
 
 # True Peace Law

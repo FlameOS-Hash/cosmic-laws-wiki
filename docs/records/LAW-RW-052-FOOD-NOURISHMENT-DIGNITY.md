@@ -3,6 +3,12 @@ layout: record
 title: "Food and Nourishment Dignity Law"
 source_file: "LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.md"
 permalink: /records/LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.html
+record_kind: law
+law_number: 52
+prev_url: /records/LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.html
+prev_title: "Body Rhythm Sovereignty Law"
+next_url: /records/LAW-RW-053-CONSENSUAL-TOUCH.html
+next_title: "Consensual Touch Law"
 ---
 
 # Food and Nourishment Dignity Law

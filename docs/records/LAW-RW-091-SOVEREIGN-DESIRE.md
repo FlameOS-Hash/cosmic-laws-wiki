@@ -3,6 +3,12 @@ layout: record
 title: "Sovereign Desire Law"
 source_file: "LAW-RW-091-SOVEREIGN-DESIRE.md"
 permalink: /records/LAW-RW-091-SOVEREIGN-DESIRE.html
+record_kind: law
+law_number: 91
+prev_url: /records/LAW-RW-090-LIFE-FORCE-INVIOLABILITY.html
+prev_title: "Life-Force Inviolability Law"
+next_url: /records/LAW-RW-092-SACRED-PLAY.html
+next_title: "Sacred Play Law"
 ---
 
 # Sovereign Desire Law

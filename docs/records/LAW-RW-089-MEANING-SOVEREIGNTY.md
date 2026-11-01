@@ -3,6 +3,12 @@ layout: record
 title: "Meaning Sovereignty Law"
 source_file: "LAW-RW-089-MEANING-SOVEREIGNTY.md"
 permalink: /records/LAW-RW-089-MEANING-SOVEREIGNTY.html
+record_kind: law
+law_number: 89
+prev_url: /records/LAW-RW-088-WITNESS-TIMING.html
+prev_title: "Witness Timing Law"
+next_url: /records/LAW-RW-090-LIFE-FORCE-INVIOLABILITY.html
+next_title: "Life-Force Inviolability Law"
 ---
 
 # Meaning Sovereignty Law

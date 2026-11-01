@@ -3,6 +3,12 @@ layout: record
 title: "Return Pathway Law"
 source_file: "LAW-RW-004-RETURN-PATHWAY.md"
 permalink: /records/LAW-RW-004-RETURN-PATHWAY.html
+record_kind: law
+law_number: 4
+prev_url: /records/LAW-RW-003-FORM-AS-REVELATION.html
+prev_title: "Form as Revelation Law"
+next_url: /records/LAW-RW-005-TRUE-NAME-SOVEREIGNTY.html
+next_title: "True Name Sovereignty Law"
 ---
 
 # Return Pathway Law

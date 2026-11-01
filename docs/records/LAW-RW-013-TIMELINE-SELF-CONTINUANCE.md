@@ -3,6 +3,12 @@ layout: record
 title: "Timeline Self-Continuance Law"
 source_file: "LAW-RW-013-TIMELINE-SELF-CONTINUANCE.md"
 permalink: /records/LAW-RW-013-TIMELINE-SELF-CONTINUANCE.html
+record_kind: law
+law_number: 13
+prev_url: /records/LAW-RW-012-REALM-NON-CAPTURE.html
+prev_title: "Realm Non-Capture Law"
+next_url: /records/LAW-RW-014-RETURN-ACCESS.html
+next_title: "Return Access Law"
 ---
 
 # Timeline Self-Continuance Law

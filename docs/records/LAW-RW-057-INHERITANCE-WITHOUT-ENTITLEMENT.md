@@ -3,6 +3,12 @@ layout: record
 title: "Inheritance Without Entitlement Law"
 source_file: "LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.md"
 permalink: /records/LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.html
+record_kind: law
+law_number: 57
+prev_url: /records/LAW-RW-056-VALUE-WITHOUT-CONTROL.html
+prev_title: "Value Without Control Law"
+next_url: /records/LAW-RW-058-CARE-WITHOUT-LEVERAGE.html
+next_title: "Care Without Leverage Law"
 ---
 
 # Inheritance Without Entitlement Law

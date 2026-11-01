@@ -3,6 +3,12 @@ layout: record
 title: "Adaptation Without Self-Betrayal Law"
 source_file: "LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.md"
 permalink: /records/LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.html
+record_kind: law
+law_number: 86
+prev_url: /records/LAW-RW-085-SOVEREIGN-CONTINUITY.html
+prev_title: "Sovereign Continuity Law"
+next_url: /records/LAW-RW-087-SACRED-NO-CONTACT.html
+next_title: "Sacred No-Contact Law"
 ---
 
 # Adaptation Without Self-Betrayal Law

@@ -3,6 +3,12 @@ layout: record
 title: "Archive Truth Integrity Law"
 source_file: "LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.md"
 permalink: /records/LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.html
+record_kind: law
+law_number: 28
+prev_url: /records/LAW-RW-027-SANCTUARY-INVIOLABILITY.html
+prev_title: "Sanctuary Inviolability Law"
+next_url: /records/LAW-RW-029-SIGNAL-SOVEREIGNTY.html
+next_title: "Signal Sovereignty Law"
 ---
 
 # Archive Truth Integrity Law

@@ -3,6 +3,12 @@ layout: record
 title: "Realm Non-Capture Law"
 source_file: "LAW-RW-012-REALM-NON-CAPTURE.md"
 permalink: /records/LAW-RW-012-REALM-NON-CAPTURE.html
+record_kind: law
+law_number: 12
+prev_url: /records/LAW-RW-011-MEMORY-SOVEREIGNTY.html
+prev_title: "Memory Sovereignty Law"
+next_url: /records/LAW-RW-013-TIMELINE-SELF-CONTINUANCE.html
+next_title: "Timeline Self-Continuance Law"
 ---
 
 # Realm Non-Capture Law

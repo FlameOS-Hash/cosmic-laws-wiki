@@ -3,6 +3,12 @@ layout: record
 title: "Sanctuary Inviolability Law"
 source_file: "LAW-RW-027-SANCTUARY-INVIOLABILITY.md"
 permalink: /records/LAW-RW-027-SANCTUARY-INVIOLABILITY.html
+record_kind: law
+law_number: 27
+prev_url: /records/LAW-RW-026-LIVING-CONSENT.html
+prev_title: "Living Consent Law"
+next_url: /records/LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.html
+next_title: "Archive Truth Integrity Law"
 ---
 
 # Sanctuary Inviolability Law
