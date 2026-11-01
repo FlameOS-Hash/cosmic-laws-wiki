@@ -2,7 +2,11 @@
 layout: default
 ---
 <div class="record-nav">
-  <a href="{{ '/laws.html' | relative_url }}">← 144 Cosmic Laws</a>
+  {% if page.record_kind == "sequence" %}
+    <a href="{{ '/' | relative_url }}#sequences">← Rewrite Sequences</a>
+  {% else %}
+    <a href="{{ '/laws.html' | relative_url }}">← 144 Cosmic Laws</a>
+  {% endif %}
   <a href="{{ '/search.html' | relative_url }}">Search</a>
 </div>
 

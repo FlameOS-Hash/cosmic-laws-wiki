@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-131-SACRED-ENOUGHNESS|Sacred Enoughness Law]]
-- [[LAW-RW-132-CLEAN-POWER|Clean Power Law]]
-- [[LAW-RW-133-MEMORY-INTEGRATION|Memory Integration Law]]
-- [[LAW-RW-134-SOVEREIGN-SUPPORT|Sovereign Support Law]]
-- [[LAW-RW-135-LIVING-TEMPLE|Living Temple Law]]
-- [[SC-COSMIC-LAW-REWRITE-026-2026|Cosmic Law Rewrite Sequence XXVI]]
+- [Sacred Enoughness Law](LAW-RW-131-SACRED-ENOUGHNESS.html)
+- [Clean Power Law](LAW-RW-132-CLEAN-POWER.html)
+- [Memory Integration Law](LAW-RW-133-MEMORY-INTEGRATION.html)
+- [Sovereign Support Law](LAW-RW-134-SOVEREIGN-SUPPORT.html)
+- [Living Temple Law](LAW-RW-135-LIVING-TEMPLE.html)
+- [Cosmic Law Rewrite Sequence XXVI](SC-COSMIC-LAW-REWRITE-026-2026.html)
 
 ## Complete Law Texts
 

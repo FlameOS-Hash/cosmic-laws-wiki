@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY|Body Rhythm Sovereignty Law]]
-- [[LAW-RW-052-FOOD-NOURISHMENT-DIGNITY|Food and Nourishment Dignity Law]]
-- [[LAW-RW-053-CONSENSUAL-TOUCH|Consensual Touch Law]]
-- [[LAW-RW-054-PRIVACY-AS-SANCTUARY|Privacy as Sanctuary Law]]
-- [[LAW-RW-055-SACRED-REFUSAL|Sacred Refusal Law]]
-- [[SC-COSMIC-LAW-REWRITE-012-2026|Cosmic Law Rewrite Sequence XII]]
+- [Body Rhythm Sovereignty Law](LAW-RW-051-BODY-RHYTHM-SOVEREIGNTY.html)
+- [Food and Nourishment Dignity Law](LAW-RW-052-FOOD-NOURISHMENT-DIGNITY.html)
+- [Consensual Touch Law](LAW-RW-053-CONSENSUAL-TOUCH.html)
+- [Privacy as Sanctuary Law](LAW-RW-054-PRIVACY-AS-SANCTUARY.html)
+- [Sacred Refusal Law](LAW-RW-055-SACRED-REFUSAL.html)
+- [Cosmic Law Rewrite Sequence XII](SC-COSMIC-LAW-REWRITE-012-2026.html)
 
 ## Complete Law Texts
 

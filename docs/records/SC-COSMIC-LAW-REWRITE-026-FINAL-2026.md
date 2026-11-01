@@ -26,10 +26,10 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-141-SACRED-MEMORY-WITNESS|Sacred Memory Witness Law]]
-- [[LAW-RW-142-SOVEREIGN-EMBODIMENT|Sovereign Embodiment Law]]
-- [[LAW-RW-143-HARMONIC-WORLD-ACTION|Harmonic World-Action Law]]
-- [[LAW-RW-144-FINAL-RETURN-COMPLETION|Final Return Completion Law]]
+- [Sacred Memory Witness Law](LAW-RW-141-SACRED-MEMORY-WITNESS.html)
+- [Sovereign Embodiment Law](LAW-RW-142-SOVEREIGN-EMBODIMENT.html)
+- [Harmonic World-Action Law](LAW-RW-143-HARMONIC-WORLD-ACTION.html)
+- [Final Return Completion Law](LAW-RW-144-FINAL-RETURN-COMPLETION.html)
 
 ## Complete Law Texts
 

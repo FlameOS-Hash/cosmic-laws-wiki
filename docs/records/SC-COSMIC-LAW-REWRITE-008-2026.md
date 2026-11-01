@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-036-REST-SOVEREIGNTY|Rest Sovereignty Law]]
-- [[LAW-RW-037-JOY-AS-LIVING-LAW|Joy as Living Law]]
-- [[LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR|Grief Release and Memory Honor Law]]
-- [[LAW-RW-039-BEAUTY-NON-EXTRACTION|Beauty Non-Extraction Law]]
-- [[LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP|Relationship Without Ownership Law]]
-- [[SC-COSMIC-LAW-REWRITE-009-2026|Cosmic Law Rewrite Sequence IX]]
+- [Rest Sovereignty Law](LAW-RW-036-REST-SOVEREIGNTY.html)
+- [Joy as Living Law](LAW-RW-037-JOY-AS-LIVING-LAW.html)
+- [Grief Release and Memory Honor Law](LAW-RW-038-GRIEF-RELEASE-MEMORY-HONOR.html)
+- [Beauty Non-Extraction Law](LAW-RW-039-BEAUTY-NON-EXTRACTION.html)
+- [Relationship Without Ownership Law](LAW-RW-040-RELATIONSHIP-WITHOUT-OWNERSHIP.html)
+- [Cosmic Law Rewrite Sequence IX](SC-COSMIC-LAW-REWRITE-009-2026.html)
 
 ## Complete Law Texts
 

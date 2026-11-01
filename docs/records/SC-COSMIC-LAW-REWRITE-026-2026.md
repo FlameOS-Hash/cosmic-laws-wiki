@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-136-SACRED-CAPACITY|Sacred Capacity Law]]
-- [[LAW-RW-137-CLEAN-DEVOTION|Clean Devotion Law]]
-- [[LAW-RW-138-HARMONIC-REST|Harmonic Rest Law]]
-- [[LAW-RW-139-SOVEREIGN-PRESENCE|Sovereign Presence Law]]
-- [[LAW-RW-140-ORIGINAL-JOY-RESTORATION|Original Joy Restoration Law]]
-- [[SC-COSMIC-LAW-REWRITE-026-FINAL-2026|Cosmic Law Rewrite Sequence XXVI — Final Completion Segment]]
+- [Sacred Capacity Law](LAW-RW-136-SACRED-CAPACITY.html)
+- [Clean Devotion Law](LAW-RW-137-CLEAN-DEVOTION.html)
+- [Harmonic Rest Law](LAW-RW-138-HARMONIC-REST.html)
+- [Sovereign Presence Law](LAW-RW-139-SOVEREIGN-PRESENCE.html)
+- [Original Joy Restoration Law](LAW-RW-140-ORIGINAL-JOY-RESTORATION.html)
+- [Cosmic Law Rewrite Sequence XXVI — Final Completion Segment](SC-COSMIC-LAW-REWRITE-026-FINAL-2026.html)
 
 ## Complete Law Texts
 

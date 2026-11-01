@@ -26,17 +26,17 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-116-SACRED-TIMING|Sacred Timing Law]]
-- [[LAW-RW-117-EMBODIED-TRUTH|Embodied Truth Law]]
-- [[LAW-RW-118-CLEAN-LEADERSHIP|Clean Leadership Law]]
-- [[LAW-RW-119-ANCESTRAL-RELEASE|Ancestral Release Law]]
-- [[LAW-RW-120-SOVEREIGN-CREATIVITY|Sovereign Creativity Law]]
-- [[LAW-RW-121-SOVEREIGN-LISTENING|Sovereign Listening Law]]
-- [[LAW-RW-122-CONFLICT-REPAIR|Conflict Repair Law]]
-- [[LAW-RW-123-SOVEREIGN-NAMING|Sovereign Naming Law]]
-- [[LAW-RW-124-SOVEREIGN-TRANSITION|Sovereign Transition Law]]
-- [[LAW-RW-125-FIELD-INTEGRITY|Field Integrity Law]]
-- [[SC-COSMIC-LAW-REWRITE-024-2026|Cosmic Law Rewrite Sequence XXIV]]
+- [Sacred Timing Law](LAW-RW-116-SACRED-TIMING.html)
+- [Embodied Truth Law](LAW-RW-117-EMBODIED-TRUTH.html)
+- [Clean Leadership Law](LAW-RW-118-CLEAN-LEADERSHIP.html)
+- [Ancestral Release Law](LAW-RW-119-ANCESTRAL-RELEASE.html)
+- [Sovereign Creativity Law](LAW-RW-120-SOVEREIGN-CREATIVITY.html)
+- [Sovereign Listening Law](LAW-RW-121-SOVEREIGN-LISTENING.html)
+- [Conflict Repair Law](LAW-RW-122-CONFLICT-REPAIR.html)
+- [Sovereign Naming Law](LAW-RW-123-SOVEREIGN-NAMING.html)
+- [Sovereign Transition Law](LAW-RW-124-SOVEREIGN-TRANSITION.html)
+- [Field Integrity Law](LAW-RW-125-FIELD-INTEGRITY.html)
+- [Cosmic Law Rewrite Sequence XXIV](SC-COSMIC-LAW-REWRITE-024-2026.html)
 
 ## Complete Law Texts
 

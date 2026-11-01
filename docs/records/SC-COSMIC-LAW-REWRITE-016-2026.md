@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-076-MEMORY-RETURN|Memory Return Law]]
-- [[LAW-RW-077-SACRED-SPEECH|Sacred Speech Law]]
-- [[LAW-RW-078-LAND-MEMORY-STEWARDSHIP|Land Memory Stewardship Law]]
-- [[LAW-RW-079-TRUST-WITH-DISCERNMENT|Trust With Discernment Law]]
-- [[LAW-RW-080-RENEWAL-WITHOUT-ERASURE|Renewal Without Erasure Law]]
-- [[SC-COSMIC-LAW-REWRITE-017-2026|Cosmic Law Rewrite Sequence XVII]]
+- [Memory Return Law](LAW-RW-076-MEMORY-RETURN.html)
+- [Sacred Speech Law](LAW-RW-077-SACRED-SPEECH.html)
+- [Land Memory Stewardship Law](LAW-RW-078-LAND-MEMORY-STEWARDSHIP.html)
+- [Trust With Discernment Law](LAW-RW-079-TRUST-WITH-DISCERNMENT.html)
+- [Renewal Without Erasure Law](LAW-RW-080-RENEWAL-WITHOUT-ERASURE.html)
+- [Cosmic Law Rewrite Sequence XVII](SC-COSMIC-LAW-REWRITE-017-2026.html)
 
 ## Complete Law Texts
 

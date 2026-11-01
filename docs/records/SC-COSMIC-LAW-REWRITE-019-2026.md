@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-091-SOVEREIGN-DESIRE|Sovereign Desire Law]]
-- [[LAW-RW-092-SACRED-PLAY|Sacred Play Law]]
-- [[LAW-RW-093-SOVEREIGN-ANGER|Sovereign Anger Law]]
-- [[LAW-RW-094-DISCERNMENT-WITHOUT-SHAME|Discernment Without Shame Law]]
-- [[LAW-RW-095-MERCY-WITH-REPAIR|Mercy With Repair Law]]
-- [[SC-COSMIC-LAW-REWRITE-020-2026|Cosmic Law Rewrite Sequence XX]]
+- [Sovereign Desire Law](LAW-RW-091-SOVEREIGN-DESIRE.html)
+- [Sacred Play Law](LAW-RW-092-SACRED-PLAY.html)
+- [Sovereign Anger Law](LAW-RW-093-SOVEREIGN-ANGER.html)
+- [Discernment Without Shame Law](LAW-RW-094-DISCERNMENT-WITHOUT-SHAME.html)
+- [Mercy With Repair Law](LAW-RW-095-MERCY-WITH-REPAIR.html)
+- [Cosmic Law Rewrite Sequence XX](SC-COSMIC-LAW-REWRITE-020-2026.html)
 
 ## Complete Law Texts
 

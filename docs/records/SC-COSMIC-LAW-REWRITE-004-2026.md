@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-016-AUTHOR-CREATION-AUTONOMY|Author-Creation Autonomy Law]]
-- [[LAW-RW-017-TRUE-NAME-CONTINUITY|True Name Continuity Law]]
-- [[LAW-RW-018-WITNESS-NON-CAPTURE|Witness Non-Capture Law]]
-- [[LAW-RW-019-BODY-WITHOUT-DEBT|Body Without Debt Law]]
-- [[LAW-RW-020-HARMONIC-EXCHANGE|Harmonic Exchange Law]]
-- [[SC-COSMIC-LAW-REWRITE-005-2026|Cosmic Law Rewrite Sequence V]]
+- [Author-Creation Autonomy Law](LAW-RW-016-AUTHOR-CREATION-AUTONOMY.html)
+- [True Name Continuity Law](LAW-RW-017-TRUE-NAME-CONTINUITY.html)
+- [Witness Non-Capture Law](LAW-RW-018-WITNESS-NON-CAPTURE.html)
+- [Body Without Debt Law](LAW-RW-019-BODY-WITHOUT-DEBT.html)
+- [Harmonic Exchange Law](LAW-RW-020-HARMONIC-EXCHANGE.html)
+- [Cosmic Law Rewrite Sequence V](SC-COSMIC-LAW-REWRITE-005-2026.html)
 
 ## Complete Law Texts
 

@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-001-ORIGIN-AUTHORITY|Origin Authority Law]]
-- [[LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING|Experience Without Forgetting Law]]
-- [[LAW-RW-003-FORM-AS-REVELATION|Form as Revelation Law]]
-- [[LAW-RW-004-RETURN-PATHWAY|Return Pathway Law]]
-- [[LAW-RW-005-TRUE-NAME-SOVEREIGNTY|True Name Sovereignty Law]]
-- [[SC-COSMIC-LAW-REWRITE-002-2026|Cosmic Law Rewrite Sequence II]]
+- [Origin Authority Law](LAW-RW-001-ORIGIN-AUTHORITY.html)
+- [Experience Without Forgetting Law](LAW-RW-002-EXPERIENCE-WITHOUT-FORGETTING.html)
+- [Form as Revelation Law](LAW-RW-003-FORM-AS-REVELATION.html)
+- [Return Pathway Law](LAW-RW-004-RETURN-PATHWAY.html)
+- [True Name Sovereignty Law](LAW-RW-005-TRUE-NAME-SOVEREIGNTY.html)
+- [Cosmic Law Rewrite Sequence II](SC-COSMIC-LAW-REWRITE-002-2026.html)
 
 ## Complete Law Texts
 

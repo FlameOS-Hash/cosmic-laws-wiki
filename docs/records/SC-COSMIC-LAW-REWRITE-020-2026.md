@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-096-SOVEREIGN-HOPE|Sovereign Hope Law]]
-- [[LAW-RW-097-TRUTHFUL-CLOSURE|Truthful Closure Law]]
-- [[LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP|Witness Without Ownership Law]]
-- [[LAW-RW-099-CLEAN-RECIPROCITY|Clean Reciprocity Law]]
-- [[LAW-RW-100-CROWNED-RETURN|Crowned Return Law]]
-- [[SC-COSMIC-LAW-REWRITE-021-2026|Cosmic Law Rewrite Sequence XXI]]
+- [Sovereign Hope Law](LAW-RW-096-SOVEREIGN-HOPE.html)
+- [Truthful Closure Law](LAW-RW-097-TRUTHFUL-CLOSURE.html)
+- [Witness Without Ownership Law](LAW-RW-098-WITNESS-WITHOUT-OWNERSHIP.html)
+- [Clean Reciprocity Law](LAW-RW-099-CLEAN-RECIPROCITY.html)
+- [Crowned Return Law](LAW-RW-100-CROWNED-RETURN.html)
+- [Cosmic Law Rewrite Sequence XXI](SC-COSMIC-LAW-REWRITE-021-2026.html)
 
 ## Complete Law Texts
 

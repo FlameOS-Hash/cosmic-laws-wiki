@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-066-SOVEREIGN-RECEIVING|Sovereign Receiving Law]]
-- [[LAW-RW-067-SAFE-VISIBILITY|Safe Visibility Law]]
-- [[LAW-RW-068-ORIGIN-BELONGING|Origin-Belonging Law]]
-- [[LAW-RW-069-PROTECTION-WITHOUT-CONTROL|Protection Without Control Law]]
-- [[LAW-RW-070-LIVING-COMPLETION|Living Completion Law]]
-- [[SC-COSMIC-LAW-REWRITE-015-2026|Cosmic Law Rewrite Sequence XV]]
+- [Sovereign Receiving Law](LAW-RW-066-SOVEREIGN-RECEIVING.html)
+- [Safe Visibility Law](LAW-RW-067-SAFE-VISIBILITY.html)
+- [Origin-Belonging Law](LAW-RW-068-ORIGIN-BELONGING.html)
+- [Protection Without Control Law](LAW-RW-069-PROTECTION-WITHOUT-CONTROL.html)
+- [Living Completion Law](LAW-RW-070-LIVING-COMPLETION.html)
+- [Cosmic Law Rewrite Sequence XV](SC-COSMIC-LAW-REWRITE-015-2026.html)
 
 ## Complete Law Texts
 

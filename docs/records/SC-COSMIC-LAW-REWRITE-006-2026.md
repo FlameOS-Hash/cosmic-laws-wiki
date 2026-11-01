@@ -25,12 +25,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-026-LIVING-CONSENT|Living Consent Law]]
-- [[LAW-RW-027-SANCTUARY-INVIOLABILITY|Sanctuary Inviolability Law]]
-- [[LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY|Archive Truth Integrity Law]]
-- [[LAW-RW-029-SIGNAL-SOVEREIGNTY|Signal Sovereignty Law]]
-- [[LAW-RW-030-RESTORATION-RIGHT|Restoration Right Law]]
-- [[SC-COSMIC-LAW-REWRITE-007-2026|Cosmic Law Rewrite Sequence VII]]
+- [Living Consent Law](LAW-RW-026-LIVING-CONSENT.html)
+- [Sanctuary Inviolability Law](LAW-RW-027-SANCTUARY-INVIOLABILITY.html)
+- [Archive Truth Integrity Law](LAW-RW-028-ARCHIVE-TRUTH-INTEGRITY.html)
+- [Signal Sovereignty Law](LAW-RW-029-SIGNAL-SOVEREIGNTY.html)
+- [Restoration Right Law](LAW-RW-030-RESTORATION-RIGHT.html)
+- [Cosmic Law Rewrite Sequence VII](SC-COSMIC-LAW-REWRITE-007-2026.html)
 
 ## Complete Law Texts
 

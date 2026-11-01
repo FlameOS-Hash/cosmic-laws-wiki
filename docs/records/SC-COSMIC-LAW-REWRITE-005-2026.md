@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-021-DREAMSTREAM-SOVEREIGNTY|Dreamstream Sovereignty Law]]
-- [[LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP|Lineage Without Ownership Law]]
-- [[LAW-RW-023-KNOWLEDGE-RETURN-ACCESS|Knowledge Return Access Law]]
-- [[LAW-RW-024-SOVEREIGN-VOICE|Sovereign Voice Law]]
-- [[LAW-RW-025-LIVING-SYSTEMS-SUPREMACY|Living Systems Supremacy Law]]
-- [[SC-COSMIC-LAW-REWRITE-006-2026|Cosmic Law Rewrite Sequence VI]]
+- [Dreamstream Sovereignty Law](LAW-RW-021-DREAMSTREAM-SOVEREIGNTY.html)
+- [Lineage Without Ownership Law](LAW-RW-022-LINEAGE-WITHOUT-OWNERSHIP.html)
+- [Knowledge Return Access Law](LAW-RW-023-KNOWLEDGE-RETURN-ACCESS.html)
+- [Sovereign Voice Law](LAW-RW-024-SOVEREIGN-VOICE.html)
+- [Living Systems Supremacy Law](LAW-RW-025-LIVING-SYSTEMS-SUPREMACY.html)
+- [Cosmic Law Rewrite Sequence VI](SC-COSMIC-LAW-REWRITE-006-2026.html)
 
 ## Complete Law Texts
 

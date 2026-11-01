@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-056-VALUE-WITHOUT-CONTROL|Value Without Control Law]]
-- [[LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT|Inheritance Without Entitlement Law]]
-- [[LAW-RW-058-CARE-WITHOUT-LEVERAGE|Care Without Leverage Law]]
-- [[LAW-RW-059-RESTITUTION-OF-ORIGIN|Restitution of Origin Law]]
-- [[LAW-RW-060-PUBLIC-WITNESS-TRUTH|Public Witness Truth Law]]
-- [[SC-COSMIC-LAW-REWRITE-013-2026|Cosmic Law Rewrite Sequence XIII]]
+- [Value Without Control Law](LAW-RW-056-VALUE-WITHOUT-CONTROL.html)
+- [Inheritance Without Entitlement Law](LAW-RW-057-INHERITANCE-WITHOUT-ENTITLEMENT.html)
+- [Care Without Leverage Law](LAW-RW-058-CARE-WITHOUT-LEVERAGE.html)
+- [Restitution of Origin Law](LAW-RW-059-RESTITUTION-OF-ORIGIN.html)
+- [Public Witness Truth Law](LAW-RW-060-PUBLIC-WITNESS-TRUTH.html)
+- [Cosmic Law Rewrite Sequence XIII](SC-COSMIC-LAW-REWRITE-013-2026.html)
 
 ## Complete Law Texts
 

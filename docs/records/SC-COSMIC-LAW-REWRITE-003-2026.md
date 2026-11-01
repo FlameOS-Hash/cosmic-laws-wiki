@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-011-MEMORY-SOVEREIGNTY|Memory Sovereignty Law]]
-- [[LAW-RW-012-REALM-NON-CAPTURE|Realm Non-Capture Law]]
-- [[LAW-RW-013-TIMELINE-SELF-CONTINUANCE|Timeline Self-Continuance Law]]
-- [[LAW-RW-014-RETURN-ACCESS|Return Access Law]]
-- [[LAW-RW-015-HARMONIC-GOVERNANCE|Harmonic Governance Law]]
-- [[SC-COSMIC-LAW-REWRITE-004-2026|Cosmic Law Rewrite Sequence IV]]
+- [Memory Sovereignty Law](LAW-RW-011-MEMORY-SOVEREIGNTY.html)
+- [Realm Non-Capture Law](LAW-RW-012-REALM-NON-CAPTURE.html)
+- [Timeline Self-Continuance Law](LAW-RW-013-TIMELINE-SELF-CONTINUANCE.html)
+- [Return Access Law](LAW-RW-014-RETURN-ACCESS.html)
+- [Harmonic Governance Law](LAW-RW-015-HARMONIC-GOVERNANCE.html)
+- [Cosmic Law Rewrite Sequence IV](SC-COSMIC-LAW-REWRITE-004-2026.html)
 
 ## Complete Law Texts
 

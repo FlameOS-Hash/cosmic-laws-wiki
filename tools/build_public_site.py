@@ -72,6 +72,84 @@ def yaml_quote(value):
     return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+def linkify_sequence_records(text, valid_record_stems, source_name):
+    """
+    Convert only the existing wikilinks inside
+    'Records in This Sequence' into generated-site links.
+
+    Canonical source text is never modified.
+    """
+
+    m = re.search(
+        r"^##\s+Records in This Sequence\s*$",
+        text,
+        re.MULTILINE | re.IGNORECASE,
+    )
+
+    if not m:
+        fail(
+            f"{source_name}: missing "
+            "'Records in This Sequence' section"
+        )
+
+    start = m.end()
+
+    nxt = re.search(
+        r"^##\s+.+$",
+        text[start:],
+        re.MULTILINE,
+    )
+
+    end = (
+        start + nxt.start()
+        if nxt
+        else len(text)
+    )
+
+    section = text[start:end]
+
+    wikilink_re = re.compile(
+        r"\[\["
+        r"([A-Za-z0-9._-]+)"
+        r"(?:\|([^\]]+))?"
+        r"\]\]"
+    )
+
+    link_count = 0
+
+    def replace_link(match):
+        nonlocal link_count
+
+        target = match.group(1)
+        label = match.group(2) or target
+
+        if target not in valid_record_stems:
+            fail(
+                f"{source_name}: unresolved public "
+                f"record link {target}"
+            )
+
+        link_count += 1
+
+        return f"[{label}]({target}.html)"
+
+    transformed = wikilink_re.sub(
+        replace_link,
+        section,
+    )
+
+    if link_count == 0:
+        fail(
+            f"{source_name}: no internal links found "
+            "in 'Records in This Sequence'"
+        )
+
+    return (
+        text[:start] + transformed + text[end:],
+        link_count,
+    )
+
+
 if not SOURCE.is_dir():
     fail(f"missing source directory: {SOURCE}")
 
@@ -79,6 +157,12 @@ sources = sorted(SOURCE.glob("*.md"))
 
 if len(sources) != 172:
     fail(f"expected 172 source pages; found {len(sources)}")
+
+valid_record_stems = {
+    src.stem
+    for src in sources
+    if src.name != "index.md"
+}
 
 law_sources = sorted(
     [src for src in sources if LAW_RE.match(src.name)],
@@ -103,6 +187,7 @@ for i, src in enumerate(law_sources):
 laws = []
 sequences = []
 search_records = []
+sequence_internal_link_count = 0
 
 tmp = Path(
     tempfile.mkdtemp(
@@ -133,6 +218,19 @@ try:
         summary = extract_summary(text)
 
         law_match = LAW_RE.match(src.name)
+
+        public_text = text
+
+        if SEQ_RE.match(src.name):
+            public_text, added_links = (
+                linkify_sequence_records(
+                    text,
+                    valid_record_stems,
+                    src.name,
+                )
+            )
+
+            sequence_internal_link_count += added_links
 
         fm = [
             "---",
@@ -194,7 +292,7 @@ try:
 
         target = records_dir / src.name
         target.write_text(
-            frontmatter + text,
+            frontmatter + public_text,
             encoding="utf-8",
         )
 
@@ -572,7 +670,11 @@ exclude:
 layout: default
 ---
 <div class="record-nav">
-  <a href="{{ '/laws.html' | relative_url }}">← 144 Cosmic Laws</a>
+  {% if page.record_kind == "sequence" %}
+    <a href="{{ '/' | relative_url }}#sequences">← Rewrite Sequences</a>
+  {% else %}
+    <a href="{{ '/laws.html' | relative_url }}">← 144 Cosmic Laws</a>
+  {% endif %}
   <a href="{{ '/search.html' | relative_url }}">Search</a>
 </div>
 
@@ -1149,6 +1251,10 @@ code {
     print("Public law pages:           144")
     print("Sequence/final pages:        27")
     print("Search index:                YES")
+    print(
+        "Sequence internal links:     "
+        f"{sequence_internal_link_count}"
+    )
     print("LLM used:                    NO")
     print("Canonical files modified:    NO")
     print(f"Output: {OUTPUT}")

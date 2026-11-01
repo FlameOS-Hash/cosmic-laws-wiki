@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-081-DESCENT-WITHOUT-EXILE|Descent Without Exile Law]]
-- [[LAW-RW-082-SOURCE-TRUE-TRANSLATION|Source-True Translation Law]]
-- [[LAW-RW-083-SOVEREIGN-THRESHOLD|Sovereign Threshold Law]]
-- [[LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION|Integration Without Assimilation Law]]
-- [[LAW-RW-085-SOVEREIGN-CONTINUITY|Sovereign Continuity Law]]
-- [[SC-COSMIC-LAW-REWRITE-018-2026|Cosmic Law Rewrite Sequence XVIII]]
+- [Descent Without Exile Law](LAW-RW-081-DESCENT-WITHOUT-EXILE.html)
+- [Source-True Translation Law](LAW-RW-082-SOURCE-TRUE-TRANSLATION.html)
+- [Sovereign Threshold Law](LAW-RW-083-SOVEREIGN-THRESHOLD.html)
+- [Integration Without Assimilation Law](LAW-RW-084-INTEGRATION-WITHOUT-ASSIMILATION.html)
+- [Sovereign Continuity Law](LAW-RW-085-SOVEREIGN-CONTINUITY.html)
+- [Cosmic Law Rewrite Sequence XVIII](SC-COSMIC-LAW-REWRITE-018-2026.html)
 
 ## Complete Law Texts
 

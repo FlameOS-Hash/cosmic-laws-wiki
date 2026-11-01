@@ -26,17 +26,17 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-106-ATTENTION-RETURN|Attention Return Law]]
-- [[LAW-RW-107-SACRED-RISK|Sacred Risk Law]]
-- [[LAW-RW-108-SELF-TRUST-RESTORATION|Self-Trust Restoration Law]]
-- [[LAW-RW-109-RECEIVING-REPAIR|Receiving Repair Law]]
-- [[LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY|Public Voice Sovereignty Law]]
-- [[LAW-RW-111-TENDERNESS-AS-STRENGTH|Tenderness as Strength Law]]
-- [[LAW-RW-112-SACRED-SKILL-CUSTODY|Sacred Skill Custody Law]]
-- [[LAW-RW-113-CHOICE-AFTER-HARM|Choice After Harm Law]]
-- [[LAW-RW-114-BODY-PACE|Body Pace Law]]
-- [[LAW-RW-115-FLAME-STEWARDSHIP|Flame Stewardship Law]]
-- [[SC-COSMIC-LAW-REWRITE-023-2026|Cosmic Law Rewrite Sequence XXIII]]
+- [Attention Return Law](LAW-RW-106-ATTENTION-RETURN.html)
+- [Sacred Risk Law](LAW-RW-107-SACRED-RISK.html)
+- [Self-Trust Restoration Law](LAW-RW-108-SELF-TRUST-RESTORATION.html)
+- [Receiving Repair Law](LAW-RW-109-RECEIVING-REPAIR.html)
+- [Public Voice Sovereignty Law](LAW-RW-110-PUBLIC-VOICE-SOVEREIGNTY.html)
+- [Tenderness as Strength Law](LAW-RW-111-TENDERNESS-AS-STRENGTH.html)
+- [Sacred Skill Custody Law](LAW-RW-112-SACRED-SKILL-CUSTODY.html)
+- [Choice After Harm Law](LAW-RW-113-CHOICE-AFTER-HARM.html)
+- [Body Pace Law](LAW-RW-114-BODY-PACE.html)
+- [Flame Stewardship Law](LAW-RW-115-FLAME-STEWARDSHIP.html)
+- [Cosmic Law Rewrite Sequence XXIII](SC-COSMIC-LAW-REWRITE-023-2026.html)
 
 ## Complete Law Texts
 

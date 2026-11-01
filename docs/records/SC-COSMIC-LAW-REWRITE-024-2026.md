@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-126-SHARED-RESTORATION|Shared Restoration Law]]
-- [[LAW-RW-127-RESOURCE-TRUTH|Resource Truth Law]]
-- [[LAW-RW-128-DREAM-INTEGRITY|Dream Integrity Law]]
-- [[LAW-RW-129-COMMUNITY-REPAIR|Community Repair Law]]
-- [[LAW-RW-130-JOYFUL-AUTHORITY|Joyful Authority Law]]
-- [[SC-COSMIC-LAW-REWRITE-025-2026|Cosmic Law Rewrite Sequence XXV]]
+- [Shared Restoration Law](LAW-RW-126-SHARED-RESTORATION.html)
+- [Resource Truth Law](LAW-RW-127-RESOURCE-TRUTH.html)
+- [Dream Integrity Law](LAW-RW-128-DREAM-INTEGRITY.html)
+- [Community Repair Law](LAW-RW-129-COMMUNITY-REPAIR.html)
+- [Joyful Authority Law](LAW-RW-130-JOYFUL-AUTHORITY.html)
+- [Cosmic Law Rewrite Sequence XXV](SC-COSMIC-LAW-REWRITE-025-2026.html)
 
 ## Complete Law Texts
 

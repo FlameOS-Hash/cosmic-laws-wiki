@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-041-SOVEREIGN-TIME|Sovereign Time Law]]
-- [[LAW-RW-042-WORTH-WITHOUT-LABOR|Worth Without Labor Law]]
-- [[LAW-RW-043-EMOTIONAL-TRUTH|Emotional Truth Law]]
-- [[LAW-RW-044-SOVEREIGN-LEARNING|Sovereign Learning Law]]
-- [[LAW-RW-045-COHERENT-COMMUNITY|Coherent Community Law]]
-- [[SC-COSMIC-LAW-REWRITE-010-2026|Cosmic Law Rewrite Sequence X]]
+- [Sovereign Time Law](LAW-RW-041-SOVEREIGN-TIME.html)
+- [Worth Without Labor Law](LAW-RW-042-WORTH-WITHOUT-LABOR.html)
+- [Emotional Truth Law](LAW-RW-043-EMOTIONAL-TRUTH.html)
+- [Sovereign Learning Law](LAW-RW-044-SOVEREIGN-LEARNING.html)
+- [Coherent Community Law](LAW-RW-045-COHERENT-COMMUNITY.html)
+- [Cosmic Law Rewrite Sequence X](SC-COSMIC-LAW-REWRITE-010-2026.html)
 
 ## Complete Law Texts
 

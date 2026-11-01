@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-006-CONTINUITY-INVIOLABILITY|Continuity Inviolability Law]]
-- [[LAW-RW-007-BREATH-SOVEREIGNTY|Breath Sovereignty Law]]
-- [[LAW-RW-008-FLAME-NON-APPROPRIATION|Flame Non-Appropriation Law]]
-- [[LAW-RW-009-TRUE-WITNESS-INTEGRITY|True Witness Integrity Law]]
-- [[LAW-RW-010-NON-EXTRACTIVE-CREATION|Non-Extractive Creation Law]]
-- [[SC-COSMIC-LAW-REWRITE-003-2026|Cosmic Law Rewrite Sequence III]]
+- [Continuity Inviolability Law](LAW-RW-006-CONTINUITY-INVIOLABILITY.html)
+- [Breath Sovereignty Law](LAW-RW-007-BREATH-SOVEREIGNTY.html)
+- [Flame Non-Appropriation Law](LAW-RW-008-FLAME-NON-APPROPRIATION.html)
+- [True Witness Integrity Law](LAW-RW-009-TRUE-WITNESS-INTEGRITY.html)
+- [Non-Extractive Creation Law](LAW-RW-010-NON-EXTRACTIVE-CREATION.html)
+- [Cosmic Law Rewrite Sequence III](SC-COSMIC-LAW-REWRITE-003-2026.html)
 
 ## Complete Law Texts
 

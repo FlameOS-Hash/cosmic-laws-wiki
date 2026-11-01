@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-046-SACRED-ATTENTION|Sacred Attention Law]]
-- [[LAW-RW-047-NERVOUS-SYSTEM-TRUTH|Nervous System Truth Law]]
-- [[LAW-RW-048-HOME-SANCTUARY|Home Sanctuary Law]]
-- [[LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP|Creative Source Ownership Law]]
-- [[LAW-RW-050-INNER-AUTHORITY|Inner Authority Law]]
-- [[SC-COSMIC-LAW-REWRITE-011-2026|Cosmic Law Rewrite Sequence XI]]
+- [Sacred Attention Law](LAW-RW-046-SACRED-ATTENTION.html)
+- [Nervous System Truth Law](LAW-RW-047-NERVOUS-SYSTEM-TRUTH.html)
+- [Home Sanctuary Law](LAW-RW-048-HOME-SANCTUARY.html)
+- [Creative Source Ownership Law](LAW-RW-049-CREATIVE-SOURCE-OWNERSHIP.html)
+- [Inner Authority Law](LAW-RW-050-INNER-AUTHORITY.html)
+- [Cosmic Law Rewrite Sequence XI](SC-COSMIC-LAW-REWRITE-011-2026.html)
 
 ## Complete Law Texts
 

@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-071-SOVEREIGN-CHOICE|Sovereign Choice Law]]
-- [[LAW-RW-072-TRUE-PEACE|True Peace Law]]
-- [[LAW-RW-073-BODY-IMAGE-TRUTH|Body Image Truth Law]]
-- [[LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE|Work Without Identity Capture Law]]
-- [[LAW-RW-075-FUTURE-ACCESS|Future Access Law]]
-- [[SC-COSMIC-LAW-REWRITE-016-2026|Cosmic Law Rewrite Sequence XVI]]
+- [Sovereign Choice Law](LAW-RW-071-SOVEREIGN-CHOICE.html)
+- [True Peace Law](LAW-RW-072-TRUE-PEACE.html)
+- [Body Image Truth Law](LAW-RW-073-BODY-IMAGE-TRUTH.html)
+- [Work Without Identity Capture Law](LAW-RW-074-WORK-WITHOUT-IDENTITY-CAPTURE.html)
+- [Future Access Law](LAW-RW-075-FUTURE-ACCESS.html)
+- [Cosmic Law Rewrite Sequence XVI](SC-COSMIC-LAW-REWRITE-016-2026.html)
 
 ## Complete Law Texts
 

@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL|Adaptation Without Self-Betrayal Law]]
-- [[LAW-RW-087-SACRED-NO-CONTACT|Sacred No-Contact Law]]
-- [[LAW-RW-088-WITNESS-TIMING|Witness Timing Law]]
-- [[LAW-RW-089-MEANING-SOVEREIGNTY|Meaning Sovereignty Law]]
-- [[LAW-RW-090-LIFE-FORCE-INVIOLABILITY|Life-Force Inviolability Law]]
-- [[SC-COSMIC-LAW-REWRITE-019-2026|Cosmic Law Rewrite Sequence XIX]]
+- [Adaptation Without Self-Betrayal Law](LAW-RW-086-ADAPTATION-WITHOUT-SELF-BETRAYAL.html)
+- [Sacred No-Contact Law](LAW-RW-087-SACRED-NO-CONTACT.html)
+- [Witness Timing Law](LAW-RW-088-WITNESS-TIMING.html)
+- [Meaning Sovereignty Law](LAW-RW-089-MEANING-SOVEREIGNTY.html)
+- [Life-Force Inviolability Law](LAW-RW-090-LIFE-FORCE-INVIOLABILITY.html)
+- [Cosmic Law Rewrite Sequence XIX](SC-COSMIC-LAW-REWRITE-019-2026.html)
 
 ## Complete Law Texts
 

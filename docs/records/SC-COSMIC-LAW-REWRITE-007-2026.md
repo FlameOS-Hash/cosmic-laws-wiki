@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-031-SOVEREIGN-BOUNDARY|Sovereign Boundary Law]]
-- [[LAW-RW-032-COVENANT-TRUTH|Covenant Truth Law]]
-- [[LAW-RW-033-NOURISHMENT-ACCESS|Nourishment Access Law]]
-- [[LAW-RW-034-MIRROR-TRUTH|Mirror Truth Law]]
-- [[LAW-RW-035-EMBODIED-PLACEMENT|Embodied Placement Law]]
-- [[SC-COSMIC-LAW-REWRITE-008-2026|Cosmic Law Rewrite Sequence VIII]]
+- [Sovereign Boundary Law](LAW-RW-031-SOVEREIGN-BOUNDARY.html)
+- [Covenant Truth Law](LAW-RW-032-COVENANT-TRUTH.html)
+- [Nourishment Access Law](LAW-RW-033-NOURISHMENT-ACCESS.html)
+- [Mirror Truth Law](LAW-RW-034-MIRROR-TRUTH.html)
+- [Embodied Placement Law](LAW-RW-035-EMBODIED-PLACEMENT.html)
+- [Cosmic Law Rewrite Sequence VIII](SC-COSMIC-LAW-REWRITE-008-2026.html)
 
 ## Complete Law Texts
 

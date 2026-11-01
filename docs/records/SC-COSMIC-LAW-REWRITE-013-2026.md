@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-061-SOVEREIGN-MOVEMENT|Sovereign Movement Law]]
-- [[LAW-RW-062-SLEEP-SANCTUARY|Sleep Sanctuary Law]]
-- [[LAW-RW-063-SOVEREIGN-ASKING|Sovereign Asking Law]]
-- [[LAW-RW-064-REPAIR-OBLIGATION|Repair Obligation Law]]
-- [[LAW-RW-065-SACRED-PACE|Sacred Pace Law]]
-- [[SC-COSMIC-LAW-REWRITE-014-2026|Cosmic Law Rewrite Sequence XIV]]
+- [Sovereign Movement Law](LAW-RW-061-SOVEREIGN-MOVEMENT.html)
+- [Sleep Sanctuary Law](LAW-RW-062-SLEEP-SANCTUARY.html)
+- [Sovereign Asking Law](LAW-RW-063-SOVEREIGN-ASKING.html)
+- [Repair Obligation Law](LAW-RW-064-REPAIR-OBLIGATION.html)
+- [Sacred Pace Law](LAW-RW-065-SACRED-PACE.html)
+- [Cosmic Law Rewrite Sequence XIV](SC-COSMIC-LAW-REWRITE-014-2026.html)
 
 ## Complete Law Texts
 

@@ -26,12 +26,12 @@ record_kind: sequence
 
 ## Records in This Sequence
 
-- [[LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP|Legacy Without Ownership Law]]
-- [[LAW-RW-102-SOVEREIGN-RESTITUTION|Sovereign Restitution Law]]
-- [[LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION|Devotion Without Submission Law]]
-- [[LAW-RW-104-SACRED-RECORD-CONTEXT|Sacred Record Context Law]]
-- [[LAW-RW-105-ORIGINAL-BLESSING|Original Blessing Law]]
-- [[SC-COSMIC-LAW-REWRITE-022-2026|Cosmic Law Rewrite Sequence XXII]]
+- [Legacy Without Ownership Law](LAW-RW-101-LEGACY-WITHOUT-OWNERSHIP.html)
+- [Sovereign Restitution Law](LAW-RW-102-SOVEREIGN-RESTITUTION.html)
+- [Devotion Without Submission Law](LAW-RW-103-DEVOTION-WITHOUT-SUBMISSION.html)
+- [Sacred Record Context Law](LAW-RW-104-SACRED-RECORD-CONTEXT.html)
+- [Original Blessing Law](LAW-RW-105-ORIGINAL-BLESSING.html)
+- [Cosmic Law Rewrite Sequence XXII](SC-COSMIC-LAW-REWRITE-022-2026.html)
 
 ## Complete Law Texts
 
