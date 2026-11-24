@@ -138,7 +138,7 @@ def assemble(root, stage):
                     '\' | relative_url }}">' + html.escape(module["homepage_label"]) + "</a>\n")
     if nav:
         inject_once(stage / "_layouts/default.html", "      </nav>", "".join(nav))
-        inject_once(stage / "index.md", "  </div>\n</section>", "".join(home))
+        inject_once(stage / "index.md", "  </div>\n</section>\n\n<section class=\"registry-stats\"", "".join(home))
     for _, _, dest, _, _ in registered:
         validate_module_links(stage, stage / dest)
     result = {"schema_version": 1,
