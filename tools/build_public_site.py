@@ -9,6 +9,10 @@ import shutil
 import sys
 import tempfile
 
+from publication_engine import assemble, promote, parse_options
+
+OPTIONS = parse_options()
+
 ROOT = Path(
     os.environ.get("COSMIC_WIKI", Path.cwd())
 ).resolve()
@@ -460,7 +464,6 @@ try:
             '    <a class="button" '
             'href="laws.html">Browse All 144 Laws</a>'
         ),
-        '    <a class="button" href="gateway/">Enter the Living Reception Gateway</a>',
         "  </div>",
         "</section>",
         "",
@@ -648,7 +651,6 @@ exclude:
         <a href="{{ '/laws.html' | relative_url }}">144 Laws</a>
         <a href="{{ '/' | relative_url }}#sequences">Sequences</a>
         <a href="{{ '/search.html' | relative_url }}">Search</a>
-        <a href="{{ '/gateway/' | relative_url }}">Living Gateway</a>
       </nav>
     </div>
   </header>
@@ -1234,25 +1236,8 @@ code {
         encoding="utf-8",
     )
 
-    # Gateway is authored separately from canonical law records.
-    gateway_source = ROOT / "gateway_source"
-    if not (gateway_source / "index.html").is_file():
-        fail("Missing gateway_source/index.html; refusing to erase Gateway")
-    shutil.copytree(gateway_source, tmp / "gateway")
-
-    # Replace only a previously generated docs directory.
-    if OUTPUT.exists():
-        marker = OUTPUT / ".cosmic-laws-derived"
-
-        if not marker.exists():
-            fail(
-                "docs/ already exists but is not marked as "
-                "a generated Cosmic Laws site"
-            )
-
-        shutil.rmtree(OUTPUT)
-
-    shutil.move(str(tmp), str(OUTPUT))
+    assemble(ROOT, tmp)
+    promote(ROOT, OUTPUT, tmp, check=OPTIONS.check)
 
     print("===== PUBLIC SITE BUILD COMPLETE =====")
     print("Authoritative source pages: 172")
@@ -1267,7 +1252,6 @@ code {
     print("Canonical files modified:    NO")
     print(f"Output: {OUTPUT}")
 
-except Exception:
+finally:
     if tmp.exists():
         shutil.rmtree(tmp, ignore_errors=True)
-    raise
