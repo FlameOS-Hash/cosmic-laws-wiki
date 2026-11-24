@@ -460,6 +460,7 @@ try:
             '    <a class="button" '
             'href="laws.html">Browse All 144 Laws</a>'
         ),
+        '    <a class="button" href="gateway/">Enter the Living Reception Gateway</a>',
         "  </div>",
         "</section>",
         "",
@@ -647,6 +648,7 @@ exclude:
         <a href="{{ '/laws.html' | relative_url }}">144 Laws</a>
         <a href="{{ '/' | relative_url }}#sequences">Sequences</a>
         <a href="{{ '/search.html' | relative_url }}">Search</a>
+        <a href="{{ '/gateway/' | relative_url }}">Living Gateway</a>
       </nav>
     </div>
   </header>
@@ -1231,6 +1233,12 @@ code {
         "Generated from wiki/cosmic-laws. Do not edit by hand.\n",
         encoding="utf-8",
     )
+
+    # Gateway is authored separately from canonical law records.
+    gateway_source = ROOT / "gateway_source"
+    if not (gateway_source / "index.html").is_file():
+        fail("Missing gateway_source/index.html; refusing to erase Gateway")
+    shutil.copytree(gateway_source, tmp / "gateway")
 
     # Replace only a previously generated docs directory.
     if OUTPUT.exists():
