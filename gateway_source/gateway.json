@@ -1,0 +1,61 @@
+{
+  "id": "LRG-144",
+  "specification": "SC-COSMIC-LAW-LIVING-RECEPTION-GATEWAY-001-2026",
+  "version": "0.1.0",
+  "canonical_policy": "read-only; application materials are separate",
+  "law_index": "../laws.html",
+  "law_reference_csv": "law-index.csv",
+  "participation": "voluntary",
+  "submission_service": false,
+  "chambers": [
+    {
+      "id": "LRG-001",
+      "title": "Reception",
+      "anchor": "#reception",
+      "description": "Access the original registry. Read the laws in sequence or search for a particular law.",
+      "suggested_action": "Read a law and record its exact reference."
+    },
+    {
+      "id": "LRG-002",
+      "title": "Comprehension",
+      "anchor": "#comprehension",
+      "description": "Study the original text and keep personal reflections separate from it.",
+      "suggested_action": "Write a question or reflection using the law ID as a reference."
+    },
+    {
+      "id": "LRG-003",
+      "title": "Embodiment",
+      "anchor": "#embodiment",
+      "description": "Explore voluntary applications in daily life, creative work and relationships.",
+      "suggested_action": "Choose one practical action that respects the autonomy of others."
+    },
+    {
+      "id": "LRG-004",
+      "title": "Reciprocity",
+      "anchor": "#reciprocity",
+      "description": "Explore fair exchange, attribution and transparent recognition of contributions.",
+      "suggested_action": "Describe a contribution, its attribution and proposed terms of exchange."
+    },
+    {
+      "id": "LRG-005",
+      "title": "Restoration",
+      "anchor": "#restoration",
+      "description": "Develop practical projects supporting water, soil, air and biodiversity.",
+      "suggested_action": "Choose a local restoration goal and an observable outcome."
+    },
+    {
+      "id": "LRG-006",
+      "title": "Sovereign Creation",
+      "anchor": "#creation",
+      "description": "Develop independent tools, creative works and transparent knowledge systems.",
+      "suggested_action": "Outline a project, its source references and permissions."
+    },
+    {
+      "id": "LRG-007",
+      "title": "Living Integration",
+      "anchor": "#integration",
+      "description": "Bring projects and reflections together through voluntary collaboration.",
+      "suggested_action": "Review the outcome of a project and document what can be improved."
+    }
+  ]
+}
