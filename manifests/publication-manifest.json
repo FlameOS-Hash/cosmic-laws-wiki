@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "modules": [
+    {
+      "id": "living-reception-gateway",
+      "source": "gateway_source",
+      "destination": "gateway",
+      "entrypoint": "index.html",
+      "navigation_label": "Living Gateway",
+      "homepage_label": "Enter the Living Reception Gateway"
+    }
+  ]
+}

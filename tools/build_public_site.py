@@ -9,6 +9,10 @@ import shutil
 import sys
 import tempfile
 
+from publication_engine import assemble, promote, parse_options
+
+OPTIONS = parse_options()
+
 ROOT = Path(
     os.environ.get("COSMIC_WIKI", Path.cwd())
 ).resolve()
@@ -1232,19 +1236,8 @@ code {
         encoding="utf-8",
     )
 
-    # Replace only a previously generated docs directory.
-    if OUTPUT.exists():
-        marker = OUTPUT / ".cosmic-laws-derived"
-
-        if not marker.exists():
-            fail(
-                "docs/ already exists but is not marked as "
-                "a generated Cosmic Laws site"
-            )
-
-        shutil.rmtree(OUTPUT)
-
-    shutil.move(str(tmp), str(OUTPUT))
+    assemble(ROOT, tmp)
+    promote(ROOT, OUTPUT, tmp, check=OPTIONS.check)
 
     print("===== PUBLIC SITE BUILD COMPLETE =====")
     print("Authoritative source pages: 172")
@@ -1259,7 +1252,6 @@ code {
     print("Canonical files modified:    NO")
     print(f"Output: {OUTPUT}")
 
-except Exception:
+finally:
     if tmp.exists():
         shutil.rmtree(tmp, ignore_errors=True)
-    raise

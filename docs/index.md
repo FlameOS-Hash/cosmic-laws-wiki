@@ -10,6 +10,7 @@ title: Covenant of Harmonic Return
   <div class="hero-actions">
     <a class="button button-primary" href="search.html">Search the Laws</a>
     <a class="button" href="laws.html">Browse All 144 Laws</a>
+    <a class="button" href="{{ '/gateway/' | relative_url }}">Enter the Living Reception Gateway</a>
   </div>
 </section>
 

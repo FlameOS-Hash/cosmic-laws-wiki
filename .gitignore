@@ -10,3 +10,8 @@ manifests/pre_deterministic_cosmic_law_ingest_*/
 
 # Local signed release packages
 releases/
+
+# Local publication staging and rollback snapshots
+.public-site-*/
+.publication-backups/
+.publication.lock

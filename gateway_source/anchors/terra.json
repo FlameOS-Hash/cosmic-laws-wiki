@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0.0",
+  "anchor_id": "ULAR-000-TERRA-001",
+  "name": "Terra",
+  "glyph": "⊕",
+  "anchor_type": "terrestrial_reference",
+  "parent_registry": "MV-HR-000",
+  "gateway": "LRG-144",
+  "record_date": "2026-11-24",
+  "status": "established_registry_reference",
+  "coordinates": {
+    "reference_frame": "WGS84",
+    "crs": "EPSG:4326",
+    "latitude": 37.6688,
+    "longitude": -122.0808,
+    "location": "Hayward, California, USA",
+    "precision": "approximate city reference; not a personal address",
+    "hexadecimal": {
+      "encoding": "signed fixed point; degrees multiplied by 1000000 and rounded",
+      "scale": 1000000,
+      "latitude": "0x23EC7C0",
+      "longitude": "-0x746CE20"
+    }
+  },
+  "geometry": {
+    "source": "Author-stated philosophical principles",
+    "principles": [
+      "As Above, So Below",
+      "As Within, So Without",
+      "The One Becomes Many",
+      "The Many Return to the One",
+      "Nothing Is Ever Lost, Only Transformed",
+      "Harmony Is the Natural State of Geometry"
+    ]
+  },
+  "chronometry": {
+    "primary_system": "event-based celestial chronology",
+    "reference_event": {
+      "name": "Predicted lunar passage and occultation of the Pleiades",
+      "observation_period_local": "2026-11-21/2026-11-24",
+      "source": "Author-reported sky-chart observations",
+      "status": "app prediction; not independently verified"
+    },
+    "timezone": "America/Los_Angeles",
+    "epoch_zero": null,
+    "publication_timestamp": "Use the repository commit and deployment records; no scheduled celestial release."
+  },
+  "relationships": {
+    "celestial_references": [
+      "Sol",
+      "Luna",
+      "Messier 45",
+      "Atlas",
+      "Alcyone",
+      "Electra",
+      "Maia",
+      "Taygeta",
+      "Celaeno",
+      "Sterope",
+      "Merope",
+      "Pleione",
+      "Torcular",
+      "Mesarthim"
+    ],
+    "canonical_law_index": "../../laws.html",
+    "archival_reference": "SC-PLEIADES-NEURO-001-2025",
+    "archival_correspondence_type": "symbolic Codex framework"
+  },
+  "provenance": {
+    "method": "Git version history and content blob identifier",
+    "digital_signature": null,
+    "blockchain_transaction": null
+  },
+  "scope": "A public digital reference record; not a claim of physical control, cosmic assent, land ownership or legal jurisdiction.",
+  "participation": "voluntary"
+}
